@@ -1,0 +1,34 @@
+1
+373	528	508	0	0	0	50	894	1095	58	0	1	0	//Box of Kundun + 1
+374	529	508	0	0	0	100	895	1097	58	0	1	0	//Box of Kundun + 2
+375	530	508	0	0	0	150	896	1099	58	0	1	0	//Box of Kundun + 3
+376	531	508	0	0	0	200	897	1101	58	0	1	0	//Box of Kundun + 4
+377	532	508	0	0	0	250	898	1103	58	0	1	0	//Box of Kundun + 5
+378	533	508	0	0	0	50	899	1105	59	0	1	0	//Small Wings of Heaven
+379	534	508	0	0	0	50	900	1107	59	0	1	0	//Small Wings of Satan
+380	535	508	0	0	0	50	901	1109	59	0	1	0	//Small Wings of Elf
+381	536	508	0	0	0	50	902	1111	59	0	1	0	//Small Wings of Curse
+382	537	508	0	0	0	50	903	1113	59	0	1	0	//Small Cape of Lords
+383	538	508	0	0	0	50	904	1115	59	0	1	0	//Little Warriors Cloak
+384	539	508	0	0	0	25	905	1117	60	0	1	0	//Scroll of Evil Spirit
+385	540	508	0	0	0	25	906	1119	60	0	1	0	//Scroll of Soul Barrier
+386	541	508	0	0	0	25	907	1121	60	0	1	0	//Orb of Death Stab
+387	542	508	0	0	0	25	908	1123	60	0	1	0	//Orb of Swell Life
+388	543	508	0	0	0	25	909	1125	60	0	1	0	//Orb of Ice Arrow
+389	544	508	0	0	0	25	910	1127	60	0	1	0	//Crystal of Multi-Shot
+390	545	508	0	0	0	25	911	1129	60	0	1	0	//Orb of Fire Slash
+391	546	508	0	0	0	25	912	1131	60	0	1	0	//Scroll of Gigantic Storm
+392	547	508	0	0	0	25	913	1133	60	0	1	0	//Scroll of Summon
+393	548	508	0	0	0	25	914	1135	60	0	1	0	//Scroll of Fire Burst
+394	549	508	0	0	0	25	915	1137	60	0	1	0	//Dark Side Parchment
+395	550	508	0	0	0	25	916	1139	60	0	1	0	//Chain Drive Parchment
+396	551	508	0	0	0	25	917	1141	60	0	1	0	//Chain Lightning Parchment
+397	552	508	0	0	0	25	918	1143	60	0	1	0	//Lightning Shock Parchment
+398	553	508	0	0	0	1	919	1145	61	0	1	0	//Horn of Uniria
+399	554	508	0	0	0	1	920	1147	61	0	1	0	//Guardian Angel
+400	555	508	0	0	0	1	921	1149	61	0	1	0	//Imp
+401	556	508	0	0	0	40	922	1151	61	0	1	0	//20 x Splinter of Armor
+402	557	508	0	0	0	40	923	1153	61	0	1	0	//20 x Bless of Guardian
+403	558	508	0	0	0	20	924	1155	61	0	1	0	//Claw of Beast
+404	559	508	0	0	0	100	925	1157	61	0	1	0	//Dark Raven Spirit
+end

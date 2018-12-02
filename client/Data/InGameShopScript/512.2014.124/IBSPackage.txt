@@ -1,0 +1,32 @@
+58@1@528@Box of Kundun + 1@170@50@Drop on the ground   #to receive excelent    #or set items.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@894|@7179@2@1@1095|@0@508@669
+58@2@529@Box of Kundun + 2@170@100@Drop on the ground   #to receive excelent    #or set items.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@895|@7179@2@1@1097|@0@508@669
+58@3@530@Box of Kundun + 3@170@150@Drop on the ground   #to receive excelent    #or set items.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@896|@7179@2@1@1099|@0@508@669
+58@4@531@Box of Kundun + 4@170@200@Drop on the ground   #to receive excelent    #or set items.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@897|@7179@2@1@1101|@0@508@669
+58@5@532@Box of Kundun + 5@170@250@Drop on the ground   #to receive excelent    #or set items.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@898|@7179@2@1@1103|@0@508@669
+59@1@533@Small Wings of Heaven@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@899|@6277@2@1@1105|@0@508@669
+59@2@534@Small Wings of Satan@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@900|@6278@2@1@1107|@0@508@669
+59@3@535@Small Wings of Elf@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@901|@6276@2@1@1109|@0@508@669
+59@4@536@Small Wings of Curse@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@902|@6275@2@1@1111|@0@508@669
+59@5@537@Small Cape of Lords@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@903|@6274@2@1@1113|@0@508@669
+59@6@538@Little Warriors Cloak@170@50@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@904|@6279@2@1@1115|@0@508@669
+60@1@539@Scroll of Evil Spirit@170@25@Dark Wizard#Magic Gladiator@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@905|@7688@2@1@1117|@0@508@669
+60@2@540@Scroll of Soul Barrier@170@25@Dark Wizard@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@906|@7695@2@1@1119|@0@508@669
+60@3@541@Orb of Death Stab@170@25@Blade Knight@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@907|@6163@2@1@1121|@0@508@669
+60@4@542@Orb of Swell Life@170@25@Dark  Knight@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@908|@6158@2@1@1123|@0@508@669
+60@5@543@Orb of Ice Arrow@170@25@Elf@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@909|@6162@2@1@1125|@0@508@669
+60@6@544@Crystal of Multi-Shot@170@25@Elf@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@910|@6189@2@1@1127|@0@508@669
+60@7@545@Orb of Fire Slash@170@25@Magic Gladiator@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@911|@6160@2@1@1129|@0@508@669
+60@8@546@Scroll of Gigantic Storm@170@25@Magic Gladiator@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@912|@7709@2@1@1131|@0@508@669
+60@9@547@Scroll of Summon@170@25@Dark Lord@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@913|@6166@2@1@1133|@0@508@669
+60@10@548@Scroll of Fire Burst@170@25@Dark Lord@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@914|@6165@2@1@1135|@0@508@669
+60@2@549@Dark Side Parchment@170@25@Rage Fighter@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@915|@7711@2@1@1137|@0@508@669
+60@3@550@Chain Drive Parchment@170@25@Rage Fighter@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@916|@7710@2@1@1139|@0@508@669
+60@4@551@Chain Lightning Parchment@170@25@Summoner@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@917|@7699@2@1@1141|@0@508@669
+60@5@552@Lightning Shock Parchment@170@25@Summoner@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@918|@7701@2@1@1143|@0@508@669
+61@1@553@Horn of Uniria@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@919|@6658@2@1@1145|@0@508@669
+61@2@554@Guardian Angel@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@920|@6656@2@1@1147|@0@508@669
+61@3@555@Imp@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@921|@6657@2@1@1149|@0@508@669
+61@4@556@20 x Splinter of Armor@170@40@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@922|@6688@2@1@1151|@0@508@669
+61@5@557@20 x Bless of Guardian@170@40@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@923|@6689@2@1@1153|@0@508@669
+61@6@558@Claw of Beast@170@20@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@924|@6690@2@1@1155|@0@508@669
+61@7@559@Dark Raven Spirit@170@100@Dark Lord@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@925|@6687@2@1@1157|@0@508@669

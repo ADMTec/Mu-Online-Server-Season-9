@@ -1,0 +1,69 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//CategoryID	PackageID	ItemGroup	ItemIndex	PurchaseType	Price	UseType	Gift	NumbeOfProductID	ProductID	Comment
+31	106	14	11	0	50	1	0	1	1060	// Box of Kundun + 1
+end
+31	107	14	11	0	100	1	0	1	1070	// Box of Kundun + 2
+end
+31	108	14	11	0	150	1	0	1	1080	// Box of Kundun + 3
+end
+31	109	14	11	0	200	1	0	1	1090	// Box of Kundun + 4
+end
+31	110	14	11	0	250	1	0	1	1100	// Box of Kundun + 5
+end
+32	111	12	19	0	25	1	0	1	1110	// Orb of Death Stab
+end
+32	112	12	14	0	25	1	0	1	1120	// Orb of Swell Life
+end
+32	113	12	22	0	25	1	0	1	1130	// Scroll of Summon
+end
+32	114	12	21	0	25	1	0	1	1140	// Scroll of Fire Burst
+end
+32	115	15	31	0	25	1	0	1	1150	// Dark Side Parchment
+end
+32	116	15	30	0	25	1	0	1	1160	// Chain Drive Parchment
+end
+32	117	15	29	0	25	1	0	1	1170	// Scroll of Gigantic Storm
+end
+32	118	15	19	0	25	1	0	1	1180	// Chain Lightning Parchment
+end
+32	119	15	8	0	25	1	0	1	1190	// Scroll of Evil Spirit
+end
+32	120	15	15	0	25	1	0	1	1200	// Scroll of Soul Barrier
+end
+32	121	15	21	0	25	1	0	1	1210	// Lightning Shock Parchment
+end
+32	122	12	16	0	25	1	0	1	1220	// Orb of Fire Slash
+end
+32	123	12	18	0	25	1	0	1	1230	// Orb of Ice Arrow
+end
+32	124	12	45	0	25	1	0	1	1240	// Crystal of Multi-Shot
+end
+34	100	12	133	0	50	1	0	1	1000	// Small Wings of Heaven
+end
+34	101	12	134	0	50	1	0	1	1010	// Small Wings of Satan
+end
+34	102	12	131	0	50	1	0	1	1020	// Small Wing of Curse
+end
+34	103	12	132	0	50	1	0	1	1030	// Small Wings of Elf
+end
+34	104	12	130	0	50	1	0	1	1040	// Small Cape of Lord
+end
+34	105	12	135	0	50	1	0	1	1050	// Little Warrior's Cloak
+end
+35	125	13	2	0	1	1	0	1	1250	// Horn of Uniria
+end
+35	126	13	0	0	1	1	0	1	1260	// Guardian Angel
+end
+35	127	13	1	0	1	1	0	1	1270	// Imp
+end
+35	128	13	32	0	40	1	0	1	1280	// 20 x Splinter of Armor
+end
+35	129	13	33	0	40	1	0	1	1290	// 20 x Bless of Guardian
+end
+35	130	13	34	0	20	1	0	1	1300	// 10 x Claw of Beast
+end
+35	131	13	31	0	100	1	0	1	1310	// Dark Raven Spirit
+end

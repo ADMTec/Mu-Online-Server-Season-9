@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igc-network.com
+// == (C) 2010-2015 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN ShopCategory MuOnline Server files.
+// ============================================================
+//
+// ### CashItemList::Item ###
+//	GUID: First-higher available value in file, has no reference to other attributes
+//	iIndex: Value used to identity items between server and client, value is first-highest available value in file
+//	iSubIndex: Value used to identity items between server and client, value depends on CoinType configuration
+//		WCoin(C): 508
+//		WCoin(P): 509
+//		Goblin Point: 0
+//	OptionSelect: Value available for multi item type, otherwise 0, refers to ID attribute from IGC_CashItem_Info.xml, determines item and its option to add to store
+//	PackageID: A value of package the item is assigned to, refer to ID attribute from IGC_CashItem_Package.xml, 0 if item is not assigned to any package
+//	CoinType:
+//		0: WCoin(C) - WCoin for Season 8 and later
+//		1: WCoin(P) - available for Season 6 only
+//		2: Goblin Point
+//	CoinValue:	Value of coins the item can be purchased for, in other words a price for the item
+//	UniqueID1: Unique value for the item used to identify items between server and client, refers to GUID attribute from IGC_CashItem_Info.xml
+//	UniqueID2: Unique value for the item used to identify items between server and client, refers to ID attribute from IGC_CashItem_Info.xml
+//	ShopCategory: Value to define a category the item is located in, value is first-highest available value in file
+//	GPRewardValue: A value of Goblin Points to award with upon purchase of the item
+//	CanBuy: Defines whether the item can be purchased from store or not, 0/1
+//	RandomItemSelect: Used for packages only, defined whether rewarded item should be one and random from purchased package
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<CashItemList>
+	<Item GUID="373" iIndex="528" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="894" UniqueID2="1095" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+</CashItemList>

@@ -1,0 +1,11 @@
+[10:09:18] Initializing...
+[10:09:18] DataServer(e) version: 9.5.1.20 Compiled at: Nov  4 2018 16:14:39
+[10:09:18] ./IGC_AllowedIPList.xml File Loaded successfuly
+[10:09:18] IP Address 192.168.0.103 valid, no resolving required
+[10:09:18] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 27)
+[10:09:18] [DataServer] ItemCount: 0
+[10:09:18] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[10:09:18] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[10:09:18] [IOCP] Using normal functionality
+[10:09:18] [IOCP] ST_JOINSERVER Start! PORT [ 56770 ]
+[10:09:18] [IOCP] ST_DATASERVER Start! PORT [ 56760 ]

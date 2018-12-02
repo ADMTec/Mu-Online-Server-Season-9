@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igc-network.com
+// == (C) 2010-2015 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### CashItemPackage::Package ###
+//	GUID: Order value, same as ItemSequence, starting from 0
+//	ID: ID of package, unique per ItemSequence sequence value
+//	ItemSequence: Value defining sequence of items in package, starting from 0
+//	UniqueID1: An identifier of item to be added to specified package, refer to UniqueID1 attribute from IGC_CashItem_List.xml
+//	UniqueID2: An identifier of item to be added to specified package, refer to UniqueID2 attribute from IGC_CashItem_List.xml
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<CashItemPackage>
+</CashItemPackage>

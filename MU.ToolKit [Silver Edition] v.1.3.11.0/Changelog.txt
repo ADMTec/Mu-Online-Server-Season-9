@@ -1,0 +1,117 @@
+[v1.3.11.0]:
+	-> Added Skill.bmd file support
+	-> Added Mix.bmd support
+	-> Monster Set Base Editor: added option to hide the existing mobs from editor view
+
+[v1.3.9.1]:
+	-> Fixed ItemToolTip.bmd corrupted save for ex702
+
+[v1.3.9.0]:
+	-> some Maintains done
+	-> CashShop Editor - fixed duration display bug (must press "Update" on all existing items THAT HAS BUGGED DURATION)
+	-> Added Season 8 Episode 1 Item.bmd edit
+	-> Added simple Item Adder for all group-based BMD files for adding new items faster
+
+[v1.3.8.4]:
+	-> Maintains update
+
+[v1.3.8.3]:
+	-> Optimized ItemList read method
+
+[v1.3.8.2]:
+	-> Added Reg file to delete License information from PC in case of malefunctioning
+	-> Fixed licenses error
+
+[v1.3.8.1]:
+	-> Maintains update
+
+[v1.3.8.0]:
+	-> Fixed selected ItemListType in Configs visual bug
+	-> Fixed loading of IGCDropManagr for ex702 monster.txt
+	-> Fixed CashShop bug deleting not selected item
+	-> Added ItemSetOption.bmd editor
+
+[v1.3.7.0]:
+	-> Added more information about ServerList values (hover over column name to see)
+	-> Added HotKeys (key combination shortcuts) to CashShop items adder
+	-> Added Elemetes values to MonsterSetBase editor
+	-> Added ItemSetType.bmd editor
+	-> Added ItemAddOption.bmd editor
+	-> Added JewelOfHarmonySmelt.bmd editor
+
+[v1.3.6.4]:
+	-> Fixed some cash shop crash & name save
+	-> Fixed Monster.txt read of ex700 type
+
+[v1.3.6.2]:
+	-> Fixed license error
+	-> Fixed categories bug
+
+[v1.3.6.0]:
+	-> Enhanced Update Notifications
+
+[v1.3.5.5]:
+	-> Fixed cash shop Head categories bug
+	-> Minor re-designing of CashShop editor
+	-> Added time generation to CashShop time items (X Days, X Hours, X Minutes)
+	-> Some other fixes
+
+[v1.3.5.1]:
+	-> Some cosmetic correction to CashShop editor output files
+
+[v1.3.5.0]:
+	-> Added XML Editor for EventBags
+	-> Fixed high ram load with saving ItemToolTip file
+	-> Some other bugfixes & improvments
+	-> Enabled new version of CashShop editor (possible to use with GS Version of 8.0.0.8 and Upwards)
+
+[v1.3.0.0]:
+ * (You can still use v1.2.0.0)
+	-> Fixed all BMDs save corrupts (excluding ex700 plus)
+	-> Fixed some crashes/bugs
+	-> New CashShop editor (temporary disabled)
+	-> Added IGCDropManager editor
+	-> Added all Game Maps
+
+[v1.2.0.0]:
+	-> BMD Editor usuabilliy is simplier
+	-> Some changes in functionallity
+	-> Added ability to export all files as Tabbed text file
+	-> Added Gate.bmd editor
+	-> Added Gate.bmd to GateSettings.DAT export
+	-> Added Item.bmd support for S6E3
+	-> Modifed ServerList.bmd editor, now possible to edit more values
+	-> Added ServerList.bmd support for S6E3
+	-> Added Minimap_WorldX.bmd editor
+	-> Fixed cash shop name change crash bug
+	-> Fixed eventbag load Invalid Line error
+	-> Fixed bug with ItemToolTip save and load
+	-> Added loaded file name in BMD editor, Shop editor and EvengBag editor
+
+[v1.1.0.0]:
+	-> Some small interface changes
+	-> Search form Enabled
+	-> Added some icons
+	-> Small change in functionallity
+	-> Added Text.bmd (s6e3 -> ex700 Plus)
+	-> Added Filter.bmd (s6e3 -> ex700 Plus)
+	-> Added FilterName.bmd (s6e3 -> ex700 Plus)
+	-> Added Slide.bmd (s6e3 -> ex700 Plus)
+	-> Fixed Shop Editor ToolTip bug
+	-> Some bugfixes
+
+[v1.0.4.0]:
+-> Changed Item.bmd (ex700, ex700 plus) structures to Groups - based
+-> Added NpcName.bmd (ex700 plus)
+-> Fixed some bugs in BMD edit / save
+-> Fixed minor cash shop bug
+
+[v1.0.3.0]:
+-ItemToolTip structure changed to groups
+-ItemToolTip fixed indexes bigger then 255 bug
+-Added NPCName.bmd (ex700)
+
+[v1.0.2.0]:
+-> Application will not check for latest version (must have net access)
+-> Some CashShop editor small fixes
+-> CashShop has been resized for better view in lower resolutions.

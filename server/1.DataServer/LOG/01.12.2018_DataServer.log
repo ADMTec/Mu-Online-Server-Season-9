@@ -1,0 +1,574 @@
+[11:35:22] Initializing...
+[11:35:22] DataServer(e) version: 9.5.1.20 Compiled at: Nov  4 2018 16:14:39
+[11:35:22] ./IGC_AllowedIPList.xml File Loaded successfuly
+[11:35:22] IP Address 192.168.0.103 valid, no resolving required
+[11:35:22] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 27)
+[11:35:22] [DataServer] ItemCount: 15000
+[11:35:22] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[11:35:22] [SUCCESS] - EXDATASERVER CONNECT MSSQL SUCCESS
+[11:35:22] [MuOnlineDB] GuildData Loaded in 16 msec
+[11:35:22] [SUCCESS] - FRIEND DB CONNECT MSSQL SUCCESS
+[11:35:22] [Gens System] Initializing Gens...
+[11:35:22] [Gens System] Current Month: 11
+[11:35:22] [Gens System] Ranking Making [START]
+[11:35:22] [Gens System] RANKING (DUPRIAN): [NAME:alurosu] [CONTRIBUTION:10] [CLASS:14] [RANK:1]
+[11:35:22] [Gens System] RANKING (DUPRIAN): [NAME:test] [CONTRIBUTION:10] [CLASS:14] [RANK:2]
+[11:35:22] [Gens System] (D:0.00) VS (V:0.00)
+[11:35:22] [Gens System] Ranking Making [END]
+[11:35:22] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[11:35:22] [IOCP] Using normal functionality
+[11:35:22] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[11:35:23] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[11:35:23] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[11:35:26] [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[11:35:26] [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[11:35:26] [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 3
+[11:35:26] [Join Server] GameServer connected Regular PORT : 56900 CODE : 0 VIP : 0 HWIDCount : 100
+[11:35:26] [DataServer] GameServer(0)(1) connect
+[11:35:26] [ExDB] GameServer with ServerCode[0] connected.
+[11:36:58] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11900) (IP:192.168.0.103) (HWID:)
+[11:36:58] [alurosu] - characters: [alurosu][][][][]
+[11:36:58] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[11:36:59] [Friend List Request] Name[alurosu].
+[11:36:59] [Friend List Send] Name[alurosu].
+[11:36:59] [Friend List Send] Friend Count[0].
+[11:36:59] [Mail List Request] Name[alurosu].
+[11:36:59] [Mail List Send] Name: [alurosu].
+[11:36:59] [Mail List Send] Mail Count: 0.
+[11:36:59] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[11:36:59] [Guild Member Info Request] Member [alurosu].
+[11:36:59] [Send Guild Member Info] No info returned from DB.
+[11:37:17] [JoinServer] Delete User (alurosu)
+[11:37:17] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[12:14:05] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11901) (IP:192.168.0.103) (HWID:)
+[12:14:05] [alurosu] - characters: [alurosu][][][][]
+[12:14:05] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[12:14:06] [Friend List Request] Name[alurosu].
+[12:14:06] [Friend List Send] Name[alurosu].
+[12:14:06] [Friend List Send] Friend Count[0].
+[12:14:06] [Mail List Request] Name[alurosu].
+[12:14:06] [Mail List Send] Name: [alurosu].
+[12:14:06] [Mail List Send] Mail Count: 0.
+[12:14:06] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[12:14:06] [Guild Member Info Request] Member [alurosu].
+[12:14:06] [Send Guild Member Info] No info returned from DB.
+[12:15:32] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(alurosu)
+[12:16:49] [JoinServer] Delete User (alurosu)
+[12:16:49] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[12:17:37] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11902) (IP:192.168.0.103) (HWID:)
+[12:17:37] [alurosu] - characters: [alurosu][][][][]
+[12:17:37] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[12:17:39] [Friend List Request] Name[alurosu].
+[12:17:39] [Friend List Send] Name[alurosu].
+[12:17:39] [Friend List Send] Friend Count[0].
+[12:17:39] [Mail List Request] Name[alurosu].
+[12:17:39] [Mail List Send] Name: [alurosu].
+[12:17:39] [Mail List Send] Mail Count: 0.
+[12:17:39] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[12:17:39] [Guild Member Info Request] Member [alurosu].
+[12:17:39] [Send Guild Member Info] No info returned from DB.
+[12:27:32] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[12:37:33] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[12:41:50] [JoinServer] Delete User (alurosu)
+[12:41:50] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[12:53:25] [MeMuOnline] Wrong Password - ID : alurosu
+[12:53:29] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11903) (IP:192.168.0.103) (HWID:)
+[12:53:29] [alurosu] - characters: [alurosu][][][][]
+[12:53:29] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[12:53:31] [Friend List Request] Name[alurosu].
+[12:53:31] [Friend List Send] Name[alurosu].
+[12:53:31] [Friend List Send] Friend Count[0].
+[12:53:31] [Mail List Request] Name[alurosu].
+[12:53:31] [Mail List Send] Name: [alurosu].
+[12:53:31] [Mail List Send] Mail Count: 0.
+[12:53:31] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[12:53:31] [Guild Member Info Request] Member [alurosu].
+[12:53:31] [Send Guild Member Info] No info returned from DB.
+[12:54:27] [JoinServer] Delete User (alurosu)
+[12:54:27] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:00:52] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11904) (IP:192.168.0.103) (HWID:)
+[13:00:52] [alurosu] - characters: [alurosu][][][][]
+[13:00:52] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:00:55] [Friend List Request] Name[alurosu].
+[13:00:55] [Friend List Send] Name[alurosu].
+[13:00:55] [Friend List Send] Friend Count[0].
+[13:00:55] [Mail List Request] Name[alurosu].
+[13:00:55] [Mail List Send] Name: [alurosu].
+[13:00:55] [Mail List Send] Mail Count: 0.
+[13:00:55] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:00:55] [Guild Member Info Request] Member [alurosu].
+[13:00:55] [Send Guild Member Info] No info returned from DB.
+[13:01:11] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(alurosu)
+[13:01:46] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:01:46] [JoinServer] Delete User (alurosu)
+[13:03:06] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11905) (IP:192.168.0.103) (HWID:)
+[13:03:06] [alurosu] - characters: [alurosu][][][][]
+[13:03:06] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:03:08] [Friend List Request] Name[alurosu].
+[13:03:08] [Friend List Send] Name[alurosu].
+[13:03:08] [Friend List Send] Friend Count[0].
+[13:03:08] [Mail List Request] Name[alurosu].
+[13:03:08] [Mail List Send] Name: [alurosu].
+[13:03:08] [Mail List Send] Mail Count: 0.
+[13:03:08] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:03:08] [Guild Member Info Request] Member [alurosu].
+[13:03:08] [Send Guild Member Info] No info returned from DB.
+[13:06:05] [JoinServer] Delete User (alurosu)
+[13:06:05] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:07:44] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11906) (IP:192.168.0.103) (HWID:)
+[13:07:44] [alurosu] - characters: [alurosu][][][][]
+[13:07:44] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:07:46] [Friend List Request] Name[alurosu].
+[13:07:46] [Friend List Send] Name[alurosu].
+[13:07:46] [Friend List Send] Friend Count[0].
+[13:07:46] [Mail List Request] Name[alurosu].
+[13:07:46] [Mail List Send] Name: [alurosu].
+[13:07:46] [Mail List Send] Mail Count: 0.
+[13:07:46] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:07:46] [Guild Member Info Request] Member [alurosu].
+[13:07:46] [Send Guild Member Info] No info returned from DB.
+[13:10:23] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:10:23] [JoinServer] Delete User (alurosu)
+[13:11:02] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11907) (IP:192.168.0.103) (HWID:)
+[13:11:02] [alurosu] - characters: [alurosu][][][][]
+[13:11:02] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:11:04] [Friend List Request] Name[alurosu].
+[13:11:04] [Friend List Send] Name[alurosu].
+[13:11:04] [Friend List Send] Friend Count[0].
+[13:11:04] [Mail List Request] Name[alurosu].
+[13:11:04] [Mail List Send] Name: [alurosu].
+[13:11:04] [Mail List Send] Mail Count: 0.
+[13:11:04] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:11:04] [Guild Member Info Request] Member [alurosu].
+[13:11:04] [Send Guild Member Info] No info returned from DB.
+[13:12:53] [JoinServer] Delete User (alurosu)
+[13:12:53] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:15:02] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11908) (IP:192.168.0.103) (HWID:)
+[13:15:02] [alurosu] - characters: [alurosu][][][][]
+[13:15:02] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:15:04] [Friend List Request] Name[alurosu].
+[13:15:04] [Friend List Send] Name[alurosu].
+[13:15:04] [Friend List Send] Friend Count[0].
+[13:15:04] [Mail List Request] Name[alurosu].
+[13:15:04] [Mail List Send] Name: [alurosu].
+[13:15:04] [Mail List Send] Mail Count: 0.
+[13:15:04] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:15:04] [Guild Member Info Request] Member [alurosu].
+[13:15:04] [Send Guild Member Info] No info returned from DB.
+[13:21:17] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:21:17] [JoinServer] Delete User (alurosu)
+[13:21:49] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11909) (IP:192.168.0.103) (HWID:)
+[13:21:49] [alurosu] - characters: [alurosu][][][][]
+[13:21:49] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:21:51] [Friend List Request] Name[alurosu].
+[13:21:51] [Friend List Send] Name[alurosu].
+[13:21:51] [Friend List Send] Friend Count[0].
+[13:21:51] [Mail List Request] Name[alurosu].
+[13:21:51] [Mail List Send] Name: [alurosu].
+[13:21:51] [Mail List Send] Mail Count: 0.
+[13:21:51] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:21:51] [Guild Member Info Request] Member [alurosu].
+[13:21:51] [Send Guild Member Info] No info returned from DB.
+[13:24:25] [JoinServer] Delete User (alurosu)
+[13:24:25] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:24:47] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11910) (IP:192.168.0.103) (HWID:)
+[13:24:47] [alurosu] - characters: [alurosu][][][][]
+[13:24:47] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:24:49] [Friend List Request] Name[alurosu].
+[13:24:49] [Friend List Send] Name[alurosu].
+[13:24:49] [Friend List Send] Friend Count[0].
+[13:24:49] [Mail List Request] Name[alurosu].
+[13:24:49] [Mail List Send] Name: [alurosu].
+[13:24:49] [Mail List Send] Mail Count: 0.
+[13:24:49] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:24:49] [Guild Member Info Request] Member [alurosu].
+[13:24:49] [Send Guild Member Info] No info returned from DB.
+[13:29:19] [JoinServer] Delete User (alurosu)
+[13:29:19] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:29:41] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11911) (IP:192.168.0.103) (HWID:)
+[13:29:41] [alurosu] - characters: [alurosu][][][][]
+[13:29:41] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:29:43] [Friend List Request] Name[alurosu].
+[13:29:43] [Friend List Send] Name[alurosu].
+[13:29:43] [Friend List Send] Friend Count[0].
+[13:29:43] [Mail List Request] Name[alurosu].
+[13:29:43] [Mail List Send] Name: [alurosu].
+[13:29:43] [Mail List Send] Mail Count: 0.
+[13:29:43] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:29:43] [Guild Member Info Request] Member [alurosu].
+[13:29:43] [Send Guild Member Info] No info returned from DB.
+[13:33:33] [JoinServer] Delete User (alurosu)
+[13:33:33] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:33:55] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11912) (IP:192.168.0.103) (HWID:)
+[13:33:55] [alurosu] - characters: [alurosu][][][][]
+[13:33:55] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:33:56] [Friend List Request] Name[alurosu].
+[13:33:56] [Friend List Send] Name[alurosu].
+[13:33:56] [Friend List Send] Friend Count[0].
+[13:33:56] [Mail List Request] Name[alurosu].
+[13:33:56] [Mail List Send] Name: [alurosu].
+[13:33:56] [Mail List Send] Mail Count: 0.
+[13:33:56] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:33:56] [Guild Member Info Request] Member [alurosu].
+[13:33:56] [Send Guild Member Info] No info returned from DB.
+[13:36:48] [JoinServer] Delete User (alurosu)
+[13:36:48] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:37:14] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11913) (IP:192.168.0.103) (HWID:)
+[13:37:14] [alurosu] - characters: [alurosu][][][][]
+[13:37:14] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:37:16] [Friend List Request] Name[alurosu].
+[13:37:16] [Friend List Send] Name[alurosu].
+[13:37:16] [Friend List Send] Friend Count[0].
+[13:37:16] [Mail List Request] Name[alurosu].
+[13:37:16] [Mail List Send] Name: [alurosu].
+[13:37:16] [Mail List Send] Mail Count: 0.
+[13:37:16] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:37:16] [Guild Member Info Request] Member [alurosu].
+[13:37:16] [Send Guild Member Info] No info returned from DB.
+[13:37:31] [JoinServer] Delete User (alurosu)
+[13:37:31] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:38:38] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11914) (IP:192.168.0.103) (HWID:)
+[13:38:38] [alurosu] - characters: [alurosu][][][][]
+[13:38:38] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:38:40] [Friend List Request] Name[alurosu].
+[13:38:40] [Friend List Send] Name[alurosu].
+[13:38:40] [Friend List Send] Friend Count[0].
+[13:38:40] [Mail List Request] Name[alurosu].
+[13:38:40] [Mail List Send] Name: [alurosu].
+[13:38:40] [Mail List Send] Mail Count: 0.
+[13:38:40] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:38:40] [Guild Member Info Request] Member [alurosu].
+[13:38:40] [Send Guild Member Info] No info returned from DB.
+[13:38:47] [JoinServer] Delete User (alurosu)
+[13:38:47] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:39:33] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11915) (IP:192.168.0.103) (HWID:)
+[13:39:33] [alurosu] - characters: [alurosu][][][][]
+[13:39:33] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:39:35] [Friend List Request] Name[alurosu].
+[13:39:35] [Friend List Send] Name[alurosu].
+[13:39:35] [Friend List Send] Friend Count[0].
+[13:39:35] [Mail List Request] Name[alurosu].
+[13:39:35] [Mail List Send] Name: [alurosu].
+[13:39:35] [Mail List Send] Mail Count: 0.
+[13:39:35] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:39:35] [Guild Member Info Request] Member [alurosu].
+[13:39:35] [Send Guild Member Info] No info returned from DB.
+[13:49:29] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:50:33] [JoinServer] Delete User (alurosu)
+[13:50:33] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:50:55] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11916) (IP:192.168.0.103) (HWID:)
+[13:50:55] [alurosu] - characters: [alurosu][][][][]
+[13:50:55] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:50:56] [Friend List Request] Name[alurosu].
+[13:50:56] [Friend List Send] Name[alurosu].
+[13:50:56] [Friend List Send] Friend Count[0].
+[13:50:56] [Mail List Request] Name[alurosu].
+[13:50:56] [Mail List Send] Name: [alurosu].
+[13:50:56] [Mail List Send] Mail Count: 0.
+[13:50:56] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:50:56] [Guild Member Info Request] Member [alurosu].
+[13:50:56] [Send Guild Member Info] No info returned from DB.
+[13:51:48] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:51:48] [JoinServer] Delete User (alurosu)
+[13:52:55] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11917) (IP:192.168.0.103) (HWID:)
+[13:52:55] [alurosu] - characters: [alurosu][][][][]
+[13:52:55] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:52:57] [Friend List Request] Name[alurosu].
+[13:52:57] [Friend List Send] Name[alurosu].
+[13:52:57] [Friend List Send] Friend Count[0].
+[13:52:57] [Mail List Request] Name[alurosu].
+[13:52:57] [Mail List Send] Name: [alurosu].
+[13:52:57] [Mail List Send] Mail Count: 0.
+[13:52:57] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:52:57] [Guild Member Info Request] Member [alurosu].
+[13:52:57] [Send Guild Member Info] No info returned from DB.
+[13:53:28] [JoinServer] Delete User (alurosu)
+[13:53:28] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:53:49] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11918) (IP:192.168.0.103) (HWID:)
+[13:53:49] [alurosu] - characters: [alurosu][][][][]
+[13:53:49] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:53:50] [Friend List Request] Name[alurosu].
+[13:53:50] [Friend List Send] Name[alurosu].
+[13:53:50] [Friend List Send] Friend Count[0].
+[13:53:50] [Mail List Request] Name[alurosu].
+[13:53:50] [Mail List Send] Name: [alurosu].
+[13:53:50] [Mail List Send] Mail Count: 0.
+[13:53:50] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:53:50] [Guild Member Info Request] Member [alurosu].
+[13:53:50] [Send Guild Member Info] No info returned from DB.
+[13:55:02] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:55:02] [JoinServer] Delete User (alurosu)
+[13:55:27] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11919) (IP:192.168.0.103) (HWID:)
+[13:55:27] [alurosu] - characters: [alurosu][][][][]
+[13:55:27] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:55:29] [Friend List Request] Name[alurosu].
+[13:55:29] [Friend List Send] Name[alurosu].
+[13:55:29] [Friend List Send] Friend Count[0].
+[13:55:29] [Mail List Request] Name[alurosu].
+[13:55:29] [Mail List Send] Name: [alurosu].
+[13:55:29] [Mail List Send] Mail Count: 0.
+[13:55:29] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:55:29] [Guild Member Info Request] Member [alurosu].
+[13:55:29] [Send Guild Member Info] No info returned from DB.
+[13:55:59] [JoinServer] Delete User (alurosu)
+[13:55:59] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:57:24] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11920) (IP:192.168.0.103) (HWID:)
+[13:57:24] [alurosu] - characters: [alurosu][][][][]
+[13:57:24] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:57:26] [Friend List Request] Name[alurosu].
+[13:57:26] [Friend List Send] Name[alurosu].
+[13:57:26] [Friend List Send] Friend Count[0].
+[13:57:26] [Mail List Request] Name[alurosu].
+[13:57:26] [Mail List Send] Name: [alurosu].
+[13:57:26] [Mail List Send] Mail Count: 0.
+[13:57:26] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:57:26] [Guild Member Info Request] Member [alurosu].
+[13:57:26] [Send Guild Member Info] No info returned from DB.
+[13:57:57] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(alurosu)
+[13:59:11] [JoinServer] Delete User (alurosu)
+[13:59:11] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[13:59:35] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11921) (IP:192.168.0.103) (HWID:)
+[13:59:35] [alurosu] - characters: [alurosu][][][][]
+[13:59:35] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[13:59:37] [Friend List Request] Name[alurosu].
+[13:59:37] [Friend List Send] Name[alurosu].
+[13:59:37] [Friend List Send] Friend Count[0].
+[13:59:37] [Mail List Request] Name[alurosu].
+[13:59:37] [Mail List Send] Name: [alurosu].
+[13:59:37] [Mail List Send] Mail Count: 0.
+[13:59:37] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[13:59:37] [Guild Member Info Request] Member [alurosu].
+[13:59:37] [Send Guild Member Info] No info returned from DB.
+[14:00:58] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:00:58] [JoinServer] Delete User (alurosu)
+[14:01:25] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11922) (IP:192.168.0.103) (HWID:)
+[14:01:25] [alurosu] - characters: [alurosu][][][][]
+[14:01:25] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:01:26] [Friend List Request] Name[alurosu].
+[14:01:26] [Friend List Send] Name[alurosu].
+[14:01:26] [Friend List Send] Friend Count[0].
+[14:01:26] [Mail List Request] Name[alurosu].
+[14:01:26] [Mail List Send] Name: [alurosu].
+[14:01:26] [Mail List Send] Mail Count: 0.
+[14:01:26] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:01:26] [Guild Member Info Request] Member [alurosu].
+[14:01:26] [Send Guild Member Info] No info returned from DB.
+[14:01:46] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:01:46] [JoinServer] Delete User (alurosu)
+[14:02:53] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11923) (IP:192.168.0.103) (HWID:)
+[14:02:53] [alurosu] - characters: [alurosu][][][][]
+[14:02:53] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:02:55] [Friend List Request] Name[alurosu].
+[14:02:55] [Friend List Send] Name[alurosu].
+[14:02:55] [Friend List Send] Friend Count[0].
+[14:02:55] [Mail List Request] Name[alurosu].
+[14:02:55] [Mail List Send] Name: [alurosu].
+[14:02:55] [Mail List Send] Mail Count: 0.
+[14:02:55] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:02:55] [Guild Member Info Request] Member [alurosu].
+[14:02:55] [Send Guild Member Info] No info returned from DB.
+[14:03:30] [JoinServer] Delete User (alurosu)
+[14:03:30] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:06:15] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11924) (IP:192.168.0.103) (HWID:)
+[14:06:15] [alurosu] - characters: [alurosu][][][][]
+[14:06:15] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:06:17] [Friend List Request] Name[alurosu].
+[14:06:17] [Friend List Send] Name[alurosu].
+[14:06:17] [Friend List Send] Friend Count[0].
+[14:06:17] [Mail List Request] Name[alurosu].
+[14:06:17] [Mail List Send] Name: [alurosu].
+[14:06:17] [Mail List Send] Mail Count: 0.
+[14:06:17] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:06:17] [Guild Member Info Request] Member [alurosu].
+[14:06:17] [Send Guild Member Info] No info returned from DB.
+[14:07:29] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:07:29] [JoinServer] Delete User (alurosu)
+[14:07:52] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11925) (IP:192.168.0.103) (HWID:)
+[14:07:52] [alurosu] - characters: [alurosu][][][][]
+[14:07:52] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:07:53] [Friend List Request] Name[alurosu].
+[14:07:53] [Friend List Send] Name[alurosu].
+[14:07:53] [Friend List Send] Friend Count[0].
+[14:07:53] [Mail List Request] Name[alurosu].
+[14:07:53] [Mail List Send] Name: [alurosu].
+[14:07:53] [Mail List Send] Mail Count: 0.
+[14:07:53] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:07:53] [Guild Member Info Request] Member [alurosu].
+[14:07:53] [Send Guild Member Info] No info returned from DB.
+[14:09:37] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:09:37] [JoinServer] Delete User (alurosu)
+[14:10:00] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11926) (IP:192.168.0.103) (HWID:)
+[14:10:00] [alurosu] - characters: [alurosu][][][][]
+[14:10:00] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:10:02] [Friend List Request] Name[alurosu].
+[14:10:02] [Friend List Send] Name[alurosu].
+[14:10:02] [Friend List Send] Friend Count[0].
+[14:10:02] [Mail List Request] Name[alurosu].
+[14:10:02] [Mail List Send] Name: [alurosu].
+[14:10:02] [Mail List Send] Mail Count: 0.
+[14:10:02] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:10:02] [Guild Member Info Request] Member [alurosu].
+[14:10:02] [Send Guild Member Info] No info returned from DB.
+[14:10:43] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:10:43] [JoinServer] Delete User (alurosu)
+[14:18:52] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11927) (IP:192.168.0.103) (HWID:)
+[14:18:52] [alurosu] - characters: [alurosu][][][][]
+[14:18:52] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:18:54] [Friend List Request] Name[alurosu].
+[14:18:54] [Friend List Send] Name[alurosu].
+[14:18:54] [Friend List Send] Friend Count[0].
+[14:18:54] [Mail List Request] Name[alurosu].
+[14:18:54] [Mail List Send] Name: [alurosu].
+[14:18:54] [Mail List Send] Mail Count: 0.
+[14:18:54] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:18:54] [Guild Member Info Request] Member [alurosu].
+[14:18:54] [Send Guild Member Info] No info returned from DB.
+[14:23:42] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(alurosu)
+[14:23:46] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(alurosu)
+[14:25:55] [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 1
+[14:25:55] [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 2
+[14:25:55] [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 3
+[14:25:55] [DataServer] GameServer(14)(1) connect
+[14:25:55] [Join Server] GameServer connected Siege PORT : 56914 CODE : 14 VIP : 0 HWIDCount : 10
+[14:25:55] [ExDB] GameServer with ServerCode[14] connected.
+[14:26:05] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(14) map(34)
+[14:26:05] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:26:11] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:26:11] [Friend List Request] Name[alurosu].
+[14:26:11] [Friend List Send] Name[alurosu].
+[14:26:11] [Friend List Send] Friend Count[0].
+[14:26:11] [Mail List Request] Name[alurosu].
+[14:26:11] [Mail List Send] Name: [alurosu].
+[14:26:11] [Mail List Send] Mail Count: 0.
+[14:26:11] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:26:11] [Guild Member Info Request] Member [alurosu].
+[14:26:11] [Send Guild Member Info] No info returned from DB.
+[14:36:06] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:41:18] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:41:18] [JoinServer] Delete User (alurosu)
+[14:42:52] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11928) (IP:192.168.0.103) (HWID:)
+[14:42:52] [alurosu] - characters: [alurosu][][][][]
+[14:42:52] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:42:53] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(14) map(30)
+[14:42:59] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:42:59] [Friend List Request] Name[alurosu].
+[14:42:59] [Friend List Send] Name[alurosu].
+[14:42:59] [Friend List Send] Friend Count[0].
+[14:42:59] [Mail List Request] Name[alurosu].
+[14:42:59] [Mail List Send] Name: [alurosu].
+[14:42:59] [Mail List Send] Mail Count: 0.
+[14:42:59] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:42:59] [Guild Member Info Request] Member [alurosu].
+[14:42:59] [Send Guild Member Info] No info returned from DB.
+[14:43:09] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(0) map(0)
+[14:43:09] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:43:14] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:43:14] [Friend List Request] Name[alurosu].
+[14:43:14] [Friend List Send] Name[alurosu].
+[14:43:14] [Friend List Send] Friend Count[0].
+[14:43:14] [Mail List Request] Name[alurosu].
+[14:43:14] [Mail List Send] Name: [alurosu].
+[14:43:14] [Mail List Send] Mail Count: 0.
+[14:43:14] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:43:14] [Guild Member Info Request] Member [alurosu].
+[14:43:14] [Send Guild Member Info] No info returned from DB.
+[14:43:32] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(14) map(34)
+[14:43:32] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:43:38] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:43:38] [Friend List Request] Name[alurosu].
+[14:43:38] [Friend List Send] Name[alurosu].
+[14:43:38] [Friend List Send] Friend Count[0].
+[14:43:38] [Mail List Request] Name[alurosu].
+[14:43:38] [Mail List Send] Name: [alurosu].
+[14:43:38] [Mail List Send] Mail Count: 0.
+[14:43:38] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:43:38] [Guild Member Info Request] Member [alurosu].
+[14:43:38] [Send Guild Member Info] No info returned from DB.
+[14:43:42] [JoinServer] Delete User (alurosu)
+[14:43:42] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:51:20] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11930) (IP:192.168.0.103) (HWID:)
+[14:51:20] [alurosu] - characters: [alurosu][][][][]
+[14:51:20] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:51:23] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(14) map(34)
+[14:51:29] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:51:29] [Friend List Request] Name[alurosu].
+[14:51:29] [Friend List Send] Name[alurosu].
+[14:51:29] [Friend List Send] Friend Count[0].
+[14:51:29] [Mail List Request] Name[alurosu].
+[14:51:29] [Mail List Send] Name: [alurosu].
+[14:51:29] [Mail List Send] Mail Count: 0.
+[14:51:29] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:51:29] [Guild Member Info Request] Member [alurosu].
+[14:51:29] [Send Guild Member Info] No info returned from DB.
+[14:51:35] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(0) map(0)
+[14:51:35] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:51:41] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:51:41] [Friend List Request] Name[alurosu].
+[14:51:41] [Friend List Send] Name[alurosu].
+[14:51:41] [Friend List Send] Friend Count[0].
+[14:51:41] [Mail List Request] Name[alurosu].
+[14:51:41] [Mail List Send] Name: [alurosu].
+[14:51:41] [Mail List Send] Mail Count: 0.
+[14:51:41] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:51:41] [Guild Member Info Request] Member [alurosu].
+[14:51:41] [Send Guild Member Info] No info returned from DB.
+[14:53:51] [JoinServer] Delete User (alurosu)
+[14:53:51] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:55:03] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11932) (IP:192.168.0.103) (HWID:)
+[14:55:03] [alurosu] - characters: [alurosu][][][][]
+[14:55:03] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[14:55:05] [Friend List Request] Name[alurosu].
+[14:55:05] [Friend List Send] Name[alurosu].
+[14:55:05] [Friend List Send] Friend Count[0].
+[14:55:05] [Mail List Request] Name[alurosu].
+[14:55:05] [Mail List Send] Name: [alurosu].
+[14:55:05] [Mail List Send] Mail Count: 0.
+[14:55:05] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:55:05] [Guild Member Info Request] Member [alurosu].
+[14:55:05] [Send Guild Member Info] No info returned from DB.
+[14:55:12] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(14) map(30)
+[14:55:12] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:55:18] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:55:18] [Friend List Request] Name[alurosu].
+[14:55:18] [Friend List Send] Name[alurosu].
+[14:55:18] [Friend List Send] Friend Count[0].
+[14:55:18] [Mail List Request] Name[alurosu].
+[14:55:18] [Mail List Send] Name: [alurosu].
+[14:55:18] [Mail List Send] Mail Count: 0.
+[14:55:18] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:55:18] [Guild Member Info Request] Member [alurosu].
+[14:55:18] [Send Guild Member Info] No info returned from DB.
+[14:55:59] [JoinServer] GJReqMapSvrMove -> fResult == SUCCESS, (alurosu)(alurosu) dest:(0) map(0)
+[14:55:59] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:56:04] [JoinServer] GJReqMapSvrAuth() -> User(alurosu) Character(alurosu) fResult(0)
+[14:56:04] [Friend List Request] Name[alurosu].
+[14:56:04] [Friend List Send] Name[alurosu].
+[14:56:04] [Friend List Send] Friend Count[0].
+[14:56:04] [Mail List Request] Name[alurosu].
+[14:56:04] [Mail List Send] Name: [alurosu].
+[14:56:04] [Mail List Send] Mail Count: 0.
+[14:56:04] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[14:56:04] [Guild Member Info Request] Member [alurosu].
+[14:56:04] [Send Guild Member Info] No info returned from DB.
+[14:56:10] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[14:56:10] [JoinServer] Delete User (alurosu)
+[14:56:18] Connection Closed, dwIoSize == 0 (Index:3)
+[14:56:18] Connection Closed, dwIoSize == 0 (Index:5)
+[14:56:18] Connection Closed, dwIoSize == 0 (Index:4)
+[15:00:27] [JoinServer] Add User (alurosu) (ServerCode:0) (ServerGroup:1) (Index:11934) (IP:192.168.0.103) (HWID:)
+[15:00:27] [alurosu] - characters: [alurosu][][][][]
+[15:00:27] [alurosu] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[15:00:29] [Friend List Request] Name[alurosu].
+[15:00:29] [Friend List Send] Name[alurosu].
+[15:00:29] [Friend List Send] Friend Count[0].
+[15:00:29] [Mail List Request] Name[alurosu].
+[15:00:29] [Mail List Send] Name: [alurosu].
+[15:00:29] [Mail List Send] Mail Count: 0.
+[15:00:29] [Gens System] [alurosu] Get Data from DB [I:1] [P:10] [C:14] [RANK:1]
+[15:00:29] [Guild Member Info Request] Member [alurosu].
+[15:00:29] [Send Guild Member Info] No info returned from DB.
+[15:00:41] [JoinServer] Delete User (alurosu)
+[15:00:41] [Gens System] Save Result: OK (Name:alurosu ContributePoint:10 GensClass:14)
+[15:02:11] Connection Closed, dwIoSize == 0 (Index:1)
+[15:02:11] Connection Closed, dwIoSize == 0 (Index:2)
+[15:02:11] Connection Closed, dwIoSize == 0 (Index:0)

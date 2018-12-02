@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+	<Item Cat="7" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="7" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="7" Index="21" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="7" Index="29" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="8" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="8" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="8" Index="21" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="8" Index="29" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="9" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="9" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="9" Index="21" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="9" Index="29" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="10" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="10" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="10" Index="21" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="10" Index="29" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="21" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="29" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="16" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="17" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="20" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="20" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="22" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="22" Level="9" Durability="0" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+</Shop>

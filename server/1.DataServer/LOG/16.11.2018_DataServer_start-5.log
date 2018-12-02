@@ -1,0 +1,32 @@
+[10:18:36] Initializing...
+[10:18:36] DataServer(e) version: 9.5.1.20 Compiled at: Nov  4 2018 16:14:39
+[10:18:36] ./IGC_AllowedIPList.xml File Loaded successfuly
+[10:18:36] IP Address 192.168.0.103 valid, no resolving required
+[10:18:36] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 27)
+[10:18:36] [DataServer] ItemCount: 0
+[10:18:36] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[10:18:36] [SUCCESS] - EXDATASERVER CONNECT MSSQL SUCCESS
+[10:18:36] [MuOnlineDB] GuildData Loaded in 16 msec
+[10:18:36] [SUCCESS] - FRIEND DB CONNECT MSSQL SUCCESS
+[10:18:36] [Gens System] Initializing Gens...
+[10:18:36] [Gens System] Current Month: -1
+[10:18:36] [Gens System] Ranking Making [START]
+[10:18:36] [Gens System] (D:0.00) VS (V:0.00)
+[10:18:36] [Gens System] Ranking Making [END]
+[10:18:36] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[10:18:36] [IOCP] Using normal functionality
+[10:18:36] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[10:18:36] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[10:18:36] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[10:18:42] [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[10:18:42] [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[10:18:42] [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 3
+[10:18:42] [DataServer] GameServer(0)(1) connect
+[10:18:42] [ExDB] GameServer with ServerCode[0] connected.
+[10:18:42] [Join Server] GameServer connected Regular PORT : 56900 CODE : 0 VIP : 0 HWIDCount : 100
+[10:47:21] [SQL Error] Error executing: SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[10:47:21] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+[10:47:21] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+[10:47:21] [MeMuOnline] Wrong Password - ID : alurosu
+[10:47:25] [MeMuOnline] Wrong Password - ID : alurosu
+[10:49:09] Current Global Connections Limit (HWiD) per ServerGroup: 3

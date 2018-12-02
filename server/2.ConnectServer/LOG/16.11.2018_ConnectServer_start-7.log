@@ -1,0 +1,18 @@
+[10:54:21] Initializing...
+[10:54:21] Connect Server version: 9.5.1.20 Compiled at: Nov  4 2018 15:58:51
+[10:54:21] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (192.168.0.103), PORT: (56900), VISIBLE: (1), INDEX: (0)
+[10:54:21] [Server Data] Loaded Server(s) info CODE: (12), NAME: (Market), IP: (192.168.0.103), PORT: (56912), VISIBLE: (0), INDEX: (1)
+[10:54:21] [Server Data] Loaded Server(s) info CODE: (13), NAME: (Arca), IP: (192.168.0.103), PORT: (56913), VISIBLE: (0), INDEX: (2)
+[10:54:21] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (192.168.0.103), PORT: (56914), VISIBLE: (0), INDEX: (3)
+[10:54:21] [Server Data] Loaded Server(s) info CODE: (120), NAME: (BattleCore), IP: (192.168.0.103), PORT: (56120), VISIBLE: (1), INDEX: (4)
+[10:54:21] [NOTICE]: IOCP Thread Handles set to 16
+[10:54:40] Connection Accept: 192.168.0.103
+[10:54:40] [Server] Sent Server List COUNT: [1] (Index: [0])
+[10:54:42] [Server] Sent Server List COUNT: [1] (Index: [0])
+[10:54:43] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[10:54:43] Disconnected: 192.168.0.103 (0)
+[10:57:13] Connection Accept: 192.168.0.103
+[10:57:13] [Server] Sent Server List COUNT: [1] (Index: [0])
+[10:57:14] [Server] Sent Server List COUNT: [1] (Index: [0])
+[10:57:14] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[10:57:14] Disconnected: 192.168.0.103 (0)
