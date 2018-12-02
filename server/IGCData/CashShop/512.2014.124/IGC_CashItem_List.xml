@@ -33,5 +33,30 @@
 -->
 
 <CashItemList>
-	<Item GUID="373" iIndex="528" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="894" UniqueID2="1095" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="373" iIndex="528" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="894" UniqueID2="1095" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="374" iIndex="529" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="100" UniqueID1="895" UniqueID2="1097" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="375" iIndex="530" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="150" UniqueID1="896" UniqueID2="1099" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="376" iIndex="531" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="897" UniqueID2="1101" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="377" iIndex="532" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="250" UniqueID1="898" UniqueID2="1103" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="378" iIndex="533" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="899" UniqueID2="1105" ShopCategory="59" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="379" iIndex="534" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="900" UniqueID2="1107" ShopCategory="59" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="380" iIndex="535" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="901" UniqueID2="1109" ShopCategory="59" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="381" iIndex="536" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="902" UniqueID2="1111" ShopCategory="59" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="384" iIndex="539" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="905" UniqueID2="1117" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="385" iIndex="540" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="906" UniqueID2="1119" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="386" iIndex="541" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="907" UniqueID2="1121" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="387" iIndex="542" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="908" UniqueID2="1123" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="388" iIndex="543" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="909" UniqueID2="1125" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="389" iIndex="544" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="910" UniqueID2="1127" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="390" iIndex="545" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="911" UniqueID2="1129" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="391" iIndex="546" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="912" UniqueID2="1131" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="392" iIndex="547" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="913" UniqueID2="1133" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="393" iIndex="548" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="914" UniqueID2="1135" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="394" iIndex="549" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="915" UniqueID2="1137" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="395" iIndex="550" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="916" UniqueID2="1139" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="396" iIndex="551" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="917" UniqueID2="1141" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="397" iIndex="552" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="25" UniqueID1="918" UniqueID2="1143" ShopCategory="60" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="398" iIndex="553" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="1" UniqueID1="919" UniqueID2="1145" ShopCategory="61" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="399" iIndex="554" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="1" UniqueID1="920" UniqueID2="1147" ShopCategory="61" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
+<Item GUID="400" iIndex="555" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="1" UniqueID1="921" UniqueID2="1149" ShopCategory="61" GPRewardValue="0" CanBuy="1" CanGift="0" RandomItemSelect="0" />
 </CashItemList>

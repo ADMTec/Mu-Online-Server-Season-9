@@ -70,7 +70,7 @@
 -->
 
 <CashItemInfo>
-	<Item GUID="1" ID="1" Cat="2" Index="176" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="1" ID="1" Cat="2" Index="176" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
 <Item GUID="2" ID="2" Cat="2" Index="176" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
 <Item GUID="3" ID="3" Cat="13" Index="44" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="1" Duration="4320" />
 <Item GUID="4" ID="4" Cat="14" Index="75" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="1" Duration="4320" />
@@ -782,4 +782,35 @@
 <Item GUID="629" ID="719" Cat="14" Index="120" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
 <Item GUID="893" ID="1094" Cat="13" Index="66" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
 <Item GUID="894" ID="1095" Cat="14" Index="11" Level="8" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="895" ID="1097" Cat="14" Index="11" Level="9" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="896" ID="1099" Cat="14" Index="11" Level="10" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="897" ID="1101" Cat="14" Index="11" Level="11" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="898" ID="1103" Cat="14" Index="11" Level="12" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="899" ID="1105" Cat="12" Index="133" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="900" ID="1107" Cat="12" Index="134" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="901" ID="1109" Cat="12" Index="132" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="902" ID="1111" Cat="12" Index="131" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="903" ID="1113" Cat="12" Index="130" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="904" ID="1115" Cat="12" Index="135" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="905" ID="1117" Cat="15" Index="8" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="906" ID="1119" Cat="15" Index="15" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="907" ID="1121" Cat="12" Index="19" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="908" ID="1123" Cat="12" Index="14" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="909" ID="1125" Cat="12" Index="18" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="910" ID="1127" Cat="12" Index="45" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="911" ID="1129" Cat="12" Index="16" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="912" ID="1131" Cat="15" Index="29" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="913" ID="1133" Cat="12" Index="22" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="914" ID="1135" Cat="12" Index="21" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="915" ID="1137" Cat="15" Index="31" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="916" ID="1139" Cat="15" Index="30" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="917" ID="1141" Cat="15" Index="19" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="918" ID="1143" Cat="15" Index="21" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="919" ID="1145" Cat="13" Index="2" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="920" ID="1147" Cat="13" Index="0" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="921" ID="1149" Cat="13" Index="1" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="922" ID="1151" Cat="13" Index="32" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="923" ID="1153" Cat="13" Index="33" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="924" ID="1155" Cat="13" Index="34" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
+<Item GUID="925" ID="1157" Cat="13" Index="31" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" />
 </CashItemInfo>

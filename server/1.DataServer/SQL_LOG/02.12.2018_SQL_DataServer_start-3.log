@@ -1,0 +1,872 @@
+[18:30:47] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[18:30:47] SELECT * FROM Guild
+[18:30:47] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
+[18:30:47] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
+[18:30:47] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
+[18:30:47] EXEC IGC_DeleteAllPartyMatchingList
+[18:30:57] SELECT * FROM DefaultClassType
+[18:30:58] EXEC IGC_ArcaBattleWinGuildSelect
+[18:30:58] EXEC IGC_ArcaBattleProcSelect
+[18:31:35] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[18:31:35] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[18:31:35] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[18:31:35] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[18:31:35] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[18:31:35] EXEC VIPSystem_CheckAccount 'alurosu'
+[18:31:35] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[18:31:35] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[18:31:35] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[18:31:35] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[18:31:35] SELECT Inventory FROM Character WHERE Name='alurosu'
+[18:31:35] SELECT RESETS FROM Character WHERE Name='alurosu'
+[18:31:35] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[18:31:37] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[18:31:37] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[18:31:37] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[18:31:37] SELECT Inventory from Character where Name='alurosu'
+[18:31:37] SELECT MagicList from Character where Name='alurosu'
+[18:31:37] SELECT Quest from Character where Name='alurosu'
+[18:31:37] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[18:31:37] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[18:31:37] SELECT * FROM OptionData WHERE Name='alurosu'
+[18:31:37] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:37] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[18:31:37] SELECT SkillKey from OptionData where Name='alurosu'
+[18:31:37] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[18:31:37] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[18:31:37] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[18:31:37] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[18:31:37] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[18:31:37] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[18:31:37] SELECT FriendName FROM T_WaitFriend where GUID=1
+[18:31:37] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[18:31:37] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:31:37] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[18:31:37] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[18:31:37] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:31:37] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[18:31:37] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[18:31:37] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[18:31:37] EXEC IGC_GensLoad 'alurosu'
+[18:31:37] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[18:31:37] EXEC IGC_GensAbuseLoad 'alurosu'
+[18:31:37] EXEC IGC_LuckyItemSelect 'alurosu'
+[18:31:37] EXEC IGC_PeriodBuffSelect 'alurosu'
+[18:31:37] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[18:31:37] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[18:31:37] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[18:31:37] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[18:31:37] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[18:31:37] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[18:31:37] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[18:31:41] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:41] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:31:51] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:51] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:31:55] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:55] EXEC WZ_IBS_AddItem 'alurosu', 673, 894, 1095, 1
+[18:31:55] UPDATE T_InGameShop_Point SET WCoinC = 9850 WHERE AccountID = 'alurosu'
+[18:31:55] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:55] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:31:55] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:55] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:31:59] EXEC WZ_IBS_GetItemToUse 'alurosu', 3, 116176991
+[18:31:59] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:31:59] WZ_GetItemSerial2 '3000'
+[18:31:59] EXEC WZ_IBS_DeleteItem 'alurosu', 3, 116176991
+[18:31:59] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=319968037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=129, MapPosY=141, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:31:59] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:31:59] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:31:59] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:31:59] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:31:59] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:31:59] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:31:59] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:31:59] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:32:13] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768333
+[18:32:13] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768333, 1543854733, 160200, 5129, 0, 0, 1, 1, 65, 4, 0, 0, 0, 255, 255, 255, 255, 255, 0, 21002
+[18:32:14] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768334
+[18:32:14] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768334, 1543854734, 179800, 5129, 1, 0, 1, 1, 66, 4, 0, 0, 0, 255, 255, 255, 255, 255, 0, 21004
+[18:38:24] SELECT Name FROM OptionData WHERE Name='alurosu'
+[18:38:24] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=0, EnableChangeMode=0 WHERE Name='alurosu'
+[18:38:24] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[18:38:25] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[18:38:25] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:38:25] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[18:38:25] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:38:25] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:38:25] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:38:25] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[18:38:25] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:38:25] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:38:25] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:38:25] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:38:54] SELECT * FROM DefaultClassType
+[18:38:55] EXEC IGC_ArcaBattleWinGuildSelect
+[18:38:55] EXEC IGC_ArcaBattleProcSelect
+[18:39:22] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[18:39:22] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[18:39:22] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[18:39:22] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[18:39:22] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[18:39:22] EXEC VIPSystem_CheckAccount 'alurosu'
+[18:39:22] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[18:39:22] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[18:39:22] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[18:39:23] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[18:39:23] SELECT Inventory FROM Character WHERE Name='alurosu'
+[18:39:23] SELECT RESETS FROM Character WHERE Name='alurosu'
+[18:39:23] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[18:39:24] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[18:39:24] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[18:39:24] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[18:39:24] SELECT Inventory from Character where Name='alurosu'
+[18:39:24] SELECT MagicList from Character where Name='alurosu'
+[18:39:24] SELECT Quest from Character where Name='alurosu'
+[18:39:24] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[18:39:24] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[18:39:24] SELECT * FROM OptionData WHERE Name='alurosu'
+[18:39:24] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:24] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[18:39:24] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[18:39:24] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[18:39:24] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[18:39:24] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[18:39:24] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[18:39:24] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[18:39:24] SELECT SkillKey from OptionData where Name='alurosu'
+[18:39:24] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[18:39:24] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[18:39:24] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[18:39:24] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:39:24] SELECT FriendName FROM T_WaitFriend where GUID=1
+[18:39:24] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:39:24] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[18:39:24] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[18:39:24] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[18:39:24] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[18:39:24] EXEC IGC_LuckyItemSelect 'alurosu'
+[18:39:24] EXEC IGC_GensLoad 'alurosu'
+[18:39:24] EXEC IGC_PeriodBuffSelect 'alurosu'
+[18:39:24] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[18:39:24] EXEC IGC_GensAbuseLoad 'alurosu'
+[18:39:24] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[18:39:24] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[18:39:24] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[18:39:24] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[18:39:24] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[18:39:24] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[18:39:28] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:28] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:33] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:33] EXEC WZ_IBS_AddItem 'alurosu', 673, 894, 1095, 1
+[18:39:33] UPDATE T_InGameShop_Point SET WCoinC = 9800 WHERE AccountID = 'alurosu'
+[18:39:33] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:33] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:33] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:33] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:38] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:38] EXEC WZ_IBS_AddItem 'alurosu', 673, 895, 1097, 1
+[18:39:38] UPDATE T_InGameShop_Point SET WCoinC = 9700 WHERE AccountID = 'alurosu'
+[18:39:38] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:38] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:38] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:38] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:43] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:43] EXEC WZ_IBS_AddItem 'alurosu', 673, 896, 1099, 1
+[18:39:43] UPDATE T_InGameShop_Point SET WCoinC = 9550 WHERE AccountID = 'alurosu'
+[18:39:43] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:43] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:43] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:43] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:47] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:47] EXEC WZ_IBS_AddItem 'alurosu', 673, 897, 1101, 1
+[18:39:47] UPDATE T_InGameShop_Point SET WCoinC = 9350 WHERE AccountID = 'alurosu'
+[18:39:47] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:47] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:47] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:47] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:53] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:53] EXEC WZ_IBS_AddItem 'alurosu', 673, 898, 1103, 1
+[18:39:53] UPDATE T_InGameShop_Point SET WCoinC = 9100 WHERE AccountID = 'alurosu'
+[18:39:53] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:53] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:39:53] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:39:53] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:00] EXEC WZ_IBS_GetItemToUse 'alurosu', 4, 309853388
+[18:40:00] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:00] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:00] EXEC WZ_IBS_DeleteItem 'alurosu', 4, 309853388
+[18:40:00] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:00] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:00] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:00] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:00] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:00] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:00] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:00] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:05] EXEC WZ_IBS_GetItemToUse 'alurosu', 6, 1506140219
+[18:40:05] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:05] EXEC WZ_IBS_DeleteItem 'alurosu', 6, 1506140219
+[18:40:05] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:05] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:05] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:05] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:05] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:05] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:05] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:05] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:05] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:09] EXEC WZ_IBS_GetItemToUse 'alurosu', 7, 939415586
+[18:40:09] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:09] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:09] EXEC WZ_IBS_DeleteItem 'alurosu', 7, 939415586
+[18:40:09] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:09] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:09] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:09] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:09] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:09] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:09] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:09] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:13] EXEC WZ_IBS_GetItemToUse 'alurosu', 8, 1109338091
+[18:40:13] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:13] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:13] EXEC WZ_IBS_DeleteItem 'alurosu', 8, 1109338091
+[18:40:13] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:13] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:13] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:13] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:13] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:13] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:13] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:13] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:16] EXEC WZ_IBS_GetItemToUse 'alurosu', 5, 1825151431
+[18:40:16] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:16] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:16] EXEC WZ_IBS_DeleteItem 'alurosu', 5, 1825151431
+[18:40:16] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:16] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:16] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:16] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:16] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:16] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:16] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:16] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:20] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:20] EXEC WZ_IBS_AddItem 'alurosu', 673, 899, 1105, 1
+[18:40:20] UPDATE T_InGameShop_Point SET WCoinC = 9050 WHERE AccountID = 'alurosu'
+[18:40:20] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:20] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:20] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:20] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:23] EXEC WZ_IBS_GetItemToUse 'alurosu', 9, 1611294616
+[18:40:23] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:40:23] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=320158037, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=127, MapPosY=132, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:40:23] EXEC WZ_IBS_DeleteItem 'alurosu', 9, 1611294616
+[18:40:23] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:40:23] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:40:23] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:40:23] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:40:23] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:40:23] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:40:23] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:40:23] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:40:56] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768856
+[18:40:56] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768856, 1543855256, 466800, 5147, 0, 0, 1, 1, 85, 16, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24011
+[18:40:58] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768858
+[18:40:58] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768858, 1543855258, 370200, 2052, 0, 1, 1, 1, 58, 8, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24009
+[18:41:00] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768860
+[18:41:00] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768860, 1543855260, 575600, 5659, 0, 0, 1, 1, 85, 1, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24012
+[18:41:01] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768861
+[18:41:01] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768861, 1543855261, 383600, 5668, 0, 0, 1, 1, 74, 32, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24013
+[18:41:04] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:04] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:10] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:10] EXEC WZ_IBS_AddItem 'alurosu', 673, 905, 1117, 1
+[18:41:10] UPDATE T_InGameShop_Point SET WCoinC = 9025 WHERE AccountID = 'alurosu'
+[18:41:10] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:10] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:10] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:10] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:13] EXEC WZ_IBS_GetItemToUse 'alurosu', 10, 431591809
+[18:41:13] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:13] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321056137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=123, MapPosY=133, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:41:13] EXEC WZ_IBS_DeleteItem 'alurosu', 10, 431591809
+[18:41:13] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:41:13] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:13] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:41:13] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:41:13] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:41:13] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:41:13] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:41:13] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:41:21] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:21] EXEC WZ_IBS_AddItem 'alurosu', 673, 922, 1151, 1
+[18:41:21] UPDATE T_InGameShop_Point SET WCoinC = 8985 WHERE AccountID = 'alurosu'
+[18:41:21] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:21] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:21] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:21] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:26] EXEC WZ_IBS_GetItemToUse 'alurosu', 11, 1201630736
+[18:41:26] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:41:26] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321056137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=0, MapPosX=123, MapPosY=133, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:41:26] EXEC WZ_IBS_DeleteItem 'alurosu', 11, 1201630736
+[18:41:26] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:41:26] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:41:26] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:41:26] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:41:26] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:41:26] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:41:26] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:41:26] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:42:06] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:06] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:12] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:12] EXEC WZ_IBS_AddItem 'alurosu', 673, 925, 1157, 1
+[18:42:12] UPDATE T_InGameShop_Point SET WCoinC = 8885 WHERE AccountID = 'alurosu'
+[18:42:12] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:12] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:12] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:12] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:16] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:16] EXEC WZ_IBS_AddItem 'alurosu', 673, 923, 1153, 1
+[18:42:16] UPDATE T_InGameShop_Point SET WCoinC = 8845 WHERE AccountID = 'alurosu'
+[18:42:16] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:16] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:16] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:16] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:20] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:20] EXEC WZ_IBS_AddItem 'alurosu', 673, 924, 1155, 1
+[18:42:20] UPDATE T_InGameShop_Point SET WCoinC = 8825 WHERE AccountID = 'alurosu'
+[18:42:20] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:20] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:20] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:20] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:25] EXEC WZ_IBS_GetItemToUse 'alurosu', 12, 1273196083
+[18:42:25] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:25] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321054137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=176, MapPosY=100, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:42:25] EXEC WZ_IBS_DeleteItem 'alurosu', 12, 1273196083
+[18:42:25] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:42:25] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:25] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:42:25] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:42:25] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:42:25] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:42:25] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:42:25] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:42:28] EXEC WZ_IBS_GetItemToUse 'alurosu', 13, 434362458
+[18:42:28] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:28] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321054137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=176, MapPosY=100, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:42:28] EXEC WZ_IBS_DeleteItem 'alurosu', 13, 434362458
+[18:42:28] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:42:28] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:28] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:42:28] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:42:28] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:42:28] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:42:28] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:42:28] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:42:31] EXEC WZ_IBS_GetItemToUse 'alurosu', 14, 529355055
+[18:42:31] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:31] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321054137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=176, MapPosY=100, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:42:31] EXEC WZ_IBS_DeleteItem 'alurosu', 14, 529355055
+[18:42:31] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:42:31] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:42:31] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:31] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:42:31] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:42:31] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:42:31] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:42:31] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:42:34] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:34] EXEC WZ_IBS_AddItem 'alurosu', 673, 921, 1149, 1
+[18:42:34] UPDATE T_InGameShop_Point SET WCoinC = 8824 WHERE AccountID = 'alurosu'
+[18:42:34] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:34] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:34] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:34] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:37] EXEC WZ_IBS_GetItemToUse 'alurosu', 15, 1535593850
+[18:42:37] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:42:37] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=321054137, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=176, MapPosY=100, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:42:37] EXEC WZ_IBS_DeleteItem 'alurosu', 15, 1535593850
+[18:42:37] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:42:37] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:42:37] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:42:37] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:42:37] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:42:37] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:42:37] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:42:37] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:43:16] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768996
+[18:43:16] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768996, 1543855396, 6000000, 6687, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24016
+[18:43:18] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543768998
+[18:43:18] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543768998, 1543855398, 510000, 6690, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24018
+[18:43:24] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:43:24] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:43:36] SELECT Name FROM OptionData WHERE Name='alurosu'
+[18:43:36] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=0, EnableChangeMode=0 WHERE Name='alurosu'
+[18:43:36] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[18:43:37] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[18:43:37] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=177, MapPosY=119, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:43:37] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:43:37] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:43:37] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:43:37] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:43:37] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[18:43:37] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:43:37] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:43:37] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:43:37] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[18:54:46] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[18:54:46] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[18:54:46] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[18:54:46] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[18:54:46] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[18:54:46] EXEC VIPSystem_CheckAccount 'alurosu'
+[18:54:46] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[18:54:46] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[18:54:46] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[18:54:46] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[18:54:46] SELECT Inventory FROM Character WHERE Name='alurosu'
+[18:54:46] SELECT RESETS FROM Character WHERE Name='alurosu'
+[18:54:46] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[18:54:48] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[18:54:48] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[18:54:48] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[18:54:48] SELECT Inventory from Character where Name='alurosu'
+[18:54:48] SELECT MagicList from Character where Name='alurosu'
+[18:54:48] SELECT Quest from Character where Name='alurosu'
+[18:54:48] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[18:54:48] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[18:54:48] SELECT * FROM OptionData WHERE Name='alurosu'
+[18:54:48] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[18:54:48] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:54:48] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[18:54:48] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[18:54:48] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[18:54:48] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[18:54:48] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[18:54:48] SELECT SkillKey from OptionData where Name='alurosu'
+[18:54:48] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[18:54:48] SELECT FriendName FROM T_WaitFriend where GUID=1
+[18:54:48] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[18:54:48] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[18:54:48] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[18:54:48] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[18:54:48] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:54:48] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[18:54:48] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[18:54:48] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[18:54:49] EXEC IGC_GensLoad 'alurosu'
+[18:54:49] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[18:54:49] EXEC IGC_GensAbuseLoad 'alurosu'
+[18:54:49] EXEC IGC_LuckyItemSelect 'alurosu'
+[18:54:49] EXEC IGC_PeriodBuffSelect 'alurosu'
+[18:54:49] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[18:54:49] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[18:54:49] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[18:54:49] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[18:54:49] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[18:54:49] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[18:54:49] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[18:55:27] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:27] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:33] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:33] EXEC WZ_IBS_AddItem 'alurosu', 673, 901, 1109, 1
+[18:55:33] UPDATE T_InGameShop_Point SET WCoinC = 8774 WHERE AccountID = 'alurosu'
+[18:55:33] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:33] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:33] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:33] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:37] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:37] EXEC WZ_IBS_AddItem 'alurosu', 673, 900, 1107, 1
+[18:55:37] UPDATE T_InGameShop_Point SET WCoinC = 8724 WHERE AccountID = 'alurosu'
+[18:55:37] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:37] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:37] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:37] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:41] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:41] EXEC WZ_IBS_AddItem 'alurosu', 673, 904, 1115, 1
+[18:55:41] UPDATE T_InGameShop_Point SET WCoinC = 8674 WHERE AccountID = 'alurosu'
+[18:55:41] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:41] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:41] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:41] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:45] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:45] EXEC WZ_IBS_AddItem 'alurosu', 673, 903, 1113, 1
+[18:55:45] UPDATE T_InGameShop_Point SET WCoinC = 8624 WHERE AccountID = 'alurosu'
+[18:55:45] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:45] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:45] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:45] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:48] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:48] EXEC WZ_IBS_AddItem 'alurosu', 673, 902, 1111, 1
+[18:55:48] UPDATE T_InGameShop_Point SET WCoinC = 8574 WHERE AccountID = 'alurosu'
+[18:55:48] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:48] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:48] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:48] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:52] EXEC WZ_IBS_GetItemToUse 'alurosu', 16, 1526836441
+[18:55:52] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:52] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=171, MapPosY=116, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:55:52] EXEC WZ_IBS_DeleteItem 'alurosu', 16, 1526836441
+[18:55:52] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:55:52] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:52] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:55:52] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:55:52] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:55:52] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:55:52] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:55:52] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:55:56] EXEC WZ_IBS_GetItemToUse 'alurosu', 17, 1989279613
+[18:55:56] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:56] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=171, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:55:56] EXEC WZ_IBS_DeleteItem 'alurosu', 17, 1989279613
+[18:55:56] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:55:56] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:56] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:55:56] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:55:56] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:55:56] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:55:56] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:55:56] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:55:59] EXEC WZ_IBS_GetItemToUse 'alurosu', 18, 1583374576
+[18:55:59] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:55:59] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=171, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:55:59] EXEC WZ_IBS_DeleteItem 'alurosu', 18, 1583374576
+[18:55:59] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:55:59] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:55:59] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:55:59] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:55:59] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:55:59] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:55:59] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:55:59] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:56:02] EXEC WZ_IBS_GetItemToUse 'alurosu', 19, 480386423
+[18:56:02] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:56:02] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=171, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:56:02] EXEC WZ_IBS_DeleteItem 'alurosu', 19, 480386423
+[18:56:02] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:56:02] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:56:02] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:56:02] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:56:02] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:56:02] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:56:02] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:56:02] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:56:05] EXEC WZ_IBS_GetItemToUse 'alurosu', 20, 253747772
+[18:56:05] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[18:56:05] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=171, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:56:05] EXEC WZ_IBS_DeleteItem 'alurosu', 20, 253747772
+[18:56:05] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:56:05] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:56:05] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:56:05] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[18:56:05] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:56:05] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:56:05] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[18:56:05] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:56:54] SELECT Name FROM OptionData WHERE Name='alurosu'
+[18:56:54] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=65535, EnableChangeMode=0 WHERE Name='alurosu'
+[18:56:54] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[18:56:55] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[18:56:55] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320737, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=170, MapPosY=115, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[18:56:55] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[18:56:55] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[18:56:55] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[18:56:55] EXEC IGC_GensSave 'alurosu', 10, 14
+[18:56:55] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[18:56:55] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[18:56:55] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[18:56:55] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[18:56:55] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:05:01] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[19:05:01] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[19:05:01] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[19:05:01] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[19:05:01] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[19:05:01] EXEC VIPSystem_CheckAccount 'alurosu'
+[19:05:01] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[19:05:01] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[19:05:01] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[19:05:01] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[19:05:01] SELECT Inventory FROM Character WHERE Name='alurosu'
+[19:05:01] SELECT RESETS FROM Character WHERE Name='alurosu'
+[19:05:01] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[19:05:03] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[19:05:03] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[19:05:03] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[19:05:03] SELECT Inventory from Character where Name='alurosu'
+[19:05:03] SELECT MagicList from Character where Name='alurosu'
+[19:05:03] SELECT Quest from Character where Name='alurosu'
+[19:05:03] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[19:05:03] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[19:05:03] SELECT * FROM OptionData WHERE Name='alurosu'
+[19:05:03] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[19:05:03] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:05:03] SELECT SkillKey from OptionData where Name='alurosu'
+[19:05:03] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[19:05:03] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[19:05:03] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[19:05:03] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[19:05:03] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[19:05:03] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[19:05:03] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[19:05:03] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[19:05:03] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[19:05:03] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:05:03] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:05:03] SELECT FriendName FROM T_WaitFriend where GUID=1
+[19:05:03] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[19:05:03] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[19:05:03] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[19:05:03] EXEC IGC_LuckyItemSelect 'alurosu'
+[19:05:03] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[19:05:03] EXEC IGC_PeriodBuffSelect 'alurosu'
+[19:05:03] EXEC IGC_GensLoad 'alurosu'
+[19:05:03] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[19:05:03] EXEC IGC_GensAbuseLoad 'alurosu'
+[19:05:03] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[19:05:03] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[19:05:03] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[19:05:03] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[19:05:03] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[19:05:03] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[19:05:11] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:05:11] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:05:41] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543770341
+[19:05:41] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543770341, 1543856741, 160, 6274, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24023
+[19:05:42] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543770342
+[19:05:42] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543770342, 1543856742, 160, 6279, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24022
+[19:05:52] SELECT Name FROM OptionData WHERE Name='alurosu'
+[19:05:52] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=65535, EnableChangeMode=0 WHERE Name='alurosu'
+[19:05:52] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[19:05:52] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[19:05:52] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320897, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=175, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:05:52] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:05:52] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:05:52] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:05:52] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[19:05:52] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:05:52] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:05:52] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[19:05:52] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:05:52] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[19:14:20] SELECT * FROM DefaultClassType
+[19:14:21] EXEC IGC_ArcaBattleWinGuildSelect
+[19:14:21] EXEC IGC_ArcaBattleProcSelect
+[19:14:44] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[19:14:44] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[19:14:44] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[19:14:44] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[19:14:44] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[19:14:44] EXEC VIPSystem_CheckAccount 'alurosu'
+[19:14:44] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[19:14:44] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[19:14:44] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[19:14:44] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[19:14:44] SELECT Inventory FROM Character WHERE Name='alurosu'
+[19:14:44] SELECT RESETS FROM Character WHERE Name='alurosu'
+[19:14:44] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[19:14:46] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[19:14:46] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[19:14:46] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[19:14:46] SELECT Inventory from Character where Name='alurosu'
+[19:14:46] SELECT MagicList from Character where Name='alurosu'
+[19:14:46] SELECT Quest from Character where Name='alurosu'
+[19:14:46] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[19:14:46] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[19:14:46] SELECT * FROM OptionData WHERE Name='alurosu'
+[19:14:46] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:14:46] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[19:14:46] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[19:14:46] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[19:14:46] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[19:14:46] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[19:14:46] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[19:14:46] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[19:14:46] SELECT SkillKey from OptionData where Name='alurosu'
+[19:14:46] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[19:14:46] SELECT FriendName FROM T_WaitFriend where GUID=1
+[19:14:46] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[19:14:46] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:14:46] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[19:14:46] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:14:46] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[19:14:46] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[19:14:46] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[19:14:46] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[19:14:46] EXEC IGC_GensLoad 'alurosu'
+[19:14:46] EXEC IGC_LuckyItemSelect 'alurosu'
+[19:14:46] EXEC IGC_GensAbuseLoad 'alurosu'
+[19:14:46] EXEC IGC_PeriodBuffSelect 'alurosu'
+[19:14:46] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[19:14:46] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[19:14:46] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[19:14:46] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[19:14:46] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[19:14:46] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[19:14:46] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[19:14:50] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:14:50] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:14:58] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:14:58] EXEC WZ_IBS_AddItem 'alurosu', 673, 929, 1172, 1
+[19:14:58] UPDATE T_InGameShop_Point SET WCoinC = 8224 WHERE AccountID = 'alurosu'
+[19:14:58] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:14:58] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:14:58] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:14:58] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:02] EXEC WZ_IBS_GetItemToUse 'alurosu', 21, 1321503095
+[19:15:02] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:02] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320897, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=175, MapPosY=116, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:15:02] EXEC WZ_IBS_DeleteItem 'alurosu', 21, 1321503095
+[19:15:02] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:15:02] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:15:02] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:02] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:15:02] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:15:02] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:15:02] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:15:02] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[19:15:17] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:17] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:31] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:31] EXEC WZ_IBS_AddItem 'alurosu', 673, 930, 1175, 1
+[19:15:31] UPDATE T_InGameShop_Point SET WCoinC = 7824 WHERE AccountID = 'alurosu'
+[19:15:31] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:31] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:31] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:31] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:42] EXEC WZ_IBS_GetItemToUse 'alurosu', 22, 70675908
+[19:15:42] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:42] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320897, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=173, MapPosY=117, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:15:42] EXEC WZ_IBS_DeleteItem 'alurosu', 22, 70675908
+[19:15:42] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:15:42] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:15:42] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:15:42] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:15:42] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:15:42] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:15:42] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:15:42] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[19:15:46] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:15:46] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:20:15] SELECT Name FROM OptionData WHERE Name='alurosu'
+[19:20:15] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=0, EnableChangeMode=0 WHERE Name='alurosu'
+[19:20:15] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[19:20:15] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[19:20:15] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320897, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=173, MapPosY=117, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:20:15] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:20:15] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:20:15] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:20:15] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[19:20:15] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:20:15] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:20:15] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[19:20:15] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:20:15] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[19:23:18] SELECT * FROM DefaultClassType
+[19:23:19] EXEC IGC_ArcaBattleWinGuildSelect
+[19:23:19] EXEC IGC_ArcaBattleProcSelect
+[19:23:50] SELECT * FROM MEMB_INFO WHERE memb___id='alurosu'
+[19:23:50] SELECT memb__pwd from MEMB_INFO where memb___id='alurosu'
+[19:23:50] SELECT * FROM IGC_MachineID_Banned WHERE HWID = ''
+[19:23:50] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','192.168.0.103', GETDATE(), 'Connect', '')
+[19:23:50] EXEC WZ_CONNECT_MEMB 'alurosu','Regular','192.168.0.103'
+[19:23:50] EXEC VIPSystem_CheckAccount 'alurosu'
+[19:23:50] SELECT Id FROM AccountCharacter WHERE Id='alurosu'
+[19:23:50] SELECT * FROM AccountCharacter WHERE Id='alurosu'
+[19:23:50] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='alurosu'
+[19:23:50] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='alurosu'
+[19:23:50] SELECT Inventory FROM Character WHERE Name='alurosu'
+[19:23:50] SELECT RESETS FROM Character WHERE Name='alurosu'
+[19:23:50] SELECT G_Status FROM GuildMember WHERE Name='alurosu'
+[19:23:52] SELECT * FROM AccountCharacter WHERE Id = 'alurosu'
+[19:23:52] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'alurosu'
+[19:23:52] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='alurosu' AND AccountID='alurosu'
+[19:23:52] SELECT Inventory from Character where Name='alurosu'
+[19:23:52] SELECT MagicList from Character where Name='alurosu'
+[19:23:52] SELECT Quest from Character where Name='alurosu'
+[19:23:52] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='alurosu'
+[19:23:52] UPDATE AccountCharacter SET GameIDC='alurosu' WHERE Id='alurosu'
+[19:23:52] SELECT * FROM OptionData WHERE Name='alurosu'
+[19:23:52] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:23:52] EXEC IGC_QuestExpUserInfoLoad_Fir 'alurosu'
+[19:23:52] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'alurosu'
+[19:23:52] EXEC IGC_SetSelectMuRummy 'alurosu', 'alurosu'
+[19:23:52] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 1, ?, ?, ?
+[19:23:52] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[19:23:52] SELECT * FROM PetWarehouse WHERE Name= 'alurosu'
+[19:23:52] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 16, ?, ?, ?
+[19:23:52] SELECT SkillKey from OptionData where Name='alurosu'
+[19:23:52] SELECT Items from PetWarehouse WHERE Name= 'alurosu'
+[19:23:52] SELECT FriendName FROM T_WaitFriend where GUID=1
+[19:23:52] SELECT MuBotData FROM Character WHERE Name = 'alurosu'
+[19:23:52] SELECT * FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:23:52] EXEC IGC_QuestExpUserInfoLoad_Sec 'alurosu', 17, ?, ?, ?
+[19:23:52] SELECT Inventory FROM T_Event_Inventory WHERE Name = 'alurosu'
+[19:23:52] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[19:23:52] EXEC IGC_PeriodItemExpiredItemSelectEx 1, 'alurosu'
+[19:23:52] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'alurosu'
+[19:23:52] EXEC IGC_PeriodItemSelectEx 1, 'alurosu'
+[19:23:52] EXEC IGC_GensLoad 'alurosu'
+[19:23:52] EXEC IGC_LuckyItemSelect 'alurosu'
+[19:23:52] EXEC IGC_GensAbuseLoad 'alurosu'
+[19:23:52] EXEC IGC_PeriodBuffSelect 'alurosu'
+[19:23:52] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 0
+[19:23:52] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='alurosu'
+[19:23:52] EXEC IGC_PentagramInfoSelect 1, 'alurosu', 'alurosu', 1
+[19:23:52] EXEC IGC_PShopItemValueInfoLoad 'alurosu', 'alurosu'
+[19:23:52] EXEC IGC_MineSystem_Select_UPTUserInfo 'alurosu'
+[19:23:52] EXEC IGC_GremoryCase_GetItemList 'alurosu', 'alurosu'
+[19:23:52] EXEC IGC_BattleCore_GetUserInfo 'alurosu', 'alurosu', 0, 0
+[19:23:55] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:23:55] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:23:58] SELECT WCoinC AS Result FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:23:58] EXEC WZ_IBS_AddItem 'alurosu', 673, 898, 1103, 1
+[19:23:58] UPDATE T_InGameShop_Point SET WCoinC = 7574 WHERE AccountID = 'alurosu'
+[19:23:58] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:23:58] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:23:58] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:23:58] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:24:03] EXEC WZ_IBS_GetItemToUse 'alurosu', 23, 1598536791
+[19:24:03] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:24:03] EXEC WZ_IBS_DeleteItem 'alurosu', 23, 1598536791
+[19:24:03] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=324320897, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=173, MapPosY=117, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:24:03] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:24:03] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:24:03] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:24:03] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:24:03] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:24:03] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:24:03] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:24:03] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
+[19:24:26] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771466
+[19:24:26] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771466, 1543857866, 320600, 4121, 0, 0, 1, 1, 57, 2, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24028
+[19:24:27] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771467
+[19:24:27] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771467, 1543857867, 1433200, 3601, 0, 0, 1, 1, 95, 12, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24030
+[19:24:27] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771467
+[19:24:27] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771467, 1543857867, 160, 6277, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24008
+[19:24:29] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771469
+[19:24:29] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771469, 1543857869, 79000, 5671, 0, 0, 1, 1, 51, 2, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24026
+[19:24:33] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771473
+[19:24:33] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771473, 1543857873, 160, 6278, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24021
+[19:24:35] EXEC IGC_CancelItemSale_ClearExpiredItems 'alurosu', 'alurosu', 1543771475
+[19:24:35] EXEC IGC_CancelItemSale_AddItem 'alurosu', 'alurosu', 1543771475, 1543857875, 160, 6276, 0, 0, 0, 0, 255, 0, 0, 0, 0, 255, 255, 255, 255, 255, 0, 24020
+[19:24:39] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'alurosu'
+[19:24:39] EXEC WZ_IBS_GetItemsList 'alurosu', 1
+[19:25:04] SELECT Name FROM OptionData WHERE Name='alurosu'
+[19:25:04] UPDATE OptionData SET GameOption=9, Qkey=255, Wkey=255, Ekey=255, ChatWindow=38, Rkey=255, QWERLevel=0, EnableChangeMode=0 WHERE Name='alurosu'
+[19:25:04] UPDATE OptionData SET SkillKey=? where Name='alurosu'
+[19:25:05] UPDATE Character SET cLevel=400, mLevel=0, Class=18,LevelUpPoint=218, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=4000, Dexterity=295, Vitality=300, Energy=300, Money=325237537, Life=1733.000000, MaxLife=1733.000000, Mana=509.000000, MaxMana=509.000000, MapNumber=3, MapPosX=174, MapPosY=119, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0 WHERE Name = 'alurosu'
+[19:25:05] EXEC IGC_DeleteWaitPartyMatchingList 'alurosu'
+[19:25:05] UPDATE Character SET Inventory=? WHERE Name='alurosu'
+[19:25:05] UPDATE Character SET MagicList=? WHERE Name='alurosu'
+[19:25:05] EXEC IGC_GensSave 'alurosu', 10, 14
+[19:25:05] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('alurosu','Regular','', GETDATE(), 'Disconnect', 'N/A')
+[19:25:05] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = 'alurosu'
+[19:25:05] UPDATE Character SET Quest=? WHERE Name='alurosu'
+[19:25:05] EXEC WZ_DISCONNECT_MEMB 'alurosu'
+[19:25:05] UPDATE PetWarehouse SET Items=? WHERE Name='alurosu'
+[19:25:05] DELETE FROM IGC_GensAbuse WHERE Name = 'alurosu'
