@@ -91,7 +91,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<GensSystem BlueMuMode="0" InitialContributePoint="10" AbusingPenaltyWarning="3" AbusingPenaltyLimit="6" AbusingResetTime="60" PkPenaltyAddNeedZenMapMove="2" BattleZoneAddExperience="1.0" ML_BattleZoneAddExperience="1.0" DamageReduction="100">
+<GensSystem BlueMuMode="0" InitialContributePoint="10" AbusingPenaltyWarning="3" AbusingPenaltyLimit="6" AbusingResetTime="60" PkPenaltyAddNeedZenMapMove="2" BattleZoneAddExperience="0.0" ML_BattleZoneAddExperience="0.0" DamageReduction="100">
 	<General CanSeeOppositeGensChat="0" CanJoinPartyWhileOppositeGens="0" CanJoinGuildWhileOppositeGens="0" CanJoinUnionWhileOppositeGens="0" CanCreatePartyOnBattleZone="1" />
 	<RewardSettings StartDay="1" EndDay="7" MinRankToGainReward="300" />
 	
@@ -114,21 +114,67 @@
 	
 	<BattleZoneSettings>
 		<MapList>
-			<Map Number="37" Enable="1" FamilyAccessType="0"> <!-- Kanturu -->
-				<Duprian ExpBonus="0" MLExpBonus="0" ItemDropBonus="0" MLItemDropBonus="0" ExcItemDropBonus="0" MLExcItemDropBonus="0" />
-				<Vanert ExpBonus="0" MLExpBonus="0" ItemDropBonus="0" MLItemDropBonus="0" ExcItemDropBonus="0" MLExcItemDropBonus="0" />
+			<Map Number="6" Enable="1" FamilyAccessType="0"> <!-- Arena -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
 			</Map>
+			<Map Number="2" Enable="1" FamilyAccessType="0"> <!-- Devias -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="8" Enable="1" FamilyAccessType="0"> <!-- Tarkan -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="37" Enable="1" FamilyAccessType="0"> <!-- Kanturu -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			
+			<Map Number="91" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="92" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="100" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="101" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="95" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			<Map Number="96" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
+			
 			<Map Number="63" Enable="1" FamilyAccessType="0"> <!-- Vulcanus -->
-				<Duprian ExpBonus="0" MLExpBonus="0" ItemDropBonus="0" MLItemDropBonus="0" ExcItemDropBonus="0" MLExcItemDropBonus="0" />
-				<Vanert ExpBonus="0" MLExpBonus="0" ItemDropBonus="0" MLItemDropBonus="0" ExcItemDropBonus="0" MLExcItemDropBonus="0" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
 			</Map>
 		</MapList>
 
 		<WarpList>
+			<Warp Index="1" Enable="1" /> <!-- Arena -->
+			<Warp Index="4" Enable="1" /> <!-- Devias -->
+			<Warp Index="5" Enable="1" /> <!-- Devias 2 -->
+			<Warp Index="6" Enable="1" /> <!-- Devias 3 -->
+			<Warp Index="7" Enable="1" /> <!-- Devias 4 -->
+			<Warp Index="21" Enable="1" /> <!-- Tarkan -->
+			<Warp Index="22" Enable="1" /> <!-- Tarkan 2 -->
 			<Warp Index="28" Enable="1" /> <!-- Kanturu Ruins 1 -->
 			<Warp Index="29" Enable="1" /> <!-- Kanturu Ruins 2 -->
 			<Warp Index="45" Enable="1" /> <!-- Kanturu Ruins 3 -->
 			<Warp Index="30" Enable="1" /> <!-- KanturuRelics -->
+			<Warp Index="33" Enable="1" /> <!-- Acheron -->
 			<Warp Index="42" Enable="1" /> <!-- Vulcanus -->
 		</WarpList>
 	</BattleZoneSettings>

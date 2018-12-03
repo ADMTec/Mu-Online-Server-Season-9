@@ -61,32 +61,24 @@
 <PlayerKillSystem DisablePKLevelIncrease="0" DisablePenalty="0" PKCanUseshops="0" DropExpensiveItems="0" MaxItemLevelDrop="8" PointDeductionDivisor="2" MurdererPointIncrease="3600">
 <PKClearCommand Enable="1" Cost="1000000" CostMultiplyByKillCount="1" />
 	<General>
-		<PK Level="3" ReqPoint="0" ItemLoseRateOnMonsterKill="6" ItemLoseRateOnPlayerKill="0" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="1" CanSummonByDarkLord="1" Description="Normal" />
-		<PK Level="4" ReqPoint="21600" ItemLoseRateOnMonsterKill="25" ItemLoseRateOnPlayerKill="25" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="1" CanSummonByDarkLord="1" Description="Warning" />
-		<PK Level="5" ReqPoint="43200" ItemLoseRateOnMonsterKill="50" ItemLoseRateOnPlayerKill="50" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="50" CanSummonByDarkLord="0" Description="PK Level 2" />
-		<PK Level="6" ReqPoint="86400" ItemLoseRateOnMonsterKill="90" ItemLoseRateOnPlayerKill="90" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="50" CanSummonByDarkLord="0" Description="Murderer Level" />
+		<PK Level="3" ReqPoint="0" ItemLoseRateOnMonsterKill="6" ItemLoseRateOnPlayerKill="0" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="1" CanSummonByDarkLord="1" Description="Warning" />
+		<PK Level="4" ReqPoint="21600" ItemLoseRateOnMonsterKill="25" ItemLoseRateOnPlayerKill="0" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="1" CanSummonByDarkLord="1" Description="Murderer" />
+		<PK Level="5" ReqPoint="43200" ItemLoseRateOnMonsterKill="50" ItemLoseRateOnPlayerKill="0" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="50" CanSummonByDarkLord="0" Description="Demon" />
+		<PK Level="6" ReqPoint="86400" ItemLoseRateOnMonsterKill="90" ItemLoseRateOnPlayerKill="0" ZenDeductionRateOnMonsterKill="4" ZenDeductionRateOnPlayerKill="0" WarpChargeMultiplier="50" CanSummonByDarkLord="0" Description="Devil" />
 	</General>
 	
 	<ExpDeduction>
-		<PK Level="3"> <!-- Normal -->
-			<LevelRange Start="11" End="150" DeductionRate="3" />
-			<LevelRange Start="151" End="220" DeductionRate="2" />
-			<LevelRange Start="221" End="MAX" DeductionRate="1" />
+		<PK Level="3"> <!-- Warning -->
+			<LevelRange Start="1" End="MAX" DeductionRate="0" />
 		</PK>
-		<PK Level="4"> <!-- Warning -->
-			<LevelRange Start="11" End="150" DeductionRate="5" />
-			<LevelRange Start="151" End="220" DeductionRate="5" />
-			<LevelRange Start="221" End="MAX" DeductionRate="5" />
+		<PK Level="4"> <!-- Murderer -->
+			<LevelRange Start="1" End="MAX" DeductionRate="10" />
 		</PK>
-		<PK Level="5"> <!-- PK Level 2 -->
-			<LevelRange Start="11" End="150" DeductionRate="10" />
-			<LevelRange Start="151" End="220" DeductionRate="10" />
-			<LevelRange Start="221" End="MAX" DeductionRate="10" />
+		<PK Level="5"> <!-- Demon -->
+			<LevelRange Start="1" End="MAX" DeductionRate="20" />
 		</PK>
-		<PK Level="6"> <!-- Murdered Level -->
-			<LevelRange Start="11" End="150" DeductionRate="20" />
-			<LevelRange Start="151" End="220" DeductionRate="20" />
-			<LevelRange Start="221" End="MAX" DeductionRate="20" />
+		<PK Level="6"> <!-- Devil -->
+			<LevelRange Start="1" End="MAX" DeductionRate="30" />
 		</PK>
 	</ExpDeduction>
 </PlayerKillSystem>

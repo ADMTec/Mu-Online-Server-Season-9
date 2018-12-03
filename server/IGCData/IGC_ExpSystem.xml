@@ -43,49 +43,8 @@
 -->
 
 <ExpSystem CalcType="0" DebugMode="0">
-	<StaticExp Normal="2500" Master="5000" Event="0.0" Quest="1.0" />
+	<StaticExp Normal="100" Master="100" Event="0.0" Quest="1.0" />
 	
-	<DynamicExpRangeList> <!-- First rule match a player requirements will be applied, therefore order of entries matters -->
-		<Range MinReset="0" MaxReset="0" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" />
-		<Range MinReset="0" MaxReset="0" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" />
-		<Range MinReset="0" MaxReset="0" MinLevel="101" MaxLevel="200" NormalExp="1.5" MasterExp="1.0" />
-		<Range MinReset="0" MaxReset="0" MinLevel="201" MaxLevel="400" NormalExp="1.8" MasterExp="1.0" />
-		<Range MinReset="0" MaxReset="0" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.8" />
-		<Range MinReset="0" MaxReset="0" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="2.2" />
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Range MinReset="1" MaxReset="2" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" />
-		<Range MinReset="1" MaxReset="2" MinLevel="51" MaxLevel="100" NormalExp="1.1" MasterExp="1.0" />
-		<Range MinReset="1" MaxReset="2" MinLevel="101" MaxLevel="200" NormalExp="1.1" MasterExp="1.0" />
-		<Range MinReset="1" MaxReset="2" MinLevel="201" MaxLevel="400" NormalExp="1.1" MasterExp="1.0" />
-		<Range MinReset="1" MaxReset="2" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.2" />
-		<Range MinReset="1" MaxReset="2" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="1.4" />
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Range MinReset="3" MaxReset="4" MinLevel="1" MaxLevel="50" NormalExp="1.2" MasterExp="1.0" />
-		<Range MinReset="3" MaxReset="4" MinLevel="51" MaxLevel="100" NormalExp="1.2" MasterExp="1.0" />
-		<Range MinReset="3" MaxReset="4" MinLevel="101" MaxLevel="200" NormalExp="1.2" MasterExp="1.0" />
-		<Range MinReset="3" MaxReset="4" MinLevel="201" MaxLevel="400" NormalExp="1.2" MasterExp="1.0" />
-		<Range MinReset="3" MaxReset="4" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.3" />
-		<Range MinReset="3" MaxReset="4" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="1.5" />
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Range MinReset="5" MaxReset="6" MinLevel="1" MaxLevel="50" NormalExp="1.3" MasterExp="1.0" />
-		<Range MinReset="5" MaxReset="6" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" />
-		<Range MinReset="5" MaxReset="6" MinLevel="101" MaxLevel="200" NormalExp="1.3" MasterExp="1.0" />
-		<Range MinReset="5" MaxReset="6" MinLevel="201" MaxLevel="400" NormalExp="1.3" MasterExp="1.0" />
-		<Range MinReset="5" MaxReset="6" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.4" />
-		<Range MinReset="5" MaxReset="6" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="1.5" />
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Range MinReset="7" MaxReset="8" MinLevel="1" MaxLevel="50" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="7" MaxReset="8" MinLevel="51" MaxLevel="100" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="7" MaxReset="8" MinLevel="101" MaxLevel="200" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="7" MaxReset="8" MinLevel="201" MaxLevel="400" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="7" MaxReset="8" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.5" />
-		<Range MinReset="7" MaxReset="8" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="1.6" />
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Range MinReset="9" MaxReset="6" MinLevel="1" MaxLevel="50" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="9" MaxReset="6" MinLevel="51" MaxLevel="100" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="9" MaxReset="6" MinLevel="101" MaxLevel="200" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="9" MaxReset="6" MinLevel="201" MaxLevel="400" NormalExp="1.4" MasterExp="1.0" />
-		<Range MinReset="9" MaxReset="6" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.6" />
-		<Range MinReset="9" MaxReset="6" MinLevel="551" MaxLevel="702" NormalExp="1.0" MasterExp="1.7" />
+	<DynamicExpRangeList>
 	</DynamicExpRangeList>
 </ExpSystem>

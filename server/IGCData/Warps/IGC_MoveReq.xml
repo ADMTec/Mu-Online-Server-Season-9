@@ -32,10 +32,10 @@
 	<Warp Index="31" ServerName="Elbeland"			  ClientName="| Elveland |"		 MinLevel="10"  MaxLevel="400" ReqMoney="2000"  GateNumber="267" />
 	<Warp Index="32" ServerName="Elbeland2"			  ClientName="| Elveland 2 |"	 MinLevel="10"  MaxLevel="400" ReqMoney="2500"  GateNumber="268" />
 	<Warp Index="43" ServerName="Elbeland3"			  ClientName="| Elveland 3 |"	 MinLevel="10"  MaxLevel="400" ReqMoney="3000"  GateNumber="269" />
-	<Warp Index="4"  ServerName="Devias"			  ClientName="| Devias |"		 MinLevel="20"  MaxLevel="400" ReqMoney="2000"  GateNumber="22" />
-	<Warp Index="5"  ServerName="Devias2"			  ClientName="| Devias 2 |"		 MinLevel="20"  MaxLevel="400" ReqMoney="2500"  GateNumber="72" />
-	<Warp Index="6"  ServerName="Devias3"			  ClientName="| Devias 3 |"		 MinLevel="20"  MaxLevel="400" ReqMoney="3000"  GateNumber="73" />
-	<Warp Index="7"  ServerName="Devias4"			  ClientName="| Devias 4 |"		 MinLevel="20"  MaxLevel="400" ReqMoney="3500"  GateNumber="74" />
+	<Warp Index="4"  ServerName="Devias"			  ClientName="Devias"		 MinLevel="20"  MaxLevel="400" ReqMoney="2000"  GateNumber="22" />
+	<Warp Index="5"  ServerName="Devias2"			  ClientName="Devias 2"		 MinLevel="20"  MaxLevel="400" ReqMoney="2500"  GateNumber="72" />
+	<Warp Index="6"  ServerName="Devias3"			  ClientName="Devias 3"		 MinLevel="20"  MaxLevel="400" ReqMoney="3000"  GateNumber="73" />
+	<Warp Index="7"  ServerName="Devias4"			  ClientName="Devias 4"		 MinLevel="20"  MaxLevel="400" ReqMoney="3500"  GateNumber="74" />
 	<Warp Index="8"  ServerName="Dungeon"			  ClientName="Dungeon"		 MinLevel="30"  MaxLevel="400" ReqMoney="3000"  GateNumber="2" />
 	<Warp Index="9"  ServerName="Dungeon2"			  ClientName="Dungeon 2"		 MinLevel="40"  MaxLevel="400" ReqMoney="3500"  GateNumber="6" />
 	<Warp Index="10" ServerName="Dungeon3"			  ClientName="Dungeon 3"		 MinLevel="50"  MaxLevel="400" ReqMoney="4000"  GateNumber="10" />

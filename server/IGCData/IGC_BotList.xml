@@ -67,7 +67,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-	<BotSystem>
+	<BotSystem><!--
 		<List>
 			<Bot Id="0" Type="0" Class="0" Map="2" PosX="226" PosY="236" Dir="1" VipType="0" Money="0" Strength="500" Dexterity="500" Vitality="500" Energy="500" Enable="0" Name="SM_Helper" File="Bots\SM_Helper.xml" />
 			<Bot Id="1" Type="0" Class="1" Map="0" PosX="163" PosY="190" Dir="3" VipType="0" Money="0" Strength="500" Dexterity="500" Vitality="500" Energy="500" Enable="0" Name="BK_Helper" File="Bots\BK_Helper.xml" />
@@ -175,5 +175,5 @@
 			<Gear Slot="5" ItemCat="10" ItemIndex="3" ItemLevel="15" />
 			<Gear Slot="6" ItemCat="11" ItemIndex="3" ItemLevel="15" />
 			<Gear Slot="7" ItemCat="12" ItemIndex="1" ItemLevel="0" />
-		</BotGear>
+		</BotGear>-->
 	</BotSystem>

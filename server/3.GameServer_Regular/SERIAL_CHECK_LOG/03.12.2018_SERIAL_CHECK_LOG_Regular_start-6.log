@@ -1,0 +1,8 @@
+[12:16:27] [SERIAL CHECK] Performing Serial Checking due to Open/Close WareHouse - ACC:[alurosu], NAME:[lenuta],Open:[1], Close:[0], case:[1]
+[12:16:27] [SERIAL CHECK] Warehouse Item List Complete Acc:[alurosu],Name:[lenuta], CNT:[0] NON-ZERO-CNT:[0]
+[12:16:27] [SERIAL CHECK] Inventory Item List Complete Acc:[alurosu],Name:[lenuta], CNT:[1] NON-ZERO-CNT:[0]
+[12:16:27] [SERIAL CHECK][RESULT] ~~~~~~~ SUCCESS ~~~~~~ ACC : [alurosu], CharName :[lenuta], Case : [1], IP :[192.168.0.103]
+[12:16:28] [SERIAL CHECK] Performing Serial Checking due to Open/Close WareHouse - ACC:[alurosu], NAME:[lenuta],Open:[1], Close:[1], case:[2]
+[12:16:28] [SERIAL CHECK] Warehouse Item List Complete Acc:[alurosu],Name:[lenuta], CNT:[0] NON-ZERO-CNT:[0]
+[12:16:28] [SERIAL CHECK] Inventory Item List Complete Acc:[alurosu],Name:[lenuta], CNT:[1] NON-ZERO-CNT:[0]
+[12:16:28] [SERIAL CHECK][RESULT] ~~~~~~~ SUCCESS ~~~~~~ ACC : [alurosu], CharName :[lenuta], Case : [2], IP :[192.168.0.103]
