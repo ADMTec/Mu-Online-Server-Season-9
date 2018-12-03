@@ -1,9 +1,0 @@
-idstring "\x89PNG\x0D\x0A\x1A\x0A"
-get NAME basename
-string NAME + ".ozp"
-set MEMORY_FILE binary "\x89PNG"
-log NAME 0 0x4 MEMORY_FILE
-append
-get SIZE asize
-math OFFSET = 0x0
-log NAME OFFSET SIZE

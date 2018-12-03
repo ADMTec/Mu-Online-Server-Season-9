@@ -1,7 +1,0 @@
-idstring "\x89PNG\x89PNG"
-get NAME basename
-string NAME + ".png"
-math OFFSET = 0x4
-get SIZE asize
-math SIZE - OFFSET
-log NAME OFFSET SIZE

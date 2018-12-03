@@ -1,9 +1,0 @@
-[10:40:32] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
-[10:40:32] SELECT * FROM Guild
-[10:40:32] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
-[10:40:32] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
-[10:40:32] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
-[10:40:32] EXEC IGC_DeleteAllPartyMatchingList
-[10:40:37] SELECT * FROM DefaultClassType
-[10:40:38] EXEC IGC_ArcaBattleWinGuildSelect
-[10:40:38] EXEC IGC_ArcaBattleProcSelect

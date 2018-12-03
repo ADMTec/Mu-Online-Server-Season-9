@@ -86,7 +86,7 @@
 	<Gate Index="47" Flag="1" MapNumber="7" StartX="9" StartY="9" EndX="11" EndY="12" Target="48" Direction="0" MinLevel="60" Name="" />
 	<Gate Index="48" Flag="2" MapNumber="3" StartX="240" StartY="240" EndX="241" EndY="243" Target="0" Direction="7" MinLevel="60" Name="" />
 	<Gate Index="49" Flag="0" MapNumber="7" StartX="15" StartY="11" EndX="27" EndY="23" Target="0" Direction="0" MinLevel="60" Name="" />
-	<Gate Index="50" Flag="0" MapNumber="6" StartX="72" StartY="140" EndX="73" EndY="181" Target="0" Direction="0" MinLevel="0" Name="" />
+	<Gate Index="50" Flag="0" MapNumber="6" StartX="60" StartY="116" EndX="66" EndY="113" Target="0" Direction="0" MinLevel="0" Name="" />
 	<Gate Index="51" Flag="0" MapNumber="6" StartX="59" StartY="153" EndX="59" EndY="153" Target="0" Direction="0" MinLevel="0" Name="" />
 	<Gate Index="52" Flag="0" MapNumber="6" StartX="59" StartY="164" EndX="59" EndY="165" Target="0" Direction="0" MinLevel="0" Name="" />
 	<Gate Index="53" Flag="1" MapNumber="7" StartX="14" StartY="225" EndX="15" EndY="230" Target="54" Direction="0" MinLevel="130" Name="" />
