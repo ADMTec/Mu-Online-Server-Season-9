@@ -1,0 +1,114 @@
+[14:52:47] Initializing...
+[14:52:47] Connect Server version: 9.5.1.20 Compiled at: Nov  4 2018 15:58:51
+[14:52:47] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (192.168.0.103), PORT: (56900), VISIBLE: (1), INDEX: (0)
+[14:52:47] [Server Data] Loaded Server(s) info CODE: (12), NAME: (Market), IP: (192.168.0.103), PORT: (56912), VISIBLE: (0), INDEX: (1)
+[14:52:47] [Server Data] Loaded Server(s) info CODE: (13), NAME: (Arca), IP: (192.168.0.103), PORT: (56913), VISIBLE: (0), INDEX: (2)
+[14:52:47] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (192.168.0.103), PORT: (56914), VISIBLE: (0), INDEX: (3)
+[14:52:47] [Server Data] Loaded Server(s) info CODE: (120), NAME: (BattleCore), IP: (192.168.0.103), PORT: (56120), VISIBLE: (1), INDEX: (4)
+[14:52:47] [NOTICE]: IOCP Thread Handles set to 16
+[14:53:04] Connection Accept: 192.168.0.103
+[14:53:04] [Server] Sent Server List COUNT: [1] (Index: [0])
+[14:53:07] [Server] Sent Server List COUNT: [1] (Index: [0])
+[14:53:08] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[14:53:08] Disconnected: 192.168.0.103 (0)
+[14:55:46] Connection Accept: 192.168.0.103
+[14:55:46] [Server] Sent Server List COUNT: [1] (Index: [0])
+[14:55:48] [Server] Sent Server List COUNT: [1] (Index: [0])
+[14:55:50] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[14:55:50] Disconnected: 192.168.0.103 (0)
+[15:01:31] Connection Accept: 192.168.0.103
+[15:01:31] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:01:32] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:01:32] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[15:01:32] Disconnected: 192.168.0.103 (0)
+[15:09:25] Connection Accept: 192.168.0.103
+[15:09:25] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:09:35] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:09:35] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[15:09:35] Disconnected: 192.168.0.103 (0)
+[15:13:55] Connection Accept: 192.168.0.102
+[15:13:55] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:14:08] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:14:12] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [1] / Max: [50])
+[15:14:12] Disconnected: 192.168.0.102 (0)
+[15:16:17] Connection Accept: 192.168.0.102
+[15:16:17] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:16:19] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:16:20] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [1] / Max: [50])
+[15:16:20] Disconnected: 192.168.0.102 (0)
+[15:18:42] Connection Accept: 192.168.0.102
+[15:18:42] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:18:44] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:18:58] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:19:01] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:19:06] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [1] / Max: [50])
+[15:19:06] Disconnected: 192.168.0.102 (0)
+[15:32:54] Connection Accept: 192.168.0.102
+[15:32:54] Connection Accept: 192.168.0.103
+[15:32:55] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:32:55] [Server] Sent Server List COUNT: [1] (Index: [1])
+[15:32:56] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[15:32:56] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[15:32:57] Disconnected: 192.168.0.102 (0)
+[15:32:57] Disconnected: 192.168.0.103 (1)
+[15:38:57] Connection Accept: 192.168.0.102
+[15:38:57] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:38:59] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:38:59] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [1] / Max: [50])
+[15:39:00] Disconnected: 192.168.0.102 (0)
+[15:47:47] Connection Accept: 192.168.0.103
+[15:47:47] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:47:49] [Server] Sent Server List COUNT: [1] (Index: [0])
+[15:47:49] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [50])
+[15:47:49] Disconnected: 192.168.0.103 (0)
+[17:33:04] Connection Accept: 68.66.251.7
+[17:33:04] Disconnected: 68.66.251.7 (0)
+[17:35:18] Connection Accept: 68.66.251.7
+[17:35:18] Disconnected: 68.66.251.7 (0)
+[17:39:03] Connection Accept: 68.66.251.7
+[17:39:03] Disconnected: 68.66.251.7 (0)
+[17:42:23] Connection Accept: 68.66.251.7
+[17:42:23] Disconnected: 68.66.251.7 (0)
+[17:45:01] Connection Accept: 68.66.251.7
+[17:45:01] Disconnected: 68.66.251.7 (0)
+[17:47:15] Connection Accept: 68.66.251.7
+[17:47:15] Disconnected: 68.66.251.7 (0)
+[17:50:14] Connection Accept: 68.66.251.7
+[17:50:14] Disconnected: 68.66.251.7 (0)
+[17:52:35] Connection Accept: 68.66.251.7
+[17:52:35] Disconnected: 68.66.251.7 (0)
+[17:56:16] Connection Accept: 68.66.251.7
+[17:56:16] Disconnected: 68.66.251.7 (0)
+[17:59:59] Connection Accept: 68.66.251.7
+[17:59:59] Disconnected: 68.66.251.7 (0)
+[18:02:02] Connection Accept: 68.66.251.7
+[18:02:02] Disconnected: 68.66.251.7 (0)
+[18:04:40] Connection Accept: 68.66.251.7
+[18:04:40] Disconnected: 68.66.251.7 (0)
+[18:38:46] Connection Accept: 68.66.251.7
+[18:38:46] Disconnected: 68.66.251.7 (0)
+[18:40:59] Connection Accept: 68.66.251.7
+[18:40:59] Disconnected: 68.66.251.7 (0)
+[18:44:47] Connection Accept: 68.66.251.7
+[18:44:47] Disconnected: 68.66.251.7 (0)
+[18:46:52] Connection Accept: 68.66.251.7
+[18:46:52] Disconnected: 68.66.251.7 (0)
+[18:50:56] Connection Accept: 68.66.251.7
+[18:50:56] Disconnected: 68.66.251.7 (0)
+[18:58:00] Connection Accept: 68.66.251.7
+[18:58:00] Disconnected: 68.66.251.7 (0)
+[19:05:55] Connection Accept: 68.66.251.7
+[19:05:55] Disconnected: 68.66.251.7 (0)
+[19:47:42] Connection Accept: 192.168.0.103
+[19:47:42] [Server] Sent Server List COUNT: [1] (Index: [0])
+[19:48:01] Disconnected: 192.168.0.103 (0)
+[19:49:27] Connection Accept: 192.168.0.103
+[19:49:27] [Server] Sent Server List COUNT: [1] (Index: [0])
+[19:49:28] [Server] Sent Server List COUNT: [1] (Index: [0])
+[19:49:29] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [200])
+[19:49:29] Disconnected: 192.168.0.103 (0)
+[19:53:09] Connection Accept: 192.168.0.103
+[19:53:09] [Server] Sent Server List COUNT: [1] (Index: [0])
+[19:53:11] [Server] Sent Server List COUNT: [1] (Index: [0])
+[19:53:12] [Server] Connecting to Server: Regular (IP: [192.168.0.103] PORT: [56900]) (Players: [0] / Max: [200])
+[19:53:12] Disconnected: 192.168.0.103 (0)

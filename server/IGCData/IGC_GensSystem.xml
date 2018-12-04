@@ -130,6 +130,10 @@
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
 				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
 			</Map>
+			<Map Number="38" Enable="1" FamilyAccessType="0"> <!-- Kanturu Relics-->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+			</Map>
 			
 			<Map Number="91" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
