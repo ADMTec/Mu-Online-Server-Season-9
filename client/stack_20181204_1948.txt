@@ -1,5 +1,0 @@
-Client Version 1.05.25
-
-[Exception Address] 0x44129a
-[Exception Code] STATUS_ACCESS_VIOLATION
-StackWalk failed: 487

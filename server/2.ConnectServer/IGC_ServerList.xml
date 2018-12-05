@@ -25,7 +25,7 @@
 -->
 
 <ServerList>
-	<Server Code="0"  IP="192.168.0.103" Port="56900" Visible="1" Name="Regular" />
+	<Server Code="0"  IP="192.168.0.103" Port="56900" Visible="1" Name="Legion" />
 	<Server Code="12" IP="192.168.0.103" Port="56912" Visible="0" Name="Market" />
 	<Server Code="13" IP="192.168.0.103" Port="56913" Visible="0" Name="Arca" />
 	<Server Code="14" IP="192.168.0.103" Port="56914" Visible="0" Name="Siege" />
