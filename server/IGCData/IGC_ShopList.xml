@@ -79,12 +79,4 @@
 	<Shop NPCIndex="259" MapNumber="29" PosX="7"   PosY="19"  Dir="2" VipType="0" GmShop="0" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 6 -->
 	<Shop NPCIndex="259" MapNumber="36" PosX="7"   PosY="19"  Dir="2" VipType="0" GmShop="0" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 7 -->
 	<Shop NPCIndex="239" MapNumber="6"	PosX="72"  PosY="164" Dir="1" VIPType="0" GMShop="0" FileName="NPC(239)_Arena_Guard.xml" /> <!-- Arena -->
-	<Shop NPCIndex="683" MapNumber="79"	PosX="128"  PosY="121" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(683)_Marce_B.xml" /> <!-- Loren Market -->
-	<Shop NPCIndex="684" MapNumber="79"	PosX="128"  PosY="133" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(684)_Silvia_B.xml" /> <!-- Loren Market -->
-	<Shop NPCIndex="685" MapNumber="79"	PosX="139"  PosY="140" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(685)_Izabel_B.xml" /> <!-- Loren Market -->
-	<Shop NPCIndex="686" MapNumber="79"	PosX="134"  PosY="127" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(686)_Sophia_(repair)_B.xml" /> <!-- Loren Market -->
-	<Shop NPCIndex="687" MapNumber="79"	PosX="116"  PosY="115" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(687)_Bolo_(repair)_B.xml" /> <!-- Loren Market -->
-	<Shop NPCIndex="688" MapNumber="79"	PosX="135"  PosY="112" Dir="2" VIPType="0" GMShop="0" BattleCore="1" FileName="NPC(688)_Christine_B.xml" /> <!-- Loren Market -->
-
-	
 </ShopList>

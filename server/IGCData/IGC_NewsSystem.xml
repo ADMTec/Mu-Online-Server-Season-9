@@ -26,9 +26,25 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<NewsSystem Enable="1" DisplayInterval="1"> <!-- Minutes -->
-
+<NewsSystem Enable="1" DisplayInterval="5"> <!-- Minutes -->
 	<News ID="0">
-		<Line Number="0" Text="Remember To Vote Daily!" />
+		<Line Number="0" Text="Buy/sell items on the website Market." />
+		<Line Number="1" Text="" />
+		<Line Number="2" Text="amongdemons.com" />
+	</News>
+	<News ID="1">
+		<Line Number="0" Text="Get free credits by voting, trading online" />
+		<Line Number="1" Text="time or by referring a friend." />
+		<Line Number="2" Text="amongdemons.com" />
+	</News>
+	<News ID="2">
+		<Line Number="0" Text="Battle maps have better XP and Drop." />
+		<Line Number="1" Text="" />
+		<Line Number="2" Text="amongdemons.com" />
+	</News>
+	<News ID="3">
+		<Line Number="0" Text="Let us know about any bugs," />
+		<Line Number="1" Text="questions or suggestions." />
+		<Line Number="2" Text="amongdemons.com" />
 	</News>
 </NewsSystem>
