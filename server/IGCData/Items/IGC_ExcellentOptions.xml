@@ -103,6 +103,6 @@
 	</Wings>
 	
 	<OptionDropRate>
-		<Common One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" /> <!-- Sum of the values must be equal to 10000 -->
+		<Common One="7000" Two="2500" Three="500" Four="0" Five="0" Six="0" /> <!-- Sum of the values must be equal to 10000 -->
 	</OptionDropRate>
 </ExcellentOptions>

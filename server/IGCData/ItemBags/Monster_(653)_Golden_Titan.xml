@@ -87,7 +87,7 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Golden_Titan" ItemRate="9000" SetItemRate="0"  MoneyDrop="100000" BagUseEffect="-1" BagUseRate="10000" />
+<BagConfig Name="Golden_Titan" ItemRate="10000" SetItemRate="0"  MoneyDrop="100000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="1" DropRate="400000" ItemCat="14" ItemIndex="218" />
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
