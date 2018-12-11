@@ -154,6 +154,17 @@
 		<Item Cat="6" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Large Round Shield -->
 		<Item Cat="6" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Short Sword -->
+		<!-- Kris -->
+		<!-- Small Axe -->
+		<!-- Hand Axe -->
+		<!-- Mace -->
+		<!-- Rapier -->
+		<!-- Sword of Assasin -->
+		<!-- Morning Star -->
+		<!-- Flail -->
+		<!-- Spear -->
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>

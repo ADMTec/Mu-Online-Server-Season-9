@@ -142,6 +142,15 @@
 		<Item Cat="8" Index="73" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="9" Index="73" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="11" Index="73" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Book of Lagle -->
+		<Item Cat="5" Index="23" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Dark Breaker -->
+		<!-- Sword of Destruction -->
+		<!-- Knight Blade -->
+		<!-- Bone Blade -->
+		<!-- Daybreak -->
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>

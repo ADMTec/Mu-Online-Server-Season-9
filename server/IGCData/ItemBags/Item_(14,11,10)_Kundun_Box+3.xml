@@ -159,6 +159,21 @@
 		<Item Cat="6" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Legendary Shield -->
 		<Item Cat="6" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Book of Samut -->
+		<Item Cat="5" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Battle Axe -->
+		<!-- Salamander Sword -->
+		<!-- Blade -->
+		<!-- Nikea Axe -->
+		<!-- Berdysh -->
+		<!-- Great Hammer -->
+		<!-- Light Saber -->
+		<!-- Double Blade -->
+		<!-- Light Spear -->
+		<!-- Larkan Axe -->
+		<!-- Giant Sword -->
+		<!-- Crescent Axe -->
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>
