@@ -152,8 +152,13 @@
 		<Item Cat="11" Index="60" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 				
 		<!-- Bronze Shield -->
+		<Item Cat="6" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Elemental Shield -->
+		<Item Cat="6" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Dragon Shield -->
+		<Item Cat="6" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Legendary Shield -->
+		<Item Cat="6" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>

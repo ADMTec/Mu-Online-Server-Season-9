@@ -142,10 +142,17 @@
 		<Item Cat="11" Index="59" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		
 		<!-- Plate Shield -->
+		<Item Cat="6" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Spiked Shield -->
+		<Item Cat="6" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Dragon Slayer Shield -->
+		<Item Cat="6" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Tower Shield -->
+		<Item Cat="6" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Serpent Shield -->
+		<Item Cat="6" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Elven Shield -->
+		<Item Cat="6" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>
