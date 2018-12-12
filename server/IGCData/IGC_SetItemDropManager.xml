@@ -61,8 +61,41 @@
 //
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
-<SetItemDropManager DropUseRate="500000">
-	<!-- <Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1"> -->
-	<!--	<ItemDrop Cat="-1" MinLevel="1" MaxLevel="1" Count="10" Skill="-1" Luck="-1" Option="-1" Exc="-1" DropRate="10000" /> -->
-	<!-- </Rule> -->
+<SetItemDropManager DropUseRate="500"> <!-- 0.05% -->
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="2">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="6">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="8">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="37">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="38">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="64">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="91">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="92">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="95">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="96">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="100">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
+	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="101">
+		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
+	</Rule>
 </SetItemDropManager>

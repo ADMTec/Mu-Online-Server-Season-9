@@ -94,7 +94,8 @@
 			<!-- <Spawn Index="248" Distance="0" StartX="6" StartY="145" Dir="2" /> --> <!-- Wandering Merchant Martin ~ shop managed via IGC_ShopList.xml -->
 			<Spawn Index="249" Distance="10" StartX="131" StartY="88" Dir="1" /> <!-- -->
 			<Spawn Index="249" Distance="20" StartX="173" StartY="125" Dir="3" /> <!-- -->
-			<Spawn Index="249" Distance="20" StartX="94" StartY="130" Dir="7" /> <!-- -->
+			<Spawn Index="247" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Melee -->
 			<Spawn Index="249" Distance="20" StartX="94" StartY="125" Dir="7" /> <!-- -->
 			<Spawn Index="249" Distance="30" StartX="131" StartY="148" Dir="1" /> <!-- -->
 			<!-- <Spawn Index="250" Distance="0" StartX="183" StartY="137" Dir="2" /> --> <!-- Wandering Merchant ~ shop managed via IGC_ShopList.xml -->
