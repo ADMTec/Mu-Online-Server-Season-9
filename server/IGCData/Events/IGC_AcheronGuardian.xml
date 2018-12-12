@@ -73,7 +73,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<AcheronGuardianEvent Enable="1" Duration="30" ChannelClose="1">
+<AcheronGuardianEvent Enable="0" Duration="30" ChannelClose="1">
 	<ActiveDay Sun="1" Mon="1" Tue="1" Wed="0" Thu="1" Fri="1" Sat="1" />
 	
 	<Schedule>

@@ -87,7 +87,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<CryWolf Enable="1">
+<CryWolf Enable="0">
 	<Schedule>
 		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="-1" Hour="2" Minute="10" ContinuanceTime="-1" />
 		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="-1" Hour="4" Minute="10" ContinuanceTime="-1" />

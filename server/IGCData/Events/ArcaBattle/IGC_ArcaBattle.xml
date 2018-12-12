@@ -91,7 +91,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<ArcaBattleEvent Enable="1" MinGuildMember="10" MasterRegTime="10" MemberRegTime="10" ProgressWait="3" PartyWait="5" Duration="30" ChannelClose="10">
+<ArcaBattleEvent Enable="0" MinGuildMember="10" MasterRegTime="10" MemberRegTime="10" ProgressWait="3" PartyWait="5" Duration="30" ChannelClose="10">
 	<ActiveDay Sun="0" Mon="0" Tue="0" Wed="1" Thu="0" Fri="0" Sat="0" />
 
 	<Schedule>

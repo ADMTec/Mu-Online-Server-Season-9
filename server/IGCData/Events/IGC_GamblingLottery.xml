@@ -77,7 +77,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<GamblingSystem Enable="1" GamblingPrice="1000000" ShoppingDelayTime="120">
+<GamblingSystem Enable="0" GamblingPrice="1000000" ShoppingDelayTime="120">
 	<ItemRewardRateSettings> <!-- Sum of all ItemChance per Rare Item must be equal to 1000000 -->
 	<!-- Rare Item 1 -->
 		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" ItemChance="560000" /> <!-- Section 5 -->

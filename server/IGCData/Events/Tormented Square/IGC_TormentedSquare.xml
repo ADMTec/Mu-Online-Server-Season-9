@@ -71,7 +71,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<TormentedSquare Enable="1" MinUserToStart="4" MinUserInParty="2" MinTeamsToStart="2"  MinLevel="1" MaxEnterCount="2" MonsterUnitNumber="200">
+<TormentedSquare Enable="0" MinUserToStart="4" MinUserInParty="2" MinTeamsToStart="2"  MinLevel="1" MaxEnterCount="2" MonsterUnitNumber="200">
 	<Time StartIn="5" WaitingArea="1" Round="2" AfterRound="10" AfterBossRound="20" TownSpawn="10" />
 	<TournamentCycleDay EliminationOne="17" EliminationTwo="18" EliminationThree="19" EliminationFour="20" SemiFinalOne="21" SemiFinalTwo="22" Final="23" />
 	<RewardDayRange From="24" To="25" />

@@ -25,7 +25,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<IllusionTempleRenewal Enable="1" MinUserInParty="5">
+<IllusionTempleRenewal Enable="0" MinUserInParty="5">
 	<Time StartIn="5" WaitingArea="1" Duration="15" TownSpawn="1" />
 
 	<EventSchedule>
