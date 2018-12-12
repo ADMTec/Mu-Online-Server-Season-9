@@ -194,6 +194,12 @@
 		<Item Cat="4" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Bluewing Crossbow -->
 		<Item Cat="4" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Legendary Staff -->
+		<Item Cat="5" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Chaos Lightning Staff -->
+		<Item Cat="5" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Staff of Destruction -->
+		<Item Cat="5" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 	<Drop Rate="500" Count="1">
 	</Drop>
