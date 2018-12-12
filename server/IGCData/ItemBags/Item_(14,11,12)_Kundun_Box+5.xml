@@ -90,7 +90,7 @@
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
-	<Drop Rate="9500" Count="1">
+	<Drop Rate="10000" Count="1">
 		<!-- Great Dragon -->
 		<Item Cat="7" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="8" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -180,8 +180,13 @@
 		<Item Cat="2" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Phoenix Soul Star -->
 		<Item Cat="2" Index="35" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="500" Count="1">
+		
+		<!-- Rings -->
+		<Item Cat="13" Index="8" ItemMinLevel="0" ItemMaxLevel="9" Skill="-1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="13" Index="9" ItemMinLevel="0" ItemMaxLevel="9" Skill="-1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Pendants -->
+		<Item Cat="13" Index="12" ItemMinLevel="0" ItemMaxLevel="9" Skill="-1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="13" Index="25" ItemMinLevel="0" ItemMaxLevel="9" Skill="-1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 </DropAllow>
 </ItemBag>
