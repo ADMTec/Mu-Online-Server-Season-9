@@ -96,19 +96,19 @@
 	<RewardSettings StartDay="1" EndDay="7" MinRankToGainReward="300" />
 	
 	<RankingSettings>
-		<Gens Class="1"	 ReqContributePoint="0"		RankingPosition="1"	  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="30" Name="Grand Duke" /> <!-- Shinning Jewellery Case x30 -->
-		<Gens Class="2"	 ReqContributePoint="0"		RankingPosition="5"	  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="20" Name="Duke" /> <!-- Shinning Jewellery Case x20 -->
-		<Gens Class="3"	 ReqContributePoint="0"		RankingPosition="10"  RewardItemCat="14" RewardItemIndex="142" RewardItemCount="20" Name="Marquis" /> <!-- Elegant Jewellery Case x20 -->
-		<Gens Class="4"	 ReqContributePoint="0"		RankingPosition="30"  RewardItemCat="14" RewardItemIndex="142" RewardItemCount="10" Name="Count" /> <!-- Elegant Jewellery Case x10 -->
-		<Gens Class="5"	 ReqContributePoint="0"		RankingPosition="50"  RewardItemCat="14" RewardItemIndex="143" RewardItemCount="10" Name="Viscount" /> <!-- Steel Jewellery Case x10 -->
-		<Gens Class="6"	 ReqContributePoint="0"		RankingPosition="100" RewardItemCat="14" RewardItemIndex="143" RewardItemCount="5"  Name="Baron" /> <!-- Steel Jewellery Case x5 -->
-		<Gens Class="7"	 ReqContributePoint="0"		RankingPosition="200" RewardItemCat="14" RewardItemIndex="144" RewardItemCount="5"  Name="Knight Commander" /> <!-- Old Jewellery Case x5 -->
-		<Gens Class="8"	 ReqContributePoint="0"		RankingPosition="300" RewardItemCat="14" RewardItemIndex="144" RewardItemCount="3"  Name="Superior Knight" /> <!-- Old Jewellery Case x3 -->
-		<Gens Class="9"	 ReqContributePoint="10000"	RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Knight" />
-		<Gens Class="10" ReqContributePoint="6000"	RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Guard Perfect" />
-		<Gens Class="11" ReqContributePoint="3000"	RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Officer" />
-		<Gens Class="12" ReqContributePoint="1500"	RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Lieutenant" />
-		<Gens Class="13" ReqContributePoint="500"	RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Sergeant" />
+		<Gens Class="1"	 ReqContributePoint="0"		RankingPosition="1"	  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="7" Name="Grand Duke" />
+		<Gens Class="2"	 ReqContributePoint="0"		RankingPosition="5"	  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="6" Name="Duke" />
+		<Gens Class="3"	 ReqContributePoint="0"		RankingPosition="10"  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="5" Name="Marquis" />
+		<Gens Class="4"	 ReqContributePoint="0"		RankingPosition="30"  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="4" Name="Count" />
+		<Gens Class="5"	 ReqContributePoint="0"		RankingPosition="50"  RewardItemCat="14" RewardItemIndex="141" RewardItemCount="3" Name="Viscount" />
+		<Gens Class="6"	 ReqContributePoint="0"		RankingPosition="100" RewardItemCat="14" RewardItemIndex="141" RewardItemCount="2"  Name="Baron" />
+		<Gens Class="7"	 ReqContributePoint="0"		RankingPosition="200" RewardItemCat="14" RewardItemIndex="141" RewardItemCount="1"  Name="Knight Commander" />
+		<Gens Class="8"	 ReqContributePoint="0"		RankingPosition="300" RewardItemCat="14" RewardItemIndex="142" RewardItemCount="2"  Name="Superior Knight" />
+		<Gens Class="9"	 ReqContributePoint="10000"	RankingPosition="0"	  RewardItemCat="14"  RewardItemIndex="142"   RewardItemCount="1"  Name="Knight" />
+		<Gens Class="10" ReqContributePoint="6000"	RankingPosition="0"	  RewardItemCat="14"  RewardItemIndex="143"   RewardItemCount="2"  Name="Guard Perfect" />
+		<Gens Class="11" ReqContributePoint="3000"	RankingPosition="0"	  RewardItemCat="14"  RewardItemIndex="143"   RewardItemCount="1"  Name="Officer" />
+		<Gens Class="12" ReqContributePoint="1500"	RankingPosition="0"	  RewardItemCat="14"  RewardItemIndex="144"   RewardItemCount="2"  Name="Lieutenant" />
+		<Gens Class="13" ReqContributePoint="500"	RankingPosition="0"	  RewardItemCat="14"  RewardItemIndex="144"   RewardItemCount="1"  Name="Sergeant" />
 		<Gens Class="14" ReqContributePoint="0"		RankingPosition="0"	  RewardItemCat="0"  RewardItemIndex="0"   RewardItemCount="0"  Name="Private" />
 	</RankingSettings>
 	

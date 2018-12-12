@@ -92,24 +92,8 @@
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
-	<Drop Rate="1250" Count="1">
-		<Item Cat="12" Index="30" ItemMinLevel="2" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="1500" Count="1">
-		<Item Cat="12" Index="136" ItemMinLevel="2" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-		<Item Cat="12" Index="140" ItemMinLevel="2" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="1000" Count="1">
-		<Item Cat="13" Index="37" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="250" Count="1">
-		<Item Cat="13" Index="53" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="2500" Count="1">
-		<Item Cat="12" Index="31" ItemMinLevel="2" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
-	</Drop>
-	<Drop Rate="2000" Count="1">
-		<Item Cat="12" Index="137" ItemMinLevel="2" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+	<Drop Rate="10000" Count="1">
+		<Item Cat="14" Index="11" ItemMinLevel="10" ItemMaxLevel="12" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 </DropAllow>
 </ItemBag>
