@@ -71,39 +71,27 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<ChaosCastleSurvival Enable="1" MinPlayer="2" MinLevel="280" ExpMultiplier="1.0">
+<ChaosCastleSurvival Enable="10" MinPlayer="2" MinLevel="280" ExpMultiplier="2.0">
 	<Time StartIn="5" Duration="10" TownSpawn="1" Notify="10" />
 	<TournamentCycleDay EliminationOne="16" EliminationTwo="17" EliminationThree="18" SemiFinalOne="19" SemiFinalTwo="20" Final="21" />
 
 	<RewardRate FinalAward="1">
-		<Gift First="30" Second="45" Third="60" Fourth="75" Fifth="90" Sixth="100" />
-		<FinalAward Cat="13" Index="276" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Duration="0" />
+		<Gift First="10" Second="20" Third="30" Fourth="40" Fifth="50" Sixth="100" />
+		<FinalAward Cat="14" Index="11" Level="10" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Duration="0" />
 	</RewardRate>
 	
 	<EventSchedule>
-		<Start Hour="1"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="2"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="3"  Minute="30" Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="4"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="5"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="6"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="7"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="8"  Minute="0"	 Stage1="1" Stage2="2" Stage3="3" />
-		<Start Hour="9"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="10" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="11" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="12" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="13" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="14" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="15" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="16" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="17" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="18" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="19" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="20" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="21" Minute="35" Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="22" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="23" Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
-		<Start Hour="0"  Minute="0"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="1"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="3"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="5"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="7"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="9"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="11"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="13"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="15"  Minute="30"	 Stage1="1" Stage2="2" Stage3="3" />
+		<Start Hour="17"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="19"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="21"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
+		<Start Hour="23"  Minute="30"	 Stage1="1" Stage2="2" Stage3="0" />
 	</EventSchedule>
 </ChaosCastleSurvival>

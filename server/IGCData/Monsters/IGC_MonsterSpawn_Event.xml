@@ -184,4 +184,8 @@
 		<Spawn Index="674" MapNumber="2"  Distance="30" StartX="150" StartY="41" EndX="150" EndY="45" Dir="-1" Count="10" /> <!-- Moon Rabbit (2) ~ 10 -->
 		<Spawn Index="674" MapNumber="3"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Moon Rabbit (3) ~ 10 -->
 	</Spot>
+	
+	<Spot Enable="1" StartDay="1" EndDay="31" StartHour="16" EndHour="23">
+		<Spawn Index="135" MapNumber="0"  Distance="1" StartX="134" StartY="178" EndX="134" EndY="178" Dir="-1" Count="1" />
+	</Spot>
 </MonsterSpawnEvent>

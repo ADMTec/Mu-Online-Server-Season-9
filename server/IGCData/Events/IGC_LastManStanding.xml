@@ -65,16 +65,15 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->	
 
-<LastManStanding Enable="1" DieCount="2" MinPlayers="2" MaxPlayers="500">
+<LastManStanding Enable="1" DieCount="3" MinPlayers="2" MaxPlayers="500">
 	<Event Duration="15" MapNumber="6" StartX="146" StartY="78" EndX="160" EndY="60" />
-	<Registration Time="15" MapNumber="0" NPCIndex="258" PosX="145" PosY="140" Dir="1" ReqMoney="1000000" ReqSpecialItem="0" SpecialItemCount="1" ItemCat="14" ItemIndex="160" />
+	<Registration Time="5" MapNumber="0" NPCIndex="258" PosX="145" PosY="140" Dir="1" ReqMoney="1000000" ReqSpecialItem="0" SpecialItemCount="1" ItemCat="14" ItemIndex="160" />
 
 	<Schedule>
-		<Start Hour="12" Minute="0" />
-		<Start Hour="14" Minute="0" />
-		<Start Hour="16" Minute="0" />
-		<Start Hour="18" Minute="0" />
-		<Start Hour="22" Minute="0" />
+		<Start Hour="7" Minute="45" />
+		<Start Hour="12" Minute="45" />
+		<Start Hour="18" Minute="45" />
+		<Start Hour="22" Minute="45" />
 	</Schedule>
 
 	<RoomSettings>

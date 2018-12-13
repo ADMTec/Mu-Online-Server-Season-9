@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="2.0" encoding="utf-8"?>
 <!-- 
 // ============================================================
 // == INTERNATIONAL GAMING CENTER NETWORK
@@ -55,24 +55,24 @@
 	</Schedule>
 	
 	<EventSettings>
-		<Castle Level="0" StatueHP="65000"  GateHP="150000" /> <!-- Blood Castle 1 -->
-		<Castle Level="1" StatueHP="105000" GateHP="205000" /> <!-- Blood Castle 2 -->
-		<Castle Level="2" StatueHP="145000" GateHP="260000" /> <!-- Blood Castle 3 -->
-		<Castle Level="3" StatueHP="185000" GateHP="325000" /> <!-- Blood Castle 4 -->
-		<Castle Level="4" StatueHP="225000" GateHP="400000" /> <!-- Blood Castle 5 -->
-		<Castle Level="5" StatueHP="265000" GateHP="480000" /> <!-- Blood Castle 6 -->
-		<Castle Level="6" StatueHP="305000" GateHP="565000" /> <!-- Blood Castle 7 -->
-		<Castle Level="7" StatueHP="345000" GateHP="665000" /> <!-- Blood Castle 8 -->
+		<Castle Level="0" StatueHP="650000"  GateHP="1500000" /> <!-- Blood Castle 1 -->
+		<Castle Level="1" StatueHP="1050000" GateHP="2050000" /> <!-- Blood Castle 2 -->
+		<Castle Level="2" StatueHP="1450000" GateHP="2600000" /> <!-- Blood Castle 3 -->
+		<Castle Level="3" StatueHP="1850000" GateHP="3250000" /> <!-- Blood Castle 4 -->
+		<Castle Level="4" StatueHP="2250000" GateHP="4000000" /> <!-- Blood Castle 5 -->
+		<Castle Level="5" StatueHP="2650000" GateHP="4800000" /> <!-- Blood Castle 6 -->
+		<Castle Level="6" StatueHP="305000" GateHP="5650000" /> <!-- Blood Castle 7 -->
+		<Castle Level="7" StatueHP="3450000" GateHP="6650000" /> <!-- Blood Castle 8 -->
 	</EventSettings>
 	
 	<RewardExpSettings>
-		<Castle Level="0" Multiplier="1.0" /> <!-- Blood Castle 1 -->
-		<Castle Level="1" Multiplier="1.0" /> <!-- Blood Castle 2 -->
-		<Castle Level="2" Multiplier="1.0" /> <!-- Blood Castle 3 -->
-		<Castle Level="3" Multiplier="1.0" /> <!-- Blood Castle 4 -->
-		<Castle Level="4" Multiplier="1.0" /> <!-- Blood Castle 5 -->
-		<Castle Level="5" Multiplier="1.0" /> <!-- Blood Castle 6 -->
-		<Castle Level="6" Multiplier="1.0" /> <!-- Blood Castle 7 -->
-		<Castle Level="7" Multiplier="1.0" /> <!-- Blood Castle 8 -->
+		<Castle Level="0" Multiplier="2.0" /> <!-- Blood Castle 1 -->
+		<Castle Level="1" Multiplier="2.0" /> <!-- Blood Castle 2 -->
+		<Castle Level="2" Multiplier="2.0" /> <!-- Blood Castle 3 -->
+		<Castle Level="3" Multiplier="2.0" /> <!-- Blood Castle 4 -->
+		<Castle Level="4" Multiplier="2.0" /> <!-- Blood Castle 5 -->
+		<Castle Level="5" Multiplier="2.0" /> <!-- Blood Castle 6 -->
+		<Castle Level="6" Multiplier="2.0" /> <!-- Blood Castle 7 -->
+		<Castle Level="7" Multiplier="2.0" /> <!-- Blood Castle 8 -->
 	</RewardExpSettings>
 </BloodCastle>

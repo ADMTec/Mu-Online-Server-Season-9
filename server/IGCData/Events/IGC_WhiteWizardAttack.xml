@@ -16,10 +16,12 @@
 
 <WhiteWizard Enable="1">
 	<Time ToOpen="3" PlayDuration="30" ToClose="25" />
-	<Move RandomSize="15" MinRadius="3" MaxRadius="6" />
+	<Move RandomSize="10" MinRadius="3" MaxRadius="6" />
 
 	<Schedule>
 		<Start Hour="2"  Minute="0" />
+		<Start Hour="6" Minute="0" />
+		<Start Hour="10" Minute="0" />
 		<Start Hour="14" Minute="0" />
 		<Start Hour="18" Minute="0" />
 		<Start Hour="22" Minute="0" />
@@ -27,21 +29,21 @@
 
 	<SpawnSettings>
 		<Monster Index="135" Respawn="0" AttackFirst="1" Name="White Wizard" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
-		<Monster Index="136" Respawn="0" AttackFirst="0" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
+		<Monster Index="136" Respawn="0" AttackFirst="1" Name="Destructive Ogre Soldier" />
 		<Monster Index="137" Respawn="0" AttackFirst="1" Name="Destructive Ogre Archer" />
 		<Monster Index="137" Respawn="0" AttackFirst="1" Name="Destructive Ogre Archer" />
 		<Monster Index="137" Respawn="0" AttackFirst="1" Name="Destructive Ogre Archer" />
