@@ -35,6 +35,6 @@
 
 <BonusEvent Enable="1" DisplayNotice="1">
 	<Event DayOfWeek="-1" StartHour="3" EndHour="4" ExpMultiplier="3.0" MasterExpMultiplier="3.0" ItemDropBonus="15" ExcDropBonus="5" />
-	<Event DayOfWeek="-1" StartHour="6" EndHour="7" ExpMultiplier="3.0" MasterExpMultiplier="3.0" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event DayOfWeek="-1" StartHour="11" EndHour="12" ExpMultiplier="3.0" MasterExpMultiplier="3.0" ItemDropBonus="15" ExcDropBonus="5" />
 	<Event DayOfWeek="-1" StartHour="19" EndHour="20" ExpMultiplier="3.0" MasterExpMultiplier="3.0" ItemDropBonus="15" ExcDropBonus="5" />
 </BonusEvent>

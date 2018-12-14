@@ -83,26 +83,19 @@
 <MonsterSpawn>
 	<Map Number="0" Name="Lorencia">
 		<Spot Type="0" Description="NPC">
+			<Spawn Index="247" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Melee -->
+			
 			<Spawn Index="226" Distance="0" StartX="122" StartY="110" Dir="3" /> <!-- -->
-			<!-- <Spawn Index="230" Distance="0" StartX="62" StartY="130" Dir="3" /> --> <!-- Wandering Merchant Alex ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="236" Distance="0" StartX="175" StartY="120" Dir="3" /> --> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" /> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" /> <!-- -->
-			<!-- <Spawn Index="248" Distance="0" StartX="6" StartY="145" Dir="2" /> --> <!-- Wandering Merchant Martin ~ shop managed via IGC_ShopList.xml -->
 			<Spawn Index="249" Distance="10" StartX="131" StartY="88" Dir="1" /> <!-- -->
 			<Spawn Index="249" Distance="20" StartX="173" StartY="125" Dir="3" /> <!-- -->
-			<Spawn Index="247" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Ranged -->
-			<Spawn Index="249" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Melee -->
 			<Spawn Index="249" Distance="20" StartX="94" StartY="125" Dir="7" /> <!-- -->
 			<Spawn Index="249" Distance="30" StartX="131" StartY="148" Dir="1" /> <!-- -->
-			<!-- <Spawn Index="250" Distance="0" StartX="183" StartY="137" Dir="2" /> --> <!-- Wandering Merchant ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="251" Distance="0" StartX="116" StartY="141" Dir="3" /> --> <!-- Hanzo the Blacksmith ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="253" Distance="0" StartX="127" StartY="86" Dir="2" /> --> <!-- Potion Girl Amy ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="254" Distance="0" StartX="118" StartY="113" Dir="3" /> --> <!-- NPasi the Mage ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="255" Distance="0" StartX="123" StartY="135" Dir="1" />  --> <!-- Lumen the Barmaid ~ shop managed via IGC_ShopList.xml -->
 			<Spawn Index="257" Distance="0" StartX="96" StartY="129" Dir="1" /> <!-- -->
 			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="3" /> <!-- -->
 			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="2" /> <!-- -->
@@ -110,15 +103,6 @@
 			<Spawn Index="584" Distance="0" StartX="114" StartY="132" Dir="3" /> <!-- -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
-			<!-- <Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="100" /> --> <!-- -->
-			<!-- <Spawn Index="2" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="80" /> --> <!-- -->
-			<!-- <Spawn Index="2" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="40" /> --> <!-- -->
-			<!-- <Spawn Index="0" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="90" /> --> <!-- -->
-			<!-- <Spawn Index="6" Distance="30" StartX="95" StartY="168" EndX="175" EndY="244" Dir="-1" Count="40" /> --> <!-- -->
-			<!-- <Spawn Index="14" Distance="30" StartX="95" StartY="168" EndX="175" EndY="244" Dir="-1" Count="30" /> --> <!-- -->
-			<!-- <Spawn Index="1" Distance="30" StartX="8" StartY="11" EndX="94" EndY="244" Dir="-1" Count="80" /> --> <!-- -->
-			<!-- <Spawn Index="4" Distance="30" StartX="8" StartY="11" EndX="94" EndY="244" Dir="-1" Count="80" /> --> <!-- -->
-			<!-- <Spawn Index="7" Distance="30" StartX="8" StartY="11" EndX="60" EndY="80" Dir="-1" Count="30" /> --> <!-- -->
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- -->
 			<Spawn Index="2" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="40" /> <!-- -->
 			<Spawn Index="2" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="20" /> <!-- -->
@@ -128,22 +112,6 @@
 			<Spawn Index="1" Distance="30" StartX="8" StartY="11" EndX="94" EndY="244" Dir="-1" Count="45" /> <!-- -->
 			<Spawn Index="4" Distance="30" StartX="8" StartY="11" EndX="94" EndY="244" Dir="-1" Count="45" /> <!-- -->
 			<Spawn Index="7" Distance="30" StartX="8" StartY="11" EndX="60" EndY="80" Dir="-1" Count="15" /> <!-- -->
-			<!-- <Spawn Index="3" Distance="30" StartX="192" StartY="96" EndX="243" EndY="180" Dir="-1" Count="20" /> --> <!-- -->
-			<!-- <Spawn Index="2" Distance="30" StartX="210" StartY="120" EndX="243" EndY="180" Dir="-1" Count="15" /> --> <!-- -->
-			<!-- <Spawn Index="2" Distance="10" StartX="178" StartY="224" EndX="198" EndY="240" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="2" Distance="30" StartX="13" StartY="173" EndX="100" EndY="232" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="0" Distance="10" StartX="183" StartY="158" EndX="190" EndY="165" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="0" Distance="10" StartX="217" StartY="187" EndX="247" EndY="221" Dir="-1" Count="15" /> --> <!-- -->
-			<!-- <Spawn Index="0" Distance="10" StartX="178" StartY="224" EndX="198" EndY="240" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="0" Distance="10" StartX="140" StartY="70" EndX="241" EndY="104" Dir="-1" Count="15" /> --> <!-- -->
-			<!-- <Spawn Index="1" Distance="30" StartX="13" StartY="123" EndX="100" EndY="232" Dir="-1" Count="50" /> --> <!-- -->
-			<!-- <Spawn Index="6" Distance="10" StartX="129" StartY="209" EndX="149" EndY="225" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="6" Distance="10" StartX="150" StartY="19" EndX="240" EndY="41" Dir="-1" Count="5" /> --> <!-- -->
-			<!-- <Spawn Index="6" Distance="10" StartX="46" StartY="169" EndX="47" EndY="170" Dir="-1" Count="2" /> --> <!-- -->
-			<!-- <Spawn Index="4" Distance="10" StartX="103" StartY="183" EndX="114" EndY="188" Dir="-1" Count="3" /> --> <!-- -->
-			<!-- <Spawn Index="4" Distance="30" StartX="15" StartY="64" EndX="80" EndY="108" Dir="-1" Count="10" /> --> <!-- -->
-			<!-- <Spawn Index="4" Distance="10" StartX="53" StartY="30" EndX="78" EndY="50" Dir="-1" Count="10" /> --> <!-- -->
-			<!-- <Spawn Index="14" Distance="20" StartX="150" StartY="19" EndX="240" EndY="41" Dir="-1" Count="15" /> --> <!-- -->
 		</Spot>
 	</Map>
 	
@@ -343,12 +311,6 @@
 			<Spawn Index="17" Distance="30" StartX="165" StartY="171" Dir="-1" /> <!-- -->
 			<Spawn Index="17" Distance="30" StartX="208" StartY="162" Dir="-1" /> <!-- -->
 			<Spawn Index="17" Distance="30" StartX="220" StartY="161" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="176" StartY="188" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="168" StartY="150" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="156" StartY="171" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="176" StartY="161" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="185" StartY="161" Dir="-1" /> <!-- -->
-			<Spawn Index="17" Distance="30" StartX="181" StartY="171" Dir="-1" /> <!-- -->
 			<Spawn Index="17" Distance="30" StartX="198" StartY="168" Dir="-1" /> <!-- -->
 			<Spawn Index="17" Distance="30" StartX="190" StartY="172" Dir="-1" /> <!-- -->
 			<Spawn Index="11" Distance="30" StartX="227" StartY="248" Dir="-1" /> <!-- -->
