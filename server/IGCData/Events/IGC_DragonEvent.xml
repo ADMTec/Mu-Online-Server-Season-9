@@ -34,19 +34,19 @@
 -->
 
 <DragonEvent>
-	<Monster Index="44" Distance="30" Count="2">
+	<Monster Index="44" Distance="1" Count="1">
 		<Map Number="0">
-			<Spawn StartX="135" StartY="61" EndX="146" EndY="70" />
-			<Spawn StartX="120" StartY="204" EndX="126" EndY="219" />
-			<Spawn StartX="67" StartY="116" EndX="77" EndY="131" />
-		</Map>			
-		<Map Number="2">
-			<Spawn StartX="155" StartY="16" EndX="169" EndY="55" />
-			<Spawn StartX="193" StartY="110" EndX="232" EndY="126" />
-		</Map>			
+			<Spawn StartX="144" StartY="66" EndX="146" EndY="70" />
+			<Spawn StartX="127" StartY="184" EndX="129" EndY="186" />
+			<Spawn StartX="88" StartY="117" EndX="90" EndY="118" />
+		</Map>		
 		<Map Number="3">
-			<Spawn StartX="198" StartY="161" EndX="223" EndY="175" />
-			<Spawn StartX="136" StartY="50" EndX="164" EndY="59" />
+			<Spawn StartX="146" StartY="122" EndX="148" EndY="124" />
+			<Spawn StartX="164" StartY="66" EndX="166" EndY="68" />
+		</Map>		
+		<Map Number="51">
+			<Spawn StartX="52" StartY="149" EndX="54" EndY="151" />
+			<Spawn StartX="100" StartY="197" EndX="102" EndY="200" />
 		</Map>
 	</Monster>
 </DragonEvent>

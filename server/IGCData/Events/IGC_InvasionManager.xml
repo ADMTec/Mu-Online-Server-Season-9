@@ -67,5 +67,6 @@
 	</Invasion>
 
 	<Invasion Type="4" Name="Santa Event">
+		<Start DayOfWeek="-1" Hour="22" Minute="0" />
 	</Invasion>
 </InvasionManager>

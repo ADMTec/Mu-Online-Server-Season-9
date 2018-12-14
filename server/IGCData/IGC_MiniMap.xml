@@ -62,6 +62,7 @@
 		<Tag Id="18" MapNumber="0"	NPCIndex="229"	X="137"	Y="87"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
 <!-- Dungeon -->
 		<Tag Id="0" MapNumber="1"	NPCIndex="229"	X="162"	Y="153"	 DisplayType="1"  SyncType="1"  Name="Last Man Standing Zone" />
+		<Tag Id="1" MapNumber="1"	NPCIndex="229"	X="98"	Y="220"	 DisplayType="1"  SyncType="1"  Name="Death King Spawn Zone" />
 <!-- Devias -->
 		<Tag Id="0"	 MapNumber="2"	NPCIndex="233"	X="209"	Y="30"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
 		<Tag Id="1"	 MapNumber="2"	NPCIndex="235"	X="219"	Y="9"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
