@@ -83,29 +83,39 @@
 <MonsterSpawn>
 	<Map Number="0" Name="Lorencia">
 		<Spot Type="0" Description="NPC">
-			<Spawn Index="247" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Ranged -->
-			<Spawn Index="249" Distance="1" StartX="124" StartY="132" Dir="7" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="115" StartY="128" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="157" StartY="129" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="134" StartY="156" Dir="7" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="134" StartY="98" Dir="7" /> <!-- Guard Melee -->
+			
+			<Spawn Index="233" Distance="0" StartX="130" StartY="127" Dir="3" /> <!-- Blood Castle Angel -->
+			
+			<Spawn Index="543" Distance="0" StartX="137" StartY="122" Dir="3" /> <!-- Duprian -->
+			<Spawn Index="544" Distance="0" StartX="137" StartY="133" Dir="3" /> <!-- Vanert -->
 			
 			<Spawn Index="226" Distance="0" StartX="122" StartY="110" Dir="3" /> <!-- -->
-			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" /> <!-- -->
-			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" /> <!-- -->
-			<Spawn Index="249" Distance="10" StartX="131" StartY="88" Dir="1" /> <!-- -->
-			<Spawn Index="249" Distance="20" StartX="173" StartY="125" Dir="3" /> <!-- -->
-			<Spawn Index="249" Distance="20" StartX="94" StartY="125" Dir="7" /> <!-- -->
-			<Spawn Index="249" Distance="30" StartX="131" StartY="148" Dir="1" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="96" StartY="129" Dir="1" /> <!-- -->
-			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="3" /> <!-- -->
-			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="2" /> <!-- -->
-			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" /> <!-- -->
-			<Spawn Index="584" Distance="0" StartX="114" StartY="132" Dir="3" /> <!-- -->
+			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" /> <!-- Stash -->
+			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" /> <!-- Stash -->
+			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="96" StartY="129" Dir="1" /> <!-- Helper -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
-			<Spawn Index="501" Distance="1" StartX="100" StartY="100" EndX="101" EndY="101" Dir="-1" Count="1" /> <!-- -->
+			<Spawn Index="2" Distance="3" StartX="186" StartY="118" EndX="188" EndY="120" Dir="-1" Count="3" /> <!-- Budge Dragon -->
+			<Spawn Index="3" Distance="3" StartX="186" StartY="118" EndX="188" EndY="120" Dir="-1" Count="3" /> <!-- Spider -->
 			
-			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- -->
+			<Spawn Index="0" Distance="3" StartX="175" StartY="91" EndX="177" EndY="93" Dir="-1" Count="6" /> <!-- Bull Fighter -->
+			
+			<Spawn Index="7" Distance="3" StartX="138" StartY="76" EndX="140" EndY="78" Dir="-1" Count="3" /> <!-- Giant -->
+			<Spawn Index="4" Distance="3" StartX="138" StartY="76" EndX="140" EndY="78" Dir="-1" Count="3" /> <!-- Elite Bull Fighter -->
+			
+			<Spawn Index="14" Distance="3" StartX="131" StartY="190" EndX="133" EndY="192" Dir="-1" Count="3" /> <!-- Skeleton -->
+			<Spawn Index="6" Distance="3" StartX="131" StartY="190" EndX="133" EndY="192" Dir="-1" Count="3" /> <!-- Lich -->
+			
+			<Spawn Index="1" Distance="3" StartX="85" StartY="118" EndX="87" EndY="120" Dir="-1" Count="3" /> <!-- Hound -->
+			<Spawn Index="4" Distance="3" StartX="85" StartY="118" EndX="87" EndY="120" Dir="-1" Count="3" /> <!-- Elite Bull Fighter -->
+			
 			<Spawn Index="2" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="40" /> <!-- -->
 			<Spawn Index="2" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="20" /> <!-- -->
 			<Spawn Index="0" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="45" /> <!-- -->
@@ -4302,26 +4312,6 @@
 
 	<Map Number="79" Name="Loren Market">
 		<Spot Type="0" Description="NPC">
-			<!-- <Spawn Index="240" Distance="0" StartX="115" StartY="144" Dir="1" /> --> <!-- -->
-			<!-- <Spawn Index="240" Distance="0" StartX="147" StartY="115" Dir="1" /> --> <!-- -->
-			<Spawn Index="385" Distance="0" StartX="94" StartY="137" Dir="1" /> <!-- -->
-			<!-- <Spawn Index="540" Distance="0" StartX="84" StartY="129" Dir="2" /> --> <!-- -->
-			<!-- <Spawn Index="545" Distance="0" StartX="113" StartY="116" Dir="3" /> --> <!-- Christine the Merchant ~ shop managed via IGC_ShopList.xml -->
-			<Spawn Index="546" Distance="0" StartX="131" StartY="109" Dir="3" /> <!-- -->
-			<Spawn Index="547" Distance="0" StartX="123" StartY="140" Dir="3" /> <!-- -->
-			<Spawn Index="643" Distance="0" StartX="113" StartY="127" Dir="3" /> <!-- -->
-			<Spawn Index="643" Distance="0" StartX="113" StartY="132" Dir="3" /> <!-- -->
-			<Spawn Index="643" Distance="0" StartX="113" StartY="119" Dir="3" /> <!-- -->
-			<Spawn Index="651" Distance="0" StartX="108" StartY="134" Dir="3" /> <!-- -->
-			<Spawn Index="651" Distance="0" StartX="138" StartY="143" Dir="1" /> <!-- -->
-			<Spawn Index="669" Distance="0" StartX="113" StartY="132" Dir="2" /> <!-- -->
-			<!-- <Spawn Index="695" Distance="0" StartX="113" StartY="119" Dir="3" /> --> <!-- -->
-			<!-- <Spawn Index="683" Distance="0" StartX="128" StartY="121" Dir="2" /> --> <!--  Marce.xml ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="684" Distance="0" StartX="128" StartY="133" Dir="2" /> --> <!--  Silvia.xml ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="685" Distance="0" StartX="139" StartY="140" Dir="2" /> --> <!--  Izabel.xml ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="686" Distance="0" StartX="134" StartY="127" Dir="2" /> --> <!--  Sophia (repair).xml ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="687" Distance="0" StartX="116" StartY="115" Dir="2" /> --> <!--  Bolo (repair).xml ~ shop managed via IGC_ShopList.xml -->
-			<!-- <Spawn Index="688" Distance="0" StartX="135" StartY="112" Dir="2" /> --> <!--  Christine.xml~ shop managed via IGC_ShopList.xml -->
 		</Spot>
 	</Map>
 

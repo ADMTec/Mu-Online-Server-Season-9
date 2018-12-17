@@ -44,7 +44,6 @@
 -->
 
 <ShopList>
-	<Shop NPCIndex="255" MapNumber="0"  PosX="125" PosY="125" Dir="3" VipType="0" GMShop="1" FileName="NPC(297)_Test.xml" /> <!-- Test -->
 	<Shop NPCIndex="251" MapNumber="0"  PosX="116" PosY="141" Dir="3" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="251" MapNumber="34" PosX="145" PosY="14"  Dir="1" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- CryWolf -->
 	<Shop NPCIndex="255" MapNumber="0"  PosX="123" PosY="135" Dir="1" VipType="0" GMShop="0" FileName="NPC(255)_Lumen_the_Barmaid.xml" /> <!-- Lorencia -->
