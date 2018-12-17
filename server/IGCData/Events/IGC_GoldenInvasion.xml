@@ -66,6 +66,5 @@
 		<Spawn Index="499" MapNumber1="57" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Iron Knight -->
 		<Spawn Index="500" MapNumber1="56" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Napin -->
 		<Spawn Index="501" MapNumber1="37" MapNumber2="57" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Great Golden Dragon -->
-		<Spawn Index="502" MapNumber1="51" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Rabbit -->
 	</Spot>
 </GoldenInvasion>

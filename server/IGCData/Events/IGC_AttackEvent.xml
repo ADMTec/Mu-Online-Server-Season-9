@@ -47,6 +47,6 @@
 <AttackEvent>
 	<Spawn Index="53" MapNumber1="2" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="10" StartY="10" EndX="240" EndY="240" Dir="-1" Count="1" /> <!-- Golden Titan ~ must be initialized before Golden Soldier -->
 	<Spawn Index="54" MapNumber1="2" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="10" StartY="10" EndX="240" EndY="240" Dir="-1" Count="2" /> <!-- Golden Soldier -->
-	<Spawn Index="55" MapNumber1="0" MapNumber2="3" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="10" StartY="10" EndX="240" EndY="240" Dir="-1" Count="1" /> <!-- Death King ~ must be initialized before Death Bone -->
-	<Spawn Index="56" MapNumber1="0" MapNumber2="3" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="10" StartY="10" EndX="240" EndY="240" Dir="-1" Count="2" /> <!-- Death Bone -->
+	<Spawn Index="55" MapNumber1="1" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="1" StartX="95" StartY="218" EndX="101" EndY="224" Dir="-1" Count="1" /> <!-- Death King ~ must be initialized before Death Bone -->
+	<Spawn Index="56" MapNumber1="1" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="1" StartX="95" StartY="218" EndX="101" EndY="224" Dir="-1" Count="10" /> <!-- Death Bone -->
 </AttackEvent>

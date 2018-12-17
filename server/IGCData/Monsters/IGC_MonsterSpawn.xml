@@ -103,6 +103,8 @@
 			<Spawn Index="584" Distance="0" StartX="114" StartY="132" Dir="3" /> <!-- -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="501" Distance="1" StartX="100" StartY="100" EndX="101" EndY="101" Dir="-1" Count="1" /> <!-- -->
+			
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- -->
 			<Spawn Index="2" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="40" /> <!-- -->
 			<Spawn Index="2" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="20" /> <!-- -->
