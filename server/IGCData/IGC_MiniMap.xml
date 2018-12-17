@@ -122,15 +122,21 @@
 		<Tag Id="4"	 MapNumber="51"	NPCIndex="257"	X="43"	Y="191"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="5"	 MapNumber="51"	NPCIndex="257"	X="57"	Y="232"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="6"	 MapNumber="51"	NPCIndex="257"	X="73"	Y="220"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="7"	 MapNumber="51"	NPCIndex="240"	X="50"	Y="229"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
+		<Tag Id="7"	 MapNumber="51"	NPCIndex="240"	X="50"	Y="229"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
 		<Tag Id="8"	 MapNumber="51"	NPCIndex="385"	X="55"	Y="243"	 DisplayType="2"  SyncType="1"  Name="Mirage" />
 		<Tag Id="9"	 MapNumber="51"	NPCIndex="452"	X="46"	Y="243"	 DisplayType="2"  SyncType="1"  Name="Seed Master" />
 		<Tag Id="10" MapNumber="51"	NPCIndex="453"	X="50"	Y="243"	 DisplayType="2"  SyncType="1"  Name="Seed Researcher" />
 		<Tag Id="11" MapNumber="51"	NPCIndex="492"	X="22"	Y="225"	 DisplayType="2"  SyncType="1"  Name="Moss" />
 		<Tag Id="12" MapNumber="51"	NPCIndex="540"	X="48"	Y="216"	 DisplayType="2"  SyncType="1"  Name="Lugard" />
 		<Tag Id="13" MapNumber="51"	NPCIndex="568"	X="55"	Y="199"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
-		<Tag Id="14" MapNumber="51"	NPCIndex="579"	X="20"	Y="214"	 DisplayType="2"  SyncType="1"  Name="David" />
-		<Tag Id="15" MapNumber="51" NPCIndex="682"  X="24"  Y="229"  DisplayType="2"  SyncType="1"  Name="Monica" />
+		<Tag Id="14" MapNumber="51" NPCIndex="682"  X="24"  Y="229"  DisplayType="2"  SyncType="1"  Name="Monica" />
+		
+		<Tag Id="15" MapNumber="51" NPCIndex="1"  X="111"  Y="212"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="16" MapNumber="51" NPCIndex="1"  X="53"  Y="156"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="17" MapNumber="51" NPCIndex="1"  X="104"  Y="59"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="18" MapNumber="51" NPCIndex="1"  X="201"  Y="159"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="19" MapNumber="51" NPCIndex="1"  X="185"  Y="161"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="20" MapNumber="51" NPCIndex="1"  X="194"  Y="134"  DisplayType="1"  SyncType="1"  Name="Spot" />
 <!-- Vulcanus -->
 		<Tag Id="0"	 MapNumber="63"	NPCIndex="479"	X="122"	Y="135"	 DisplayType="2"  SyncType="1"  Name="Doorkeeper Titus" />
 <!-- Karutan 1 -->
@@ -143,7 +149,6 @@
 		<Tag Id="0"	 MapNumber="91"	NPCIndex="581"	X="29"	Y="210"	 DisplayType="2"  SyncType="1"  Name="Acheron Quest Deruvish" />
 		<Tag Id="1"	 MapNumber="91"	NPCIndex="582"	X="38"	Y="216"	 DisplayType="2"  SyncType="1"  Name="Errtel Combiner Adniel" />
 		<Tag Id="2"	 MapNumber="91"	NPCIndex="583"	X="56"	Y="202"	 DisplayType="4"  SyncType="1"  Name="Potion Merchant Jin" />
-		<!-- <Tag Id="3" MapNumber="91"	NPCIndex="195"	X="52"	Y="52"	 DisplayType="3"  SyncType="1"  Name="Weapons Merchant Dre" /> -->
 		<Tag Id="4"	 MapNumber="91"	NPCIndex="240"	X="50"	Y="184"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
 <!-- Atlans (1 ~ 3) -->
 		<Tag Id="0"	 MapNumber="7"	NPCIndex="229"	X="17"	Y="25"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
@@ -348,11 +353,5 @@
 		<Tag Id="2"	 MapNumber="100" X="212" Y="32"	  Name="Portal Field B (Blue)" />
 		<Tag Id="3"	 MapNumber="100" X="41"	 Y="98"	  Name="Portal Field A (Red)" />
 		<Tag Id="4"	 MapNumber="100" X="109" Y="230"  Name="Portal Field B (Red)" />
-
-
-
-
-
-
 	</TypeTwo>
 </MiniMapObjects>
