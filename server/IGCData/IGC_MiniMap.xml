@@ -54,10 +54,10 @@
 		<Tag Id="10" MapNumber="0"	NPCIndex="257"	X="132"	Y="165"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="11" MapNumber="0"	NPCIndex="257"	X="132"	Y="90"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="12" MapNumber="0"	NPCIndex="257"	X="170"	Y="129"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="13" MapNumber="0"	NPCIndex="543"	X="137"	Y="122"	 DisplayType="2"  SyncType="1"  Name="Gens Duprian Steward" />
-		<Tag Id="14" MapNumber="0"	NPCIndex="375"	X="130"	Y="126"	 DisplayType="2"  SyncType="1"  Name="Blood Castle Archangel" />
+		<Tag Id="13" MapNumber="0"	NPCIndex="543"	X="137"	Y="122"	 DisplayType="2"  SyncType="1"  Name="Gens Duprian" />
+		<Tag Id="14" MapNumber="0"	NPCIndex="375"	X="130"	Y="126"	 DisplayType="2"  SyncType="1"  Name="Blood Castle" />
 		<Tag Id="15" MapNumber="0"	NPCIndex="240"	X="147"	Y="145"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
-		<Tag Id="16" MapNumber="0"	NPCIndex="584"	X="137"	Y="133"	 DisplayType="2"  SyncType="1"  Name="Gens Vanert Steward" />
+		<Tag Id="16" MapNumber="0"	NPCIndex="584"	X="137"	Y="133"	 DisplayType="2"  SyncType="1"  Name="Gens Vanert" />
 		<Tag Id="17" MapNumber="0"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
 		<Tag Id="18" MapNumber="0"	NPCIndex="229"	X="137"	Y="87"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
 		
@@ -87,19 +87,19 @@
 		<Tag Id="14" MapNumber="2"	NPCIndex="229"	X="183"	Y="30"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
 		<Tag Id="15" MapNumber="2"	NPCIndex="235"	X="183"	Y="32"	 DisplayType="2"  SyncType="1"  Name="Sebina the Priest" />
 <!-- Noria -->
-		<Tag Id="0"	 MapNumber="3"	NPCIndex="237"	X="171"	Y="105"	 DisplayType="2"  SyncType="1"  Name="Charon" />
-		<Tag Id="1"	 MapNumber="3"	NPCIndex="242"	X="173"	Y="125"	 DisplayType="4"  SyncType="1"  Name="Elf Lala" />
-		<Tag Id="2"	 MapNumber="3"	NPCIndex="243"	X="195"	Y="124"	 DisplayType="3"  SyncType="1"  Name="Eo the Craftsman" />
-		<Tag Id="3"	 MapNumber="3"	NPCIndex="240"	X="172"	Y="96"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
-		<Tag Id="4"	 MapNumber="3"	NPCIndex="238"	X="180"	Y="103"	 DisplayType="2"  SyncType="1"  Name="Chaos Goblin" />
-		<Tag Id="5"	 MapNumber="3"	NPCIndex="257"	X="167"	Y="118"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="6"	 MapNumber="3"	NPCIndex="257"	X="166"	Y="85"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="7"	 MapNumber="3"	NPCIndex="257"	X="201"	Y="129"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="8"	 MapNumber="3"	NPCIndex="544"	X="167"	Y="100"	 DisplayType="2"  SyncType="1"  Name="Gens Vanert Steward" />
-		<Tag Id="9"	 MapNumber="3"	NPCIndex="580"	X="196"	Y="113"	 DisplayType="2"  SyncType="1"  Name="Captain Slough" />
-		<Tag Id="10" MapNumber="3"	NPCIndex="584"	X="183"	Y="126"	 DisplayType="2"  SyncType="1"  Name="Sir Lesnar" />
-		<Tag Id="11" MapNumber="3"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
-		<Tag Id="12" MapNumber="3"	NPCIndex="229"	X="169"	Y="89"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		<Tag Id="0"	 MapNumber="3"	NPCIndex="242"	X="173"	Y="125"	 DisplayType="4"  SyncType="1"  Name="Elf Lala" />
+		<Tag Id="1"	 MapNumber="3"	NPCIndex="243"	X="195"	Y="124"	 DisplayType="3"  SyncType="1"  Name="Eo the Craftsman" />
+		<Tag Id="2"	 MapNumber="3"	NPCIndex="240"	X="172"	Y="96"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
+		<Tag Id="3"	 MapNumber="3"	NPCIndex="238"	X="180"	Y="103"	 DisplayType="2"  SyncType="1"  Name="Chaos Goblin" />
+		<Tag Id="4"	 MapNumber="3"	NPCIndex="257"	X="167"	Y="118"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
+		<Tag Id="5"	 MapNumber="3"	NPCIndex="257"	X="166"	Y="85"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
+		<Tag Id="6"	 MapNumber="3"	NPCIndex="257"	X="201"	Y="129"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
+		<Tag Id="7" MapNumber="3"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
+		<Tag Id="8" MapNumber="3"	NPCIndex="229"	X="169"	Y="89"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		
+		<Tag Id="9" MapNumber="3"	NPCIndex="0"	X="146"	Y="112"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="10" MapNumber="3"	NPCIndex="0"	X="153"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="11" MapNumber="3"	NPCIndex="0"	X="215"	Y="134"	 DisplayType="1"  SyncType="1"  Name="Spot" />
 <!-- Aida 1 ~ 2 -->
 		<Tag Id="0"	 MapNumber="33"	NPCIndex="369"	X="78"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Osbourne" />
 		<Tag Id="1"	 MapNumber="33"	NPCIndex="370"	X="86"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Jerridon" />

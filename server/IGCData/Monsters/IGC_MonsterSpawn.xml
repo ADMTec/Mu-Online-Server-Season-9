@@ -445,26 +445,17 @@
 	<Map Number="2" Name="Devias">
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="229" Distance="0" StartX="183" StartY="30" Dir="3" /> <!-- -->
-		<!-- <Spawn Index="231" Distance="0" StartX="8" StartY="77" Dir="3" /> --> <!-- Thompson Kenel ~ shop managed via IGC_ShopList.xml -->
 			<Spawn Index="233" Distance="0" StartX="209" StartY="30" Dir="1" /> <!-- -->
 			<Spawn Index="233" Distance="0" StartX="219" StartY="9" Dir="3" /> <!-- -->
 			<Spawn Index="235" Distance="0" StartX="183" StartY="32" Dir="3" /> <!-- -->
-		<!-- <Spawn Index="236" Distance="0" StartX="226" StartY="66" Dir="1" /> --> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="218" StartY="63" Dir="2" /> <!-- -->
 			<Spawn Index="241" Distance="0" StartX="215" StartY="45" Dir="1" /> <!-- -->
-		<!-- <Spawn Index="244" Distance="0" StartX="226" StartY="25" Dir="3" /> --> <!-- NCaren the_Barmaid ~ shop managed via IGC_ShopList.xml -->
-		<!-- <Spawn Index="245" Distance="0" StartX="225" StartY="41" Dir="3" /> --> <!-- Wizard Izabel ~ shop managed via IGC_ShopList.xml -->
-		<!-- <Spawn Index="246" Distance="0" StartX="186" StartY="47" Dir="3" /> --> <!-- Weapons Merchant Zienna ~ shop managed via IGC_ShopList.xml -->
 			<Spawn Index="247" Distance="20" StartX="224" StartY="79" Dir="5" /> <!-- -->
 			<Spawn Index="247" Distance="20" StartX="219" StartY="79" Dir="5" /> <!-- -->
 			<Spawn Index="247" Distance="20" StartX="169" StartY="45" Dir="7" /> <!-- -->
 			<Spawn Index="247" Distance="20" StartX="169" StartY="39" Dir="7" /> <!-- -->
-		<!-- <Spawn Index="256" Distance="0" StartX="191" StartY="17" Dir="3" /> --> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="219" StartY="73" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="172" StartY="44" Dir="1" /> <!-- -->
-		<!-- <Spawn Index="375" Distance="0" StartX="219" StartY="230" Dir="3" /> --> <!-- -->
-		<!-- <Spawn Index="379" Distance="0" StartX="32" StartY="31" Dir="3" /> --> <!-- Natasha Firecracker Merchant ~ shop managed via IGC_ShopList.xml -->
-		<!-- <Spawn Index="478" Distance="0" StartX="191" StartY="17" Dir="3" /> --> <!-- Temporary disabled due to lack of compatibility with Season 8 Game Client -->
 			<Spawn Index="522" Distance="0" StartX="229" StartY="221" Dir="1" /> <!-- -->
 			<Spawn Index="566" Distance="0" StartX="204" StartY="61" Dir="1" /> <!-- -->
 			<Spawn Index="584" Distance="0" StartX="240" StartY="53" Dir="7" /> <!-- -->
@@ -534,25 +525,25 @@
 	
 	<Map Number="3" Name="Noria">
 		<Spot Type="0" Description="NPC">
-			<Spawn Index="237" Distance="0" StartX="171" StartY="105" Dir="3" /> <!-- -->
-			<Spawn Index="238" Distance="0" StartX="180" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="240" Distance="0" StartX="172" StartY="96" Dir="3" /> <!-- -->
-		<!-- <Spawn Index="242" Distance="0" StartX="173" StartY="125" Dir="1" /> --> <!--  Elf Lala ~ shop managed via IGC_ShopList.xml -->
-		<!-- <Spawn Index="243" Distance="0" StartX="195" StartY="124" Dir="2" /> --> <!--  Eo the Craftsman ~ shop managed via IGC_ShopList.xml -->
-		<!-- <Spawn Index="368" Distance="0" StartX="173" StartY="101" Dir="2" /> --> <!-- -->
-		<!-- <Spawn Index="369" Distance="0" StartX="174" StartY="102" Dir="2" /> --> <!-- -->
-		<!-- <Spawn Index="370" Distance="0" StartX="175" StartY="103" Dir="2" /> --> <!-- -->
-			<Spawn Index="450" Distance="0" StartX="179" StartY="126" Dir="1" /> <!-- -->
-			<Spawn Index="451" Distance="0" StartX="179" StartY="129" Dir="3" /> <!-- -->
-		<!-- <Spawn Index="464" Distance="0" StartX="170" StartY="119" Dir="1" /> --> <!-- -->
-			<Spawn Index="580" Distance="0" StartX="196" StartY="113" Dir="2" /> <!-- -->
-			<Spawn Index="584" Distance="0" StartX="183" StartY="126" Dir="2" /> <!-- -->
-			<Spawn Index="544" Distance="0" StartX="167" StartY="100" Dir="2" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="166" StartY="85" Dir="2" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="201" StartY="129" Dir="2" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="167" StartY="118" Dir="1" /> <!-- -->
+			<Spawn Index="238" Distance="0" StartX="180" StartY="103" Dir="1" /> <!-- Chaos Goblin -->
+			<Spawn Index="240" Distance="0" StartX="172" StartY="96" Dir="3" /> <!-- Warehouse -->
+			<Spawn Index="257" Distance="0" StartX="166" StartY="85" Dir="2" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="201" StartY="129" Dir="2" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="167" StartY="118" Dir="1" /> <!-- Helper -->
+			
+			<Spawn Index="247" Distance="1" StartX="173" StartY="119" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="196" StartY="118" Dir="7" /> <!-- Guard Melee -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="3" Distance="3" StartX="145" StartY="111" EndX="147" EndY="113" Dir="-1" Count="3" /> <!-- Spider -->
+			<Spawn Index="27" Distance="3" StartX="145" StartY="111" EndX="147" EndY="113" Dir="-1" Count="3" /> <!-- Chain Scorpion -->
+			
+			<Spawn Index="26" Distance="3" StartX="152" StartY="69" EndX="154" EndY="71" Dir="-1" Count="3" /> <!-- Spider -->
+			<Spawn Index="28" Distance="3" StartX="152" StartY="69" EndX="154" EndY="71" Dir="-1" Count="3" /> <!-- Chain Scorpion -->
+		
+			<Spawn Index="29" Distance="3" StartX="214" StartY="133" EndX="216" EndY="135" Dir="-1" Count="3" /> <!-- Hunter -->
+			<Spawn Index="30" Distance="3" StartX="214" StartY="133" EndX="216" EndY="135" Dir="-1" Count="3" /> <!-- Forest Monster -->
+			
 			<Spawn Index="3" Distance="30" StartX="139" StartY="63" EndX="247" EndY="164" Dir="-1" Count="60" /> <!-- -->
 			<Spawn Index="26" Distance="30" StartX="109" StartY="46" EndX="154" EndY="181" Dir="-1" Count="10" /> <!-- -->
 			<Spawn Index="26" Distance="30" StartX="136" StartY="156" EndX="247" EndY="204" Dir="-1" Count="10" /> <!-- -->
@@ -1182,8 +1173,6 @@
 
 	<Map Number="7" Name="Atlans (1 ~ 3)">
 		<Spot Type="0" Description="NPC">
-			<!-- <Spawn Index="258" Distance="0" StartX="15" StartY="17" Dir="3" /> --> <!-- LMS NPC, spawn managed from IGC_LastManStanding.xml -->
-			<!-- <Spawn Index="414" Distance="0" StartX="12" StartY="14" Dir="3" /> --> <!-- -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monster">
 			<Spawn Index="48" Distance="30" StartX="236" StartY="177" Dir="-1" /> <!-- -->
