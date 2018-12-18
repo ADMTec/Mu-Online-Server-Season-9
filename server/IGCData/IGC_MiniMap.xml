@@ -103,6 +103,9 @@
 		
 		<Tag Id="23" MapNumber="2"	NPCIndex="0"	X="76"	Y="147"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		<Tag Id="24" MapNumber="2"	NPCIndex="0"	X="101"	Y="179"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		
+		<Tag Id="25" MapNumber="2"	NPCIndex="0"	X="15"	Y="20"	 DisplayType="1"  SyncType="1"  Name="Danger!" />
+		<Tag Id="26" MapNumber="2"	NPCIndex="0"	X="239"	Y="235"	 DisplayType="1"  SyncType="1"  Name="Danger!" />
 <!-- Noria -->
 		<Tag Id="0"	 MapNumber="3"	NPCIndex="242"	X="173"	Y="125"	 DisplayType="4"  SyncType="1"  Name="Elf Lala" />
 		<Tag Id="1"	 MapNumber="3"	NPCIndex="243"	X="195"	Y="124"	 DisplayType="3"  SyncType="1"  Name="Eo the Craftsman" />
@@ -168,6 +171,7 @@
 		<Tag Id="4"	 MapNumber="91"	NPCIndex="240"	X="50"	Y="184"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
 <!-- Atlans (1 ~ 3) -->
 		<Tag Id="0"	 MapNumber="7"	NPCIndex="229"	X="17"	Y="25"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		<Tag Id="1" MapNumber="7" NPCIndex="1"  X="194"  Y="134"  DisplayType="1"  SyncType="1"  Name="Spot" />
 <!--  Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />
