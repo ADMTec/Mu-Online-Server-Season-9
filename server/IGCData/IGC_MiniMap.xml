@@ -189,6 +189,21 @@
 		<Tag Id="1" MapNumber="4" NPCIndex="1"  X="195"  Y="114"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="2" MapNumber="4" NPCIndex="1"  X="195"  Y="131"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="3" MapNumber="4" NPCIndex="1"  X="219"  Y="108"  DisplayType="1"  SyncType="1"  Name="Danger!" />
+		
+		<Tag Id="4" MapNumber="4" NPCIndex="1"  X="213"  Y="213"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="5" MapNumber="4" NPCIndex="1"  X="236"  Y="210"  DisplayType="1"  SyncType="1"  Name="Danger!" />
+		
+		<Tag Id="6" MapNumber="4" NPCIndex="1"  X="83"  Y="188"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="7" MapNumber="4" NPCIndex="1"  X="97"  Y="171"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		
+		<Tag Id="8" MapNumber="4" NPCIndex="1"  X="86"  Y="103"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="9" MapNumber="4" NPCIndex="1"  X="86"  Y="134"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		
+		<Tag Id="10" MapNumber="4" NPCIndex="1"  X="130"  Y="41"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="11" MapNumber="4" NPCIndex="1"  X="104"  Y="26"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		
+		<Tag Id="12" MapNumber="4" NPCIndex="1"  X="54"  Y="26"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="13" MapNumber="4" NPCIndex="1"  X="31"  Y="33"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 <!--  Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />

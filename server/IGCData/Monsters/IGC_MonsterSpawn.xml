@@ -407,6 +407,37 @@
 			<Spawn Index="39" Distance="3" StartX="194" StartY="130" EndX="196" EndY="132" Dir="-1" Count="3" /> <!-- Poison Shadow -->
 			
 			<Spawn Index="115" Distance="3" StartX="218" StartY="107" EndX="220" EndY="109" Dir="-1" Count="5" /> <!-- Dark Skull Soldier 4 -->
+			
+			<Spawn Index="34" Distance="3" StartX="212" StartY="212" EndX="214" EndY="214" Dir="-1" Count="3" /> <!-- Cursed Wizard -->
+			<Spawn Index="36" Distance="3" StartX="212" StartY="212" EndX="214" EndY="214" Dir="-1" Count="3" /> <!-- Shadow -->
+			<Spawn Index="39" Distance="3" StartX="212" StartY="212" EndX="214" EndY="214" Dir="-1" Count="3" /> <!-- Poison Shadow -->
+			
+			<Spawn Index="563" Distance="3" StartX="235" StartY="209" EndX="237" EndY="211" Dir="-1" Count="3" /> <!-- Balram -->
+			
+			<Spawn Index="41" Distance="3" StartX="82" StartY="187" EndX="84" EndY="189" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="34" Distance="3" StartX="82" StartY="187" EndX="84" EndY="189" Dir="-1" Count="3" /> <!-- Cursed Wizard -->
+			
+			<Spawn Index="41" Distance="3" StartX="96" StartY="170" EndX="98" EndY="172" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="34" Distance="3" StartX="96" StartY="170" EndX="98" EndY="172" Dir="-1" Count="3" /> <!-- Cursed Wizard -->
+			
+			<Spawn Index="41" Distance="3" StartX="85" StartY="102" EndX="87" EndY="104" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="37" Distance="3" StartX="85" StartY="102" EndX="87" EndY="104" Dir="-1" Count="3" /> <!-- Devil -->
+			
+			<Spawn Index="41" Distance="3" StartX="85" StartY="133" EndX="87" EndY="135" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="35" Distance="3" StartX="85" StartY="133" EndX="87" EndY="135" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			
+			<Spawn Index="35" Distance="3" StartX="129" StartY="40" EndX="131" EndY="42" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="34" Distance="3" StartX="129" StartY="40" EndX="131" EndY="42" Dir="-1" Count="3" /> <!-- Cursed Wizard -->
+			
+			<Spawn Index="35" Distance="3" StartX="103" StartY="25" EndX="105" EndY="27" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="34" Distance="3" StartX="103" StartY="25" EndX="105" EndY="27" Dir="-1" Count="3" /> <!-- Cursed Wizard -->
+			
+			<Spawn Index="35" Distance="3" StartX="53" StartY="25" EndX="55" EndY="27" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="37" Distance="3" StartX="53" StartY="25" EndX="55" EndY="27" Dir="-1" Count="3" /> <!-- Devil -->
+			
+			<Spawn Index="35" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="37" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Devil -->
+			<Spawn Index="41" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Death Cow -->
 		</Spot>
 	</Map>
 
