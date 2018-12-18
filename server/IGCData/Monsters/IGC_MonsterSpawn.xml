@@ -94,8 +94,8 @@
 			<Spawn Index="544" Distance="0" StartX="137" StartY="133" Dir="3" /> <!-- Vanert -->
 			
 			<Spawn Index="226" Distance="0" StartX="122" StartY="110" Dir="3" /> <!-- -->
-			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" /> <!-- Stash -->
-			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" /> <!-- Stash -->
+			<Spawn Index="240" Distance="0" StartX="147" StartY="145" Dir="1" /> <!-- Warehouse -->
+			<Spawn Index="240" Distance="0" StartX="146" StartY="110" Dir="3" /> <!-- Warehouse -->
 			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" /> <!-- Helper -->
 			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" /> <!-- Helper -->
 			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" /> <!-- Helper -->
@@ -119,66 +119,7 @@
 	</Map>
 	
 	<Map Number="1" Name="Dungeon (1 ~ 3)">
-		<Spot Type="0" Description="NPC/Traps">									
-			<Spawn Index="101" Distance="0" StartX="10" StartY="26" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="11" StartY="26" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="27" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="24" StartY="5" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="24" StartY="4" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="27" StartY="11" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="23" StartY="24" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="27" StartY="21" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="19" StartY="19" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="22" StartY="24" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="23" StartY="29" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="23" StartY="28" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="33" StartY="9" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="35" StartY="9" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="39" StartY="18" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="39" StartY="17" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="39" StartY="16" Dir="1" /> <!-- -->
-			<Spawn Index="102" Distance="0" StartX="45" StartY="224" Dir="3" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="48" StartY="193" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="49" StartY="193" Dir="1" /> <!-- -->
-			<Spawn Index="102" Distance="0" StartX="66" StartY="71" Dir="3" /> <!-- -->
-			<Spawn Index="102" Distance="0" StartX="80" StartY="61" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="90" StartY="164" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="92" StartY="164" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="91" StartY="164" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="126" StartY="99" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="123" StartY="99" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="120" StartY="99" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="117" StartY="99" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="136" StartY="95" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="139" StartY="95" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="128" StartY="212" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="130" StartY="213" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="143" StartY="214" Dir="1" /> <!-- -->
-			<Spawn Index="101" Distance="0" StartX="155" StartY="230" Dir="5" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="172" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="166" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="102" Distance="0" StartX="169" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="102" Distance="0" StartX="175" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="178" StartY="12" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="177" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="180" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="183" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="186" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="189" StartY="103" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="186" StartY="151" Dir="3" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="196" StartY="33" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="193" StartY="33" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="202" StartY="93" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="205" StartY="93" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="198" StartY="130" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="202" StartY="150" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="232" StartY="46" Dir="3" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="232" StartY="40" Dir="3" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="232" StartY="37" Dir="3" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="227" StartY="61" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="229" StartY="93" Dir="1" /> <!-- -->
-			<Spawn Index="100" Distance="0" StartX="232" StartY="93" Dir="1" /> <!-- -->
-			
+		<Spot Type="0" Description="NPC">
 			<Spawn Index="249" Distance="1" StartX="109" StartY="235" Dir="1" /> <!-- Guard Melee -->
 			<Spawn Index="249" Distance="1" StartX="229" StartY="116" Dir="1" /> <!-- Guard Melee -->
 			<Spawn Index="249" Distance="1" StartX="9" StartY="85" Dir="1" /> <!-- Guard Melee -->
@@ -208,22 +149,71 @@
 	<Map Number="2" Name="Devias">
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="229" Distance="0" StartX="183" StartY="30" Dir="3" /> <!-- -->
-			<Spawn Index="233" Distance="0" StartX="209" StartY="30" Dir="1" /> <!-- -->
-			<Spawn Index="233" Distance="0" StartX="219" StartY="9" Dir="3" /> <!-- -->
+			<Spawn Index="233" Distance="0" StartX="209" StartY="30" Dir="1" /> <!-- Blood Castle -->
 			<Spawn Index="235" Distance="0" StartX="183" StartY="32" Dir="3" /> <!-- -->
-			<Spawn Index="240" Distance="0" StartX="218" StartY="63" Dir="2" /> <!-- -->
+			<Spawn Index="240" Distance="0" StartX="218" StartY="63" Dir="2" /> <!-- Warehouse -->
 			<Spawn Index="241" Distance="0" StartX="215" StartY="45" Dir="1" /> <!-- -->
-			<Spawn Index="247" Distance="20" StartX="224" StartY="79" Dir="5" /> <!-- -->
-			<Spawn Index="247" Distance="20" StartX="219" StartY="79" Dir="5" /> <!-- -->
-			<Spawn Index="247" Distance="20" StartX="169" StartY="45" Dir="7" /> <!-- -->
-			<Spawn Index="247" Distance="20" StartX="169" StartY="39" Dir="7" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="219" StartY="73" Dir="3" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="172" StartY="44" Dir="1" /> <!-- -->
-			<Spawn Index="522" Distance="0" StartX="229" StartY="221" Dir="1" /> <!-- -->
-			<Spawn Index="566" Distance="0" StartX="204" StartY="61" Dir="1" /> <!-- -->
-			<Spawn Index="584" Distance="0" StartX="240" StartY="53" Dir="7" /> <!-- -->
+			<Spawn Index="257" Distance="0" StartX="219" StartY="73" Dir="3" /> <!-- Helper -->
+			<Spawn Index="257" Distance="0" StartX="172" StartY="44" Dir="1" /> <!-- Helper -->
+			<Spawn Index="566" Distance="0" StartX="204" StartY="61" Dir="1" />
+			
+			<Spawn Index="247" Distance="1" StartX="221" StartY="80" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="5" StartX="214" StartY="245" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="5" StartX="214" StartY="245" Dir="7" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="164" StartY="42" Dir="7" /> <!-- Guard Ranged -->
+			
+			<Spawn Index="247" Distance="5" StartX="37" StartY="25" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="37" StartY="25" Dir="7" /> <!-- Guard Melee -->
+			
+			<Spawn Index="247" Distance="1" StartX="225" StartY="216" Dir="7" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="5" StartX="225" StartY="216" Dir="7" /> <!-- Guard Melee -->
+			
+			<Spawn Index="247" Distance="1" StartX="72" StartY="177" Dir="7" /> <!-- Guard Ranged -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="23" Distance="3" StartX="230" StartY="83" EndX="232" EndY="85" Dir="-1" Count="3" /> <!-- Hommerd -->
+			<Spawn Index="24" Distance="3" StartX="230" StartY="83" EndX="232" EndY="85" Dir="-1" Count="3" /> <!-- Worm -->
+			
+			<Spawn Index="23" Distance="3" StartX="158" StartY="31" EndX="160" EndY="33" Dir="-1" Count="3" /> <!-- Hommerd -->
+			<Spawn Index="24" Distance="3" StartX="158" StartY="31" EndX="160" EndY="33" Dir="-1" Count="3" /> <!-- Worm -->
+			
+			<Spawn Index="22" Distance="3" StartX="165" StartY="9" EndX="167" EndY="11" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="21" Distance="3" StartX="165" StartY="9" EndX="167" EndY="11" Dir="-1" Count="3" /> <!-- Assassin -->
+			
+			<Spawn Index="22" Distance="3" StartX="221" StartY="117" EndX="223" EndY="119" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="21" Distance="3" StartX="221" StartY="117" EndX="223" EndY="119" Dir="-1" Count="3" /> <!-- Assassin -->
+			
+			<Spawn Index="19" Distance="3" StartX="118" StartY="24" EndX="120" EndY="26" Dir="-1" Count="3" /> <!-- Yeti -->
+			<Spawn Index="20" Distance="3" StartX="118" StartY="24" EndX="120" EndY="26" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			
+			<Spawn Index="19" Distance="3" StartX="186" StartY="107" EndX="188" EndY="109" Dir="-1" Count="3" /> <!-- Yeti -->
+			<Spawn Index="20" Distance="3" StartX="186" StartY="107" EndX="188" EndY="109" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			
+			<Spawn Index="22" Distance="3" StartX="62" StartY="19" EndX="64" EndY="21" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="62" StartY="19" EndX="64" EndY="21" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			
+			<Spawn Index="22" Distance="3" StartX="221" StartY="193" EndX="223" EndY="195" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="221" StartY="193" EndX="223" EndY="195" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			
+			<Spawn Index="22" Distance="3" StartX="205" StartY="157" EndX="207" EndY="158" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="205" StartY="157" EndX="207" EndY="158" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			<Spawn Index="19" Distance="3" StartX="205" StartY="157" EndX="207" EndY="158" Dir="-1" Count="3" /> <!-- Yeti -->
+			
+			<Spawn Index="22" Distance="3" StartX="52" StartY="69" EndX="54" EndY="71" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="52" StartY="69" EndX="54" EndY="71" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			<Spawn Index="19" Distance="3" StartX="52" StartY="69" EndX="54" EndY="71" Dir="-1" Count="3" /> <!-- Yeti -->
+			
+			<Spawn Index="22" Distance="3" StartX="75" StartY="146" EndX="77" EndY="148" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="75" StartY="146" EndX="77" EndY="148" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			<Spawn Index="19" Distance="3" StartX="75" StartY="146" EndX="77" EndY="148" Dir="-1" Count="3" /> <!-- Yeti -->
+			<Spawn Index="25" Distance="3" StartX="75" StartY="146" EndX="77" EndY="148" Dir="-1" Count="1" /> <!-- Ice Queen -->
+			
+			<Spawn Index="22" Distance="3" StartX="100" StartY="178" EndX="103" EndY="180" Dir="-1" Count="3" /> <!-- Ice Monster -->
+			<Spawn Index="20" Distance="3" StartX="100" StartY="178" EndX="103" EndY="180" Dir="-1" Count="3" /> <!-- Elite Yeti -->
+			<Spawn Index="19" Distance="3" StartX="100" StartY="178" EndX="103" EndY="180" Dir="-1" Count="3" /> <!-- Yeti -->
+			<Spawn Index="25" Distance="3" StartX="100" StartY="178" EndX="103" EndY="180" Dir="-1" Count="1" /> <!-- Ice Queen -->
+			
+			<Spawn Index="455" Distance="1" StartX="53" StartY="84" EndX="53" EndY="84" Dir="-1" Count="1" /> <!-- Giant Mammoth -->
 		</Spot>
 	</Map>
 	

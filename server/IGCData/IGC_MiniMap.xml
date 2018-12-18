@@ -77,21 +77,32 @@
 		<Tag Id="7" MapNumber="1"	NPCIndex="0"	X="23"	Y="92"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 <!-- Devias -->
 		<Tag Id="0"	 MapNumber="2"	NPCIndex="233"	X="209"	Y="30"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
-		<Tag Id="1"	 MapNumber="2"	NPCIndex="235"	X="219"	Y="9"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
-		<Tag Id="2"	 MapNumber="2"	NPCIndex="244"	X="226"	Y="25"	 DisplayType="4"  SyncType="1"  Name="Caren the Barmaid" />
-		<Tag Id="3"	 MapNumber="2"	NPCIndex="245"	X="225"	Y="41"	 DisplayType="2"  SyncType="1"  Name="Wizard Izabel" />
-		<Tag Id="4"	 MapNumber="2"	NPCIndex="246"	X="186"	Y="47"	 DisplayType="3"  SyncType="1"  Name="Weapons Merchant Zienna" />
-		<Tag Id="5"	 MapNumber="2"	NPCIndex="241"	X="215"	Y="45"	 DisplayType="2"  SyncType="1"  Name="Royal Guard Captain Lorence" />
-		<Tag Id="6"	 MapNumber="2"	NPCIndex="240"	X="218"	Y="63"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
-		<Tag Id="7"	 MapNumber="2"	NPCIndex="257"	X="219"	Y="73"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="8"	 MapNumber="2"	NPCIndex="257"	X="172"	Y="44"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="9"	 MapNumber="2"	NPCIndex="522"	X="229"	Y="221"	 DisplayType="2"  SyncType="1"  Name="Jerint the Assistant" />
-		<Tag Id="10" MapNumber="2"	NPCIndex="379"	X="32"	Y="31"	 DisplayType="4"  SyncType="1"  Name="Natasha Firecracker Merchant" />
-		<Tag Id="11" MapNumber="2"	NPCIndex="566"	X="204"	Y="61"	 DisplayType="2"  SyncType="1"  Name="Mercenary Guild Manager" />
-		<Tag Id="12" MapNumber="2"	NPCIndex="584"	X="240"	Y="53"	 DisplayType="2"  SyncType="1"  Name="Sir Lesnar" />
-		<Tag Id="13" MapNumber="2"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
-		<Tag Id="14" MapNumber="2"	NPCIndex="229"	X="183"	Y="30"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
-		<Tag Id="15" MapNumber="2"	NPCIndex="235"	X="183"	Y="32"	 DisplayType="2"  SyncType="1"  Name="Sebina the Priest" />
+		<Tag Id="1"	 MapNumber="2"	NPCIndex="244"	X="226"	Y="25"	 DisplayType="4"  SyncType="1"  Name="Caren the Barmaid" />
+		<Tag Id="2"	 MapNumber="2"	NPCIndex="245"	X="225"	Y="41"	 DisplayType="2"  SyncType="1"  Name="Wizard Izabel" />
+		<Tag Id="3"	 MapNumber="2"	NPCIndex="246"	X="186"	Y="47"	 DisplayType="3"  SyncType="1"  Name="Weapons Merchant Zienna" />
+		<Tag Id="4"	 MapNumber="2"	NPCIndex="241"	X="215"	Y="45"	 DisplayType="2"  SyncType="1"  Name="Royal Guard Captain Lorence" />
+		<Tag Id="5"	 MapNumber="2"	NPCIndex="240"	X="218"	Y="63"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
+		<Tag Id="6"	 MapNumber="2"	NPCIndex="257"	X="219"	Y="73"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
+		<Tag Id="7"	 MapNumber="2"	NPCIndex="257"	X="172"	Y="44"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
+		<Tag Id="8" MapNumber="2"	NPCIndex="379"	X="32"	Y="31"	 DisplayType="4"  SyncType="1"  Name="Natasha Firecracker Merchant" />
+		<Tag Id="9" MapNumber="2"	NPCIndex="566"	X="204"	Y="61"	 DisplayType="2"  SyncType="1"  Name="Mercenary Guild Manager" />
+		<Tag Id="10" MapNumber="2"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
+		<Tag Id="11" MapNumber="2"	NPCIndex="229"	X="183"	Y="30"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		<Tag Id="12" MapNumber="2"	NPCIndex="235"	X="183"	Y="32"	 DisplayType="2"  SyncType="1"  Name="Sebina the Priest" />
+		
+		<Tag Id="13" MapNumber="2"	NPCIndex="0"	X="231"	Y="84"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="14" MapNumber="2"	NPCIndex="0"	X="159"	Y="32"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="15" MapNumber="2"	NPCIndex="0"	X="166"	Y="10"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="16" MapNumber="2"	NPCIndex="0"	X="119"	Y="25"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="17" MapNumber="2"	NPCIndex="0"	X="63"	Y="20"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="18" MapNumber="2"	NPCIndex="0"	X="53"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="19" MapNumber="2"	NPCIndex="0"	X="222"	Y="118"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="20" MapNumber="2"	NPCIndex="0"	X="187"	Y="108"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="21" MapNumber="2"	NPCIndex="0"	X="206"	Y="158"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="22" MapNumber="2"	NPCIndex="0"	X="222"	Y="194"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		
+		<Tag Id="23" MapNumber="2"	NPCIndex="0"	X="76"	Y="147"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="24" MapNumber="2"	NPCIndex="0"	X="101"	Y="179"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 <!-- Noria -->
 		<Tag Id="0"	 MapNumber="3"	NPCIndex="242"	X="173"	Y="125"	 DisplayType="4"  SyncType="1"  Name="Elf Lala" />
 		<Tag Id="1"	 MapNumber="3"	NPCIndex="243"	X="195"	Y="124"	 DisplayType="3"  SyncType="1"  Name="Eo the Craftsman" />
