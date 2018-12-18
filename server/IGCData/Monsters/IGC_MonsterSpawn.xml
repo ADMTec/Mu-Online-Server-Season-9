@@ -393,8 +393,21 @@
 			<Spawn Index="103" Distance="0" StartX="226" StartY="233" Dir="1" /> <!-- -->
 			<Spawn Index="103" Distance="0" StartX="227" StartY="233" Dir="1" /> <!-- -->
 			<Spawn Index="103" Distance="0" StartX="228" StartY="233" Dir="1" /> <!-- -->
+			
+			<Spawn Index="249" Distance="1" StartX="207" StartY="79" Dir="-1" /> <!-- Guard Melee -->
 		</Spot>
-		
+		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="36" Distance="3" StartX="194" StartY="95" EndX="196" EndY="97" Dir="-1" Count="3" /> <!-- Shadow -->
+			<Spawn Index="36" Distance="3" StartX="194" StartY="95" EndX="196" EndY="97" Dir="-1" Count="3" /> <!-- Shadow -->
+			
+			<Spawn Index="36" Distance="3" StartX="194" StartY="113" EndX="196" EndY="115" Dir="-1" Count="3" /> <!-- Shadow -->
+			<Spawn Index="39" Distance="3" StartX="194" StartY="113" EndX="196" EndY="115" Dir="-1" Count="3" /> <!-- Poison Shadow -->
+			
+			<Spawn Index="36" Distance="3" StartX="194" StartY="130" EndX="196" EndY="132" Dir="-1" Count="3" /> <!-- Shadow -->
+			<Spawn Index="39" Distance="3" StartX="194" StartY="130" EndX="196" EndY="132" Dir="-1" Count="3" /> <!-- Poison Shadow -->
+			
+			<Spawn Index="115" Distance="3" StartX="218" StartY="107" EndX="220" EndY="109" Dir="-1" Count="5" /> <!-- Dark Skull Soldier 4 -->
+		</Spot>
 	</Map>
 
 	<Map Number="6" Name="Arena">
