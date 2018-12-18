@@ -395,6 +395,13 @@
 			<Spawn Index="103" Distance="0" StartX="228" StartY="233" Dir="1" /> <!-- -->
 			
 			<Spawn Index="249" Distance="1" StartX="207" StartY="79" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="205" StartY="236" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="237" StartY="223" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="89" StartY="171" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="90" StartY="91" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="236" StartY="239" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="129" StartY="51" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="47" StartY="53" Dir="-1" /> <!-- Guard Melee -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
 			<Spawn Index="36" Distance="3" StartX="194" StartY="95" EndX="196" EndY="97" Dir="-1" Count="3" /> <!-- Shadow -->
