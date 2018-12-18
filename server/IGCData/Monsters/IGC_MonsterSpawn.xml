@@ -406,8 +406,52 @@
 	<Map Number="7" Name="Atlans (1 ~ 3)">
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="249" Distance="1" StartX="24" StartY="17" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="228" StartY="53" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="67" StartY="163" Dir="-1" /> <!-- Guard Ranged -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="45" Distance="3" StartX="61" StartY="11" EndX="63" EndY="13" Dir="-1" Count="3" /> <!-- Bahamut -->
+			<Spawn Index="45" Distance="3" StartX="61" StartY="11" EndX="63" EndY="13" Dir="-1" Count="3" /> <!-- Bahamut -->
+		
+			<Spawn Index="45" Distance="3" StartX="42" StartY="36" EndX="44" EndY="38" Dir="-1" Count="3" /> <!-- Bahamut -->
+			<Spawn Index="46" Distance="3" StartX="42" StartY="36" EndX="44" EndY="38" Dir="-1" Count="3" /> <!-- Vepar -->
+			
+			<Spawn Index="45" Distance="3" StartX="75" StartY="44" EndX="77" EndY="46" Dir="-1" Count="3" /> <!-- Bahamut -->
+			<Spawn Index="47" Distance="3" StartX="75" StartY="44" EndX="77" EndY="46" Dir="-1" Count="3" /> <!-- Valkyrie -->
+			
+			<Spawn Index="46" Distance="3" StartX="34" StartY="67" EndX="36" EndY="69" Dir="-1" Count="3" /> <!-- Vepar -->
+			<Spawn Index="47" Distance="3" StartX="34" StartY="67" EndX="36" EndY="69" Dir="-1" Count="3" /> <!-- Valkyrie -->
+			
+			<Spawn Index="45" Distance="3" StartX="25" StartY="113" EndX="27" EndY="115" Dir="-1" Count="3" /> <!-- Bahamut -->
+			<Spawn Index="46" Distance="3" StartX="25" StartY="113" EndX="27" EndY="115" Dir="-1" Count="3" /> <!-- Vepar -->
+			<Spawn Index="47" Distance="3" StartX="25" StartY="113" EndX="27" EndY="115" Dir="-1" Count="3" /> <!-- Valkyrie -->
+			
+			<Spawn Index="47" Distance="3" StartX="238" StartY="14" EndX="240" EndY="16" Dir="-1" Count="3" /> <!-- Valkyrie -->
+			<Spawn Index="51" Distance="3" StartX="238" StartY="14" EndX="249" EndY="16" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			
+			<Spawn Index="51" Distance="3" StartX="231" StartY="71" EndX="233" EndY="73" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			<Spawn Index="52" Distance="3" StartX="231" StartY="71" EndX="233" EndY="73" Dir="-1" Count="3" /> <!-- Silver Valkyrie -->
+			
+			<Spawn Index="51" Distance="3" StartX="194" StartY="49" EndX="196" EndY="51" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			<Spawn Index="48" Distance="3" StartX="194" StartY="49" EndX="196" EndY="51" Dir="-1" Count="3" /> <!-- Lizard King -->
+			
+			<Spawn Index="48" Distance="3" StartX="224" StartY="131" EndX="226" EndY="133" Dir="-1" Count="3" /> <!-- Lizard King -->
+			<Spawn Index="52" Distance="3" StartX="224" StartY="131" EndX="226" EndY="133" Dir="-1" Count="3" /> <!-- Silver Valkyrie -->
+			<Spawn Index="51" Distance="3" StartX="224" StartY="131" EndX="226" EndY="133" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			<Spawn Index="49" Distance="3" StartX="224" StartY="131" EndX="226" EndY="133" Dir="-1" Count="1" /> <!-- Hydra -->
+			
+			<Spawn Index="48" Distance="3" StartX="30" StartY="164" EndX="32" EndY="166" Dir="-1" Count="3" /> <!-- Lizard King -->
+			<Spawn Index="52" Distance="3" StartX="30" StartY="164" EndX="32" EndY="166" Dir="-1" Count="3" /> <!-- Silver Valkyrie -->
+			<Spawn Index="51" Distance="3" StartX="30" StartY="164" EndX="32" EndY="166" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			
+			<Spawn Index="48" Distance="3" StartX="79" StartY="139" EndX="81" EndY="141" Dir="-1" Count="3" /> <!-- Lizard King -->
+			<Spawn Index="52" Distance="3" StartX="79" StartY="139" EndX="81" EndY="141" Dir="-1" Count="3" /> <!-- Silver Valkyrie -->
+			<Spawn Index="51" Distance="3" StartX="79" StartY="139" EndX="81" EndY="141" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			
+			<Spawn Index="48" Distance="3" StartX="28" StartY="227" EndX="30" EndY="229" Dir="-1" Count="3" /> <!-- Lizard King -->
+			<Spawn Index="52" Distance="3" StartX="28" StartY="227" EndX="30" EndY="229" Dir="-1" Count="3" /> <!-- Silver Valkyrie -->
+			<Spawn Index="51" Distance="3" StartX="28" StartY="227" EndX="30" EndY="229" Dir="-1" Count="3" /> <!-- Great Bahamut -->
+			<Spawn Index="49" Distance="3" StartX="28" StartY="227" EndX="30" EndY="229" Dir="-1" Count="1" /> <!-- Hydra -->
 		</Spot>
 	</Map>
 
