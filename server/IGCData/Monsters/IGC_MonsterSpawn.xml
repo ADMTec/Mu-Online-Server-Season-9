@@ -178,6 +178,30 @@
 			<Spawn Index="100" Distance="0" StartX="227" StartY="61" Dir="1" /> <!-- -->
 			<Spawn Index="100" Distance="0" StartX="229" StartY="93" Dir="1" /> <!-- -->
 			<Spawn Index="100" Distance="0" StartX="232" StartY="93" Dir="1" /> <!-- -->
+			
+			<Spawn Index="249" Distance="1" StartX="109" StartY="235" Dir="1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="229" StartY="116" Dir="1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="9" StartY="85" Dir="1" /> <!-- Guard Melee -->
+		</Spot>
+		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="11" Distance="3" StartX="212" StartY="114" EndX="214" EndY="116" Dir="-1" Count="3" /> <!-- Ghost -->
+			<Spawn Index="12" Distance="3" StartX="212" StartY="114" EndX="214" EndY="116" Dir="-1" Count="3" /> <!-- Larva -->
+			
+			<Spawn Index="13" Distance="3" StartX="198" StartY="118" EndX="200" EndY="120" Dir="-1" Count="3" /> <!-- Hell Spider -->
+			<Spawn Index="8" Distance="3" StartX="198" StartY="118" EndX="200" EndY="120" Dir="-1" Count="3" /> <!-- Poison Bull Fighter -->
+			
+			<Spawn Index="13" Distance="3" StartX="177" StartY="120" EndX="179" EndY="122" Dir="-1" Count="3" /> <!-- Hell Spider -->
+			<Spawn Index="11" Distance="3" StartX="177" StartY="120" EndX="179" EndY="122" Dir="-1" Count="3" /> <!-- Ghost -->
+			
+			<Spawn Index="10" Distance="3" StartX="9" StartY="117" EndX="11" EndY="119" Dir="-1" Count="3" /> <!-- Dark Knight -->
+			<Spawn Index="17" Distance="3" StartX="9" StartY="117" EndX="11" EndY="119" Dir="-1" Count="3" /> <!-- Cyclops -->
+			
+			<Spawn Index="10" Distance="3" StartX="8" StartY="58" EndX="10" EndY="60" Dir="-1" Count="3" /> <!-- Dark Knight -->
+			<Spawn Index="9" Distance="3" StartX="8" StartY="58" EndX="10" EndY="60" Dir="-1" Count="3" /> <!-- Thunder Lich -->
+			
+			<Spawn Index="10" Distance="3" StartX="22" StartY="91" EndX="24" EndY="93" Dir="-1" Count="3" /> <!-- Dark Knight -->
+			<Spawn Index="9" Distance="3" StartX="22" StartY="91" EndX="24" EndY="93" Dir="-1" Count="3" /> <!-- Thunder Lich -->
+			<Spawn Index="17" Distance="3" StartX="22" StartY="91" EndX="24" EndY="93" Dir="-1" Count="3" /> <!-- Thunder Lich -->
 		</Spot>
 	</Map>
 	
