@@ -115,54 +115,54 @@
 	<BattleZoneSettings>
 		<MapList>
 			<Map Number="6" Enable="1" FamilyAccessType="0"> <!-- Arena -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="2" Enable="1" FamilyAccessType="0"> <!-- Devias -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="8" Enable="1" FamilyAccessType="0"> <!-- Tarkan -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="37" Enable="1" FamilyAccessType="0"> <!-- Kanturu -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="38" Enable="1" FamilyAccessType="0"> <!-- Kanturu Relics-->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			
 			<Map Number="91" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="92" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="100" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="101" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="95" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="96" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			
 			<Map Number="63" Enable="1" FamilyAccessType="0"> <!-- Vulcanus -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="100" MLItemDropBonus="100" ExcItemDropBonus="100" MLExcItemDropBonus="100" />
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="50" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 		</MapList>
 

@@ -183,6 +183,11 @@
 		<Tag Id="10" MapNumber="7" NPCIndex="1"  X="31"  Y="165"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		<Tag Id="11" MapNumber="7" NPCIndex="1"  X="80"  Y="140"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		<Tag Id="12" MapNumber="7" NPCIndex="1"  X="29"  Y="228"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+<!-- Tarkan -->
+		<Tag Id="0" MapNumber="8" NPCIndex="1"  X="146"  Y="39"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="1" MapNumber="8" NPCIndex="1"  X="96"  Y="39"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="2" MapNumber="8" NPCIndex="1"  X="135"  Y="73"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="3" MapNumber="8" NPCIndex="1"  X="79"  Y="86"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 <!-- Lost Tower -->
 		<Tag Id="0" MapNumber="4" NPCIndex="1"  X="195"  Y="95"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="1" MapNumber="4" NPCIndex="1"  X="195"  Y="114"  DisplayType="1"  SyncType="1"  Name="Spot" />

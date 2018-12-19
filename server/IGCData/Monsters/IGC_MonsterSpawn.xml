@@ -532,7 +532,28 @@
 	</Map>
 
 	<Map Number="8" Name="Tarkan (1 ~ 2)">
-		<Spot Type="2" Description="Single Point Monster">
+		<Spot Type="0" Description="NPC">
+			<Spawn Index="249" Distance="1" StartX="191" StartY="69" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="194" StartY="72" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="193" StartY="70" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="161" StartY="58" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="247" Distance="1" StartX="205" StartY="92" Dir="-1" /> <!-- Guard Ranged -->
+		</Spot>
+		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="58" Distance="3" StartX="191" StartY="73" EndX="191" EndY="73" Dir="-1" Count="1" /> <!-- Decorative Tantalos -->
+			
+			<Spawn Index="62" Distance="3" StartX="145" StartY="38" EndX="146" EndY="40" Dir="-1" Count="3" /> <!-- Mutant -->
+			<Spawn Index="60" Distance="3" StartX="145" StartY="38" EndX="146" EndY="40" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			
+			<Spawn Index="57" Distance="3" StartX="95" StartY="38" EndX="97" EndY="40" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			<Spawn Index="60" Distance="3" StartX="95" StartY="38" EndX="97" EndY="40" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			
+			<Spawn Index="62" Distance="3" StartX="134" StartY="72" EndX="136" EndY="74" Dir="-1" Count="3" /> <!-- Mutant -->
+			<Spawn Index="57" Distance="3" StartX="134" StartY="72" EndX="136" EndY="74" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			
+			<Spawn Index="62" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Mutant -->
+			<Spawn Index="60" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			<Spawn Index="57" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Iron Wheel -->
 		</Spot>
 	</Map>
 
@@ -540,7 +561,7 @@
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="77" Distance="30" StartX="34" StartY="238" Dir="1" /> <!-- -->
 		</Spot>
-		<Spot Type="2" Description="Single Point Monster">
+		<Spot Type="1" Description="Multi~Spawn">
 		</Spot>
 	</Map>
 
@@ -2145,7 +2166,7 @@
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="452" Distance="0" StartX="46" StartY="243" Dir="1" /> <!-- -->
 			<Spawn Index="453" Distance="0" StartX="50" StartY="243" Dir="1" /> <!-- -->
-			<Spawn Index="256" Distance="0" StartX="52" StartY="229" Dir="1" /> <!-- Lahap -->
+			<Spawn Index="256" Distance="0" StartX="53" StartY="228" Dir="1" /> <!-- Lahap -->
 			<Spawn Index="257" Distance="0" StartX="43" StartY="191" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="73" StartY="220" Dir="1" /> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="50" StartY="229" Dir="1" /> <!-- -->
