@@ -104,7 +104,7 @@
 		<Tag Id="23" MapNumber="2"	NPCIndex="0"	X="76"	Y="147"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		<Tag Id="24" MapNumber="2"	NPCIndex="0"	X="101"	Y="179"	 DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		
-		<Tag Id="25" MapNumber="2"	NPCIndex="0"	X="15"	Y="20"	 DisplayType="1"  SyncType="1"  Name="Danger!" />
+		<Tag Id="25" MapNumber="2"	NPCIndex="0"	X="15"	Y="11"	 DisplayType="1"  SyncType="1"  Name="Danger!" />
 		<Tag Id="26" MapNumber="2"	NPCIndex="0"	X="239"	Y="235"	 DisplayType="1"  SyncType="1"  Name="Danger!" />
 <!-- Noria -->
 		<Tag Id="0"	 MapNumber="3"	NPCIndex="242"	X="173"	Y="125"	 DisplayType="4"  SyncType="1"  Name="Elf Lala" />
@@ -204,6 +204,11 @@
 		
 		<Tag Id="12" MapNumber="4" NPCIndex="1"  X="54"  Y="26"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="13" MapNumber="4" NPCIndex="1"  X="31"  Y="33"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		
+		<Tag Id="14" MapNumber="4" NPCIndex="1"  X="53"  Y="92"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="15" MapNumber="4" NPCIndex="1"  X="24"  Y="103"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="16" MapNumber="4" NPCIndex="1"  X="31"  Y="125"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="17" MapNumber="4" NPCIndex="1"  X="31"  Y="212"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 <!--  Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />

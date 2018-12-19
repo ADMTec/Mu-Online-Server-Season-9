@@ -87,6 +87,7 @@
 			<Spawn Index="247" Distance="1" StartX="157" StartY="129" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="249" Distance="1" StartX="134" StartY="156" Dir="-1" /> <!-- Guard Melee -->
 			<Spawn Index="249" Distance="1" StartX="134" StartY="98" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="141" StartY="143" Dir="-1" /> <!-- Guard Melee -->
 			
 			<Spawn Index="233" Distance="0" StartX="130" StartY="127" Dir="3" /> <!-- Blood Castle Angel -->
 			
@@ -115,6 +116,10 @@
 			
 			<Spawn Index="1" Distance="3" StartX="85" StartY="118" EndX="87" EndY="120" Dir="-1" Count="3" /> <!-- Hound -->
 			<Spawn Index="4" Distance="3" StartX="85" StartY="118" EndX="87" EndY="120" Dir="-1" Count="3" /> <!-- Elite Bull Fighter -->
+			
+			<Spawn Index="51" Distance="1" StartX="165" StartY="122" EndX="165" EndY="122" Dir="-1" Count="1" /> <!-- Decorative Bahamut -->
+			<Spawn Index="51" Distance="1" StartX="127" StartY="97" EndX="127" EndY="97" Dir="-1" Count="1" /> <!-- Decorative Bahamut -->
+			<Spawn Index="572" Distance="1" StartX="139" StartY="142" EndX="139" EndY="142" Dir="1" Count="1" /> <!-- Decorative Gollock -->
 		</Spot>
 	</Map>
 	
@@ -214,8 +219,11 @@
 			<Spawn Index="25" Distance="3" StartX="100" StartY="178" EndX="103" EndY="180" Dir="-1" Count="1" /> <!-- Ice Queen -->
 			
 			<Spawn Index="455" Distance="1" StartX="53" StartY="84" EndX="53" EndY="84" Dir="-1" Count="1" /> <!-- Giant Mammoth -->
-			<Spawn Index="455" Distance="1" StartX="238" StartY="234" EndX="240" EndY="236" Dir="-1" Count="5" /> <!-- Giant Mammoth -->
+			<Spawn Index="455" Distance="1" StartX="238" StartY="234" EndX="240" EndY="236" Dir="-1" Count="3" /> <!-- Giant Mammoth -->
 			<Spawn Index="111" Distance="1" StartX="14" StartY="9" EndX="16" EndY="11" Dir="-1" Count="5" /> <!-- Red Skeleton Knight 3 -->
+			
+			<Spawn Index="455" Distance="0" StartX="212" StartY="63" EndX="212" EndY="63" Dir="-1" Count="1" /> <!-- Decorative Mammoth -->
+			<Spawn Index="455" Distance="0" StartX="193" StartY="26" EndX="193" EndY="26" Dir="-1" Count="1" /> <!-- Decorative Mammoth -->
 		</Spot>
 	</Map>
 	
@@ -240,6 +248,11 @@
 		
 			<Spawn Index="29" Distance="3" StartX="214" StartY="133" EndX="216" EndY="135" Dir="-1" Count="3" /> <!-- Hunter -->
 			<Spawn Index="30" Distance="3" StartX="214" StartY="133" EndX="216" EndY="135" Dir="-1" Count="3" /> <!-- Forest Monster -->
+			
+			<Spawn Index="305" Distance="0" StartX="168" StartY="99" EndX="168" EndY="99" Dir="1" Count="1" /> <!-- Decorative Golem -->
+			<Spawn Index="26" Distance="0" StartX="168" StartY="101" EndX="168" EndY="101" Dir="1" Count="1" /> <!-- Decorative Goblin -->
+			<Spawn Index="26" Distance="0" StartX="170" StartY="100" EndX="170" EndY="100" Dir="1" Count="1" /> <!-- Decorative Goblin -->
+			<Spawn Index="26" Distance="0" StartX="169" StartY="97" EndX="169" EndY="97" Dir="1" Count="1" /> <!-- Decorative Goblin -->
 		</Spot>
 	</Map>
 	
@@ -402,6 +415,7 @@
 			<Spawn Index="247" Distance="1" StartX="236" StartY="239" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="247" Distance="1" StartX="129" StartY="51" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="249" Distance="1" StartX="47" StartY="53" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="247" Distance="1" StartX="24" StartY="84" Dir="-1" /> <!-- Guard Ranged -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
 			<Spawn Index="36" Distance="3" StartX="194" StartY="95" EndX="196" EndY="97" Dir="-1" Count="3" /> <!-- Shadow -->
@@ -445,6 +459,17 @@
 			<Spawn Index="35" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Death Gorgon -->
 			<Spawn Index="37" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Devil -->
 			<Spawn Index="41" Distance="3" StartX="30" StartY="32" EndX="32" EndY="34" Dir="-1" Count="3" /> <!-- Death Cow -->
+			
+			<Spawn Index="35" Distance="3" StartX="52" StartY="91" EndX="54" EndY="93" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="37" Distance="3" StartX="52" StartY="91" EndX="54" EndY="93" Dir="-1" Count="3" /> <!-- Devil -->
+			
+			<Spawn Index="41" Distance="3" StartX="30" StartY="124" EndX="32" EndY="126" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="35" Distance="3" StartX="30" StartY="124" EndX="32" EndY="126" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			
+			<Spawn Index="41" Distance="3" StartX="30" StartY="211" EndX="32" EndY="213" Dir="-1" Count="3" /> <!-- Death Cow -->
+			<Spawn Index="35" Distance="3" StartX="30" StartY="211" EndX="32" EndY="213" Dir="-1" Count="3" /> <!-- Death Gorgon -->
+			<Spawn Index="37" Distance="3" StartX="30" StartY="211" EndX="32" EndY="213" Dir="-1" Count="3" /> <!-- Devil -->
+			<Spawn Index="38" Distance="3" StartX="30" StartY="211" EndX="32" EndY="213" Dir="-1" Count="1" /> <!-- Balrog -->
 		</Spot>
 	</Map>
 
