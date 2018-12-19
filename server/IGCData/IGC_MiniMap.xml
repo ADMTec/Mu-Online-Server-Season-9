@@ -134,12 +134,11 @@
 <!-- Barracks of Balgass -->
 		<Tag Id="0"	 MapNumber="41"	NPCIndex="408"	X="119"	Y="168"	 DisplayType="2"  SyncType="1"  Name="Gatekeeper" />
 <!-- Elbeland -->
-		<Tag Id="0"	 MapNumber="51"	NPCIndex="256"	X="37"	Y="241"	 DisplayType="2"  SyncType="1"  Name="Lahap" />
+		<Tag Id="0"	 MapNumber="51"	NPCIndex="256"	X="53"	Y="228"	 DisplayType="2"  SyncType="1"  Name="Lahap" />
 		<Tag Id="1"	 MapNumber="51"	NPCIndex="415"	X="44"	Y="229"	 DisplayType="4"  SyncType="1"  Name="Potion Merchant Silvia" />
 		<Tag Id="2"	 MapNumber="51"	NPCIndex="416"	X="29"	Y="236"	 DisplayType="3"  SyncType="1"  Name="Weapons Merchant Rhea" />
 		<Tag Id="3"	 MapNumber="51"	NPCIndex="417"	X="36"	Y="219"	 DisplayType="4"  SyncType="1"  Name="Magic Store Marce" />
 		<Tag Id="4"	 MapNumber="51"	NPCIndex="257"	X="43"	Y="191"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
-		<Tag Id="5"	 MapNumber="51"	NPCIndex="257"	X="57"	Y="232"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="6"	 MapNumber="51"	NPCIndex="257"	X="73"	Y="220"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="7"	 MapNumber="51"	NPCIndex="240"	X="50"	Y="229"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
 		<Tag Id="8"	 MapNumber="51"	NPCIndex="385"	X="55"	Y="243"	 DisplayType="2"  SyncType="1"  Name="Mirage" />

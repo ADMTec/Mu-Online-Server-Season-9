@@ -2145,9 +2145,8 @@
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="452" Distance="0" StartX="46" StartY="243" Dir="1" /> <!-- -->
 			<Spawn Index="453" Distance="0" StartX="50" StartY="243" Dir="1" /> <!-- -->
-			<Spawn Index="256" Distance="0" StartX="37" StartY="241" Dir="1" /> <!-- -->
+			<Spawn Index="256" Distance="0" StartX="52" StartY="229" Dir="1" /> <!-- Lahap -->
 			<Spawn Index="257" Distance="0" StartX="43" StartY="191" Dir="3" /> <!-- -->
-			<Spawn Index="257" Distance="0" StartX="57" StartY="232" Dir="3" /> <!-- -->
 			<Spawn Index="257" Distance="0" StartX="73" StartY="220" Dir="1" /> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="50" StartY="229" Dir="1" /> <!-- -->
 			<Spawn Index="540" Distance="0" StartX="49" StartY="216" Dir="2" /> <!-- -->
