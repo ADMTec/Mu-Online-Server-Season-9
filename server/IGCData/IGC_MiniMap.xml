@@ -225,6 +225,15 @@
 		<Tag Id="15" MapNumber="4" NPCIndex="1"  X="24"  Y="103"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="16" MapNumber="4" NPCIndex="1"  X="31"  Y="125"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="17" MapNumber="4" NPCIndex="1"  X="31"  Y="212"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+<!-- Icarus -->
+		<Tag Id="0" MapNumber="10" NPCIndex="1"  X="25"  Y="34"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="1" MapNumber="10" NPCIndex="1"  X="58"  Y="34"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="2" MapNumber="10" NPCIndex="1"  X="92"  Y="57"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="3" MapNumber="10" NPCIndex="1"  X="74"  Y="80"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="4" MapNumber="10" NPCIndex="1"  X="30"  Y="73"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="5" MapNumber="10" NPCIndex="1"  X="39"  Y="118"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="6" MapNumber="10" NPCIndex="1"  X="48"  Y="158"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="7" MapNumber="10" NPCIndex="1"  X="39"  Y="228"  DisplayType="1"  SyncType="1"  Name="Phoenix of Darkness" />
 <!--  Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />

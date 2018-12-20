@@ -592,9 +592,31 @@
 
 	<Map Number="10" Name="Icarus">
 		<Spot Type="0" Description="NPC">
-			<Spawn Index="77" Distance="30" StartX="34" StartY="238" Dir="1" /> <!-- -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
+			<Spawn Index="69" Distance="3" StartX="24" StartY="33" EndX="26" EndY="35" Dir="-1" Count="3" /> <!-- Alquamos -->
+			<Spawn Index="71" Distance="3" StartX="24" StartY="33" EndX="26" EndY="35" Dir="-1" Count="3" /> <!-- Mega Crust -->
+			
+			<Spawn Index="69" Distance="3" StartX="57" StartY="33" EndX="59" EndY="35" Dir="-1" Count="3" /> <!-- Alquamos -->
+			<Spawn Index="70" Distance="3" StartX="57" StartY="33" EndX="59" EndY="35" Dir="-1" Count="3" /> <!-- Queen Rainier -->
+			
+			<Spawn Index="70" Distance="3" StartX="91" StartY="56" EndX="93" EndY="58" Dir="-1" Count="3" /> <!-- Queen Rainier -->
+			<Spawn Index="71" Distance="3" StartX="91" StartY="56" EndX="93" EndY="58" Dir="-1" Count="3" /> <!-- Mega Crust -->
+			
+			<Spawn Index="72" Distance="3" StartX="73" StartY="79" EndX="75" EndY="81" Dir="-1" Count="3" /> <!-- Phantom Knight -->
+			<Spawn Index="73" Distance="3" StartX="73" StartY="79" EndX="75" EndY="81" Dir="-1" Count="3" /> <!-- Drakan -->
+			
+			<Spawn Index="72" Distance="3" StartX="29" StartY="72" EndX="31" EndY="74" Dir="-1" Count="3" /> <!-- Phantom Knight -->
+			<Spawn Index="74" Distance="3" StartX="29" StartY="72" EndX="31" EndY="74" Dir="-1" Count="3" /> <!-- Alpha Crust -->
+			
+			<Spawn Index="75" Distance="3" StartX="38" StartY="117" EndX="40" EndY="119" Dir="-1" Count="3" /> <!-- Great Drakan -->
+			<Spawn Index="74" Distance="3" StartX="38" StartY="117" EndX="40" EndY="119" Dir="-1" Count="3" /> <!-- Alpha Crust -->
+			
+			<Spawn Index="72" Distance="3" StartX="47" StartY="157" EndX="49" EndY="159" Dir="-1" Count="3" /> <!-- Phantom Knight -->
+			<Spawn Index="75" Distance="3" StartX="47" StartY="157" EndX="49" EndY="159" Dir="-1" Count="3" /> <!-- Great Drakan -->
+			<Spawn Index="74" Distance="3" StartX="47" StartY="157" EndX="49" EndY="159" Dir="-1" Count="3" /> <!-- Alpha Crust -->
+			
+			<Spawn Index="77" Distance="3" StartX="38" StartY="227" EndX="40" EndY="229" Dir="-1" Count="3" /> <!-- Phoenix of Darkness -->
 		</Spot>
 	</Map>
 
@@ -2175,9 +2197,7 @@
 			<Spawn Index="411" Distance="30" StartX="132" StartY="156" Dir="-1" /> <!-- -->
 			<Spawn Index="411" Distance="30" StartX="132" StartY="136" Dir="-1" /> <!-- -->
 			<Spawn Index="411" Distance="30" StartX="116" StartY="103" Dir="-1" /> <!-- -->
-			<!-- <Spawn Index="411" Distance="30" StartX="117" StartY="98" Dir="-1" /> --> <!-- -->
 			<Spawn Index="411" Distance="30" StartX="129" StartY="146" Dir="-1" /> <!-- -->
-			<!-- <Spawn Index="411" Distance="30" StartX="113" StartY="109" Dir="-1" /> --> <!-- -->
 		</Spot>
 	</Map>
 
