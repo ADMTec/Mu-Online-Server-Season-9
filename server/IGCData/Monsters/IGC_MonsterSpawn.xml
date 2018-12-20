@@ -538,6 +538,7 @@
 			<Spawn Index="247" Distance="1" StartX="193" StartY="70" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="247" Distance="1" StartX="161" StartY="58" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="247" Distance="1" StartX="205" StartY="92" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="96" StartY="149" Dir="-1" /> <!-- Guard Melee -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
 			<Spawn Index="58" Distance="3" StartX="191" StartY="73" EndX="191" EndY="73" Dir="-1" Count="1" /> <!-- Decorative Tantalos -->
@@ -554,6 +555,38 @@
 			<Spawn Index="62" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Mutant -->
 			<Spawn Index="60" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Bloody wolf -->
 			<Spawn Index="57" Distance="3" StartX="78" StartY="85" EndX="80" EndY="87" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			
+			<Spawn Index="62" Distance="3" StartX="191" StartY="112" EndX="193" EndY="114" Dir="-1" Count="3" /> <!-- Mutant -->
+			<Spawn Index="60" Distance="3" StartX="191" StartY="112" EndX="193" EndY="114" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			
+			<Spawn Index="57" Distance="3" StartX="156" StartY="108" EndX="158" EndY="110" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			<Spawn Index="60" Distance="3" StartX="156" StartY="108" EndX="158" EndY="110" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			
+			<Spawn Index="62" Distance="3" StartX="155" StartY="150" EndX="157" EndY="152" Dir="-1" Count="3" /> <!-- Mutant -->
+			<Spawn Index="60" Distance="3" StartX="155" StartY="150" EndX="157" EndY="152" Dir="-1" Count="3" /> <!-- Bloody wolf -->
+			<Spawn Index="57" Distance="3" StartX="155" StartY="150" EndX="157" EndY="152" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			
+			<Spawn Index="58" Distance="3" StartX="63" StartY="124" EndX="65" EndY="126" Dir="-1" Count="3" /> <!-- Tantalos -->
+			<Spawn Index="57" Distance="3" StartX="63" StartY="124" EndX="65" EndY="126" Dir="-1" Count="3" /> <!-- Iron Wheel -->
+			
+			<Spawn Index="58" Distance="3" StartX="38" StartY="170" EndX="40" EndY="172" Dir="-1" Count="3" /> <!-- Tantalos -->
+			<Spawn Index="61" Distance="3" StartX="38" StartY="170" EndX="40" EndY="172" Dir="-1" Count="3" /> <!-- Beam Knight -->
+			
+			<Spawn Index="58" Distance="3" StartX="121" StartY="182" EndX="123" EndY="184" Dir="-1" Count="3" /> <!-- Tantalos -->
+			<Spawn Index="61" Distance="3" StartX="121" StartY="182" EndX="123" EndY="184" Dir="-1" Count="3" /> <!-- Beam Knight -->
+			
+			<Spawn Index="58" Distance="3" StartX="8" StartY="242" EndX="10" EndY="243" Dir="-1" Count="3" /> <!-- Tantalos -->
+			<Spawn Index="61" Distance="3" StartX="8" StartY="242" EndX="10" EndY="243" Dir="-1" Count="3" /> <!-- Beam Knight -->
+			<Spawn Index="59" Distance="3" StartX="8" StartY="242" EndX="10" EndY="243" Dir="-1" Count="3" /> <!-- Zaikan -->
+			
+			<Spawn Index="58" Distance="3" StartX="39" StartY="222" EndX="41" EndY="224" Dir="-1" Count="3" /> <!-- Tantalos -->
+			<Spawn Index="59" Distance="3" StartX="39" StartY="222" EndX="41" EndY="224" Dir="-1" Count="3" /> <!-- Zaikan -->
+			
+			<Spawn Index="59" Distance="3" StartX="87" StartY="200" EndX="89" EndY="202" Dir="-1" Count="3" /> <!-- Zaikan -->
+			<Spawn Index="61" Distance="3" StartX="87" StartY="200" EndX="89" EndY="202" Dir="-1" Count="3" /> <!-- Beam Knight -->
+			
+			<Spawn Index="572" Distance="3" StartX="30" StartY="108" EndX="30" EndY="108" Dir="-1" Count="6" /> <!-- Gollock -->
+			<Spawn Index="63" Distance="3" StartX="161" StartY="211" EndX="163" EndY="213" Dir="-1" Count="3" /> <!-- Death Beam Knight -->
 		</Spot>
 	</Map>
 
