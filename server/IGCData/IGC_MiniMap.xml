@@ -234,7 +234,10 @@
 		<Tag Id="5" MapNumber="10" NPCIndex="1"  X="39"  Y="118"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="6" MapNumber="10" NPCIndex="1"  X="48"  Y="158"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
 		<Tag Id="7" MapNumber="10" NPCIndex="1"  X="39"  Y="228"  DisplayType="1"  SyncType="1"  Name="Phoenix of Darkness" />
-<!--  Illusion Template League 1 -->
+<!-- Aida -->
+		<Tag Id="0" MapNumber="10" NPCIndex="1"  X="139"  Y="19"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="1" MapNumber="10" NPCIndex="1"  X="190"  Y="19"  DisplayType="1"  SyncType="1"  Name="Spot" />
+<!-- Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="2"	 MapNumber="98"	NPCIndex="660"	X="150"	Y="117"	 DisplayType="6"  SyncType="0"  Name=" " />
