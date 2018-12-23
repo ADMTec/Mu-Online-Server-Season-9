@@ -1266,6 +1266,7 @@
 			<Spawn Index="369" Distance="0" StartX="78" StartY="13" Dir="2" /> <!-- -->
 			<Spawn Index="370" Distance="0" StartX="86" StartY="13" Dir="1" /> <!-- -->
 			<Spawn Index="249" Distance="1" StartX="83" StartY="9" Dir="-1" /> <!-- Guard Melee -->
+			<Spawn Index="249" Distance="1" StartX="187" StartY="176" Dir="-1" /> <!-- Guard Melee -->
 		</Spot>
 		<Spot Type="1" Description="Multi~Spawn">
 			<Spawn Index="307" Distance="3" StartX="138" StartY="18" EndX="140" EndY="20" Dir="-1" Count="3" /> <!-- Forest Orc -->
@@ -1519,7 +1520,6 @@
 
 	<Map Number="36" Name="Kalima 7 (Lost)">
 		<Spot Type="0" Description="NPC">
-			<!-- <Spawn Index="259" Distance="0" StartX="7" StartY="19" Dir="2" /> --> <!-- Oracle Layla ~ shop managed via IGC_ShopList.xml -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monster">
 			<Spawn Index="331" Distance="30" StartX="30" StartY="75" Dir="-1" /> <!-- -->
@@ -1593,6 +1593,9 @@
 	</Map>
 
 	<Map Number="37" Name="Kanturu Ruins">
+		<Spot Type="0" Description="NPC">
+			<Spawn Index="249" Distance="1" StartX="42" StartY="213" Dir="-1" /> <!-- Guard Melee -->
+		</Spot>
 		<Spot Type="2" Description="Single Point Monster">
 			<Spawn Index="352" Distance="30" StartX="207" StartY="187" Dir="-1" /> <!-- -->
 			<Spawn Index="350" Distance="30" StartX="188" StartY="11" Dir="-1" /> <!-- -->

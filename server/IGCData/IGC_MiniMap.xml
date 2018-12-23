@@ -130,7 +130,7 @@
 		<Tag Id="3"	 MapNumber="34"	NPCIndex="248"	X="99"	Y="40"	 DisplayType="3"  SyncType="1"  Name="Wandering Merchant Martin" />
 		<Tag Id="4"	 MapNumber="34"	NPCIndex="256"	X="96"	Y="25"	 DisplayType="2"  SyncType="1"  Name="Lahap" />
 		<Tag Id="5"	 MapNumber="34"	NPCIndex="251"	X="145"	Y="14"	 DisplayType="3"  SyncType="1"  Name="Hanzo the Blacksmith" />
-		<Tag Id="6"	 MapNumber="34"	NPCIndex="240"	X="113"	Y="56"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
+		<Tag Id="6"	 MapNumber="34"	NPCIndex="240"	X="113"	Y="56"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
 <!-- Barracks of Balgass -->
 		<Tag Id="0"	 MapNumber="41"	NPCIndex="408"	X="119"	Y="168"	 DisplayType="2"  SyncType="1"  Name="Gatekeeper" />
 <!-- Elbeland -->
@@ -160,14 +160,14 @@
 <!-- Karutan 1 -->
 		<Tag Id="0"	 MapNumber="80"	NPCIndex="577"	X="121"	Y="102"	 DisplayType="4"  SyncType="1"  Name="Leina the Merchant" />
 		<Tag Id="1"	 MapNumber="80"	NPCIndex="578"	X="117"	Y="126"	 DisplayType="3"  SyncType="1"  Name="Weapons Merchant Bolo" />
-		<Tag Id="2"	 MapNumber="80"	NPCIndex="240"	X="123"	Y="132"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
-		<Tag Id="3"	 MapNumber="80"	NPCIndex="240"	X="122"	Y="96"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
-		<Tag Id="4"	 MapNumber="80"	NPCIndex="240"	X="157"	Y="127"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
+		<Tag Id="2"	 MapNumber="80"	NPCIndex="240"	X="123"	Y="132"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
+		<Tag Id="3"	 MapNumber="80"	NPCIndex="240"	X="122"	Y="96"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
+		<Tag Id="4"	 MapNumber="80"	NPCIndex="240"	X="157"	Y="127"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
 <!-- Acheron -->
 		<Tag Id="0"	 MapNumber="91"	NPCIndex="581"	X="29"	Y="210"	 DisplayType="2"  SyncType="1"  Name="Acheron Quest Deruvish" />
 		<Tag Id="1"	 MapNumber="91"	NPCIndex="582"	X="38"	Y="216"	 DisplayType="2"  SyncType="1"  Name="Errtel Combiner Adniel" />
 		<Tag Id="2"	 MapNumber="91"	NPCIndex="583"	X="56"	Y="202"	 DisplayType="4"  SyncType="1"  Name="Potion Merchant Jin" />
-		<Tag Id="4"	 MapNumber="91"	NPCIndex="240"	X="50"	Y="184"	 DisplayType="5"  SyncType="1"  Name="Safety Guardian" />
+		<Tag Id="4"	 MapNumber="91"	NPCIndex="240"	X="50"	Y="184"	 DisplayType="5"  SyncType="1"  Name="Warehouse" />
 <!-- Atlans (1 ~ 3) -->
 		<Tag Id="0"	 MapNumber="7"	NPCIndex="229"	X="17"	Y="25"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
 		<Tag Id="1" MapNumber="7" NPCIndex="1"  X="43"  Y="37"  DisplayType="1"  SyncType="1"  Name="Spot" />
