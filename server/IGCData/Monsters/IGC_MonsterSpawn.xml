@@ -1273,6 +1273,51 @@
 			
 			<Spawn Index="306" Distance="3" StartX="189" StartY="18" EndX="191" EndY="20" Dir="-1" Count="3" /> <!-- Death Rider -->
 			<Spawn Index="308" Distance="3" StartX="189" StartY="18" EndX="191" EndY="20" Dir="-1" Count="3" /> <!-- Death Tree -->
+			
+			<Spawn Index="307" Distance="3" StartX="226" StartY="12" EndX="228" EndY="14" Dir="-1" Count="3" /> <!-- Forest Orc -->
+			<Spawn Index="306" Distance="3" StartX="226" StartY="12" EndX="228" EndY="14" Dir="-1" Count="3" /> <!-- Death Rider -->
+			<Spawn Index="308" Distance="3" StartX="226" StartY="12" EndX="228" EndY="14" Dir="-1" Count="3" /> <!-- Death Tree -->
+			
+			<Spawn Index="306" Distance="3" StartX="212" StartY="34" EndX="214" EndY="36" Dir="-1" Count="3" /> <!-- Death Rider -->
+			<Spawn Index="307" Distance="3" StartX="211" StartY="34" EndX="214" EndY="36" Dir="-1" Count="3" /> <!-- Forest Orc -->
+			
+			<Spawn Index="307" Distance="3" StartX="165" StartY="59" EndX="167" EndY="61" Dir="-1" Count="3" /> <!-- Forest Orc -->
+			<Spawn Index="308" Distance="3" StartX="165" StartY="59" EndX="167" EndY="61" Dir="-1" Count="3" /> <!-- Death Tree -->
+			
+			<Spawn Index="305" Distance="3" StartX="194" StartY="149" EndX="196" EndY="151" Dir="-1" Count="3" /> <!-- Blue Golem -->
+			<Spawn Index="306" Distance="3" StartX="194" StartY="149" EndX="196" EndY="151" Dir="-1" Count="3" /> <!-- Death Rider -->
+			
+			<Spawn Index="305" Distance="3" StartX="160" StartY="117" EndX="162" EndY="119" Dir="-1" Count="3" /> <!-- Blue Golem -->
+			<Spawn Index="304" Distance="3" StartX="160" StartY="117" EndX="162" EndY="119" Dir="-1" Count="3" /> <!-- Witch Queen -->
+			
+			<Spawn Index="305" Distance="3" StartX="102" StartY="157" EndX="104" EndY="159" Dir="-1" Count="3" /> <!-- Blue Golem -->
+			<Spawn Index="304" Distance="3" StartX="102" StartY="157" EndX="104" EndY="159" Dir="-1" Count="3" /> <!-- Witch Queen -->
+			<Spawn Index="303" Distance="3" StartX="102" StartY="157" EndX="104" EndY="159" Dir="-1" Count="3" /> <!-- Gigas Golem -->
+			
+			<Spawn Index="304" Distance="3" StartX="83" StartY="77" EndX="85" EndY="79" Dir="-1" Count="3" /> <!-- Witch Queen -->
+			<Spawn Index="303" Distance="3" StartX="83" StartY="77" EndX="85" EndY="79" Dir="-1" Count="3" /> <!-- Gigas Golem -->
+			
+			<Spawn Index="309" Distance="5" StartX="118" StartY="103" EndX="118" EndY="103" Dir="-1" Count="1" /> <!-- Hell Maine -->
+			
+			<Spawn Index="549" Distance="3" StartX="207" StartY="207" EndX="209" EndY="209" Dir="-1" Count="3" /> <!-- Bloody Orc -->
+			<Spawn Index="305" Distance="3" StartX="207" StartY="207" EndX="209" EndY="209" Dir="-1" Count="3" /> <!-- Blue Golem -->
+			
+			<Spawn Index="305" Distance="3" StartX="157" StartY="233" EndX="159" EndY="235" Dir="-1" Count="3" /> <!-- Blue Golem -->
+			<Spawn Index="549" Distance="3" StartX="157" StartY="233" EndX="159" EndY="235" Dir="-1" Count="3" /> <!-- Bloody Orc -->
+			<Spawn Index="550" Distance="3" StartX="157" StartY="233" EndX="159" EndY="235" Dir="-1" Count="3" /> <!-- Bloody Death Rider -->
+			
+			<Spawn Index="304" Distance="3" StartX="128" StartY="228" EndX="130" EndY="230" Dir="-1" Count="3" /> <!-- Witch Queen -->
+			<Spawn Index="550" Distance="3" StartX="128" StartY="228" EndX="130" EndY="230" Dir="-1" Count="3" /> <!-- Bloody Death Rider -->
+			
+			<Spawn Index="550" Distance="3" StartX="73" StartY="225" EndX="75" EndY="227" Dir="-1" Count="3" /> <!-- Bloody Death Rider -->
+			<Spawn Index="552" Distance="3" StartX="73" StartY="225" EndX="75" EndY="227" Dir="-1" Count="3" /> <!-- Bloody Witch Queen -->
+			
+			<Spawn Index="551" Distance="3" StartX="23" StartY="183" EndX="25" EndY="185" Dir="-1" Count="3" /> <!-- Bloody Golem -->
+			<Spawn Index="552" Distance="3" StartX="23" StartY="183" EndX="25" EndY="185" Dir="-1" Count="3" /> <!-- Bloody Witch Queen -->
+			
+			<Spawn Index="551" Distance="3" StartX="35" StartY="222" EndX="37" EndY="224" Dir="-1" Count="3" /> <!-- Bloody Golem -->
+			<Spawn Index="550" Distance="3" StartX="35" StartY="222" EndX="37" EndY="224" Dir="-1" Count="3" /> <!-- Bloody Death Rider -->
+			<Spawn Index="552" Distance="3" StartX="35" StartY="222" EndX="37" EndY="224" Dir="-1" Count="3" /> <!-- Bloody Witch Queen -->
 		</Spot>
 	</Map>
 
