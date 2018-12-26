@@ -126,41 +126,7 @@
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
-			<Map Number="37" Enable="1" FamilyAccessType="0"> <!-- Kanturu -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="38" Enable="1" FamilyAccessType="0"> <!-- Kanturu Relics-->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			
-			<Map Number="91" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="92" Enable="1" FamilyAccessType="0"> <!-- Acheron -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="100" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="101" Enable="1" FamilyAccessType="0"> <!-- Uruk -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="95" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			<Map Number="96" Enable="1" FamilyAccessType="0"> <!-- Debenter -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
-			
-			<Map Number="63" Enable="1" FamilyAccessType="0"> <!-- Vulcanus -->
+			<Map Number="57" Enable="1" FamilyAccessType="0"> <!-- Raklion -->
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
@@ -174,12 +140,7 @@
 			<Warp Index="7" Enable="1" /> <!-- Devias 4 -->
 			<Warp Index="21" Enable="1" /> <!-- Tarkan -->
 			<Warp Index="22" Enable="1" /> <!-- Tarkan 2 -->
-			<Warp Index="28" Enable="1" /> <!-- Kanturu Ruins 1 -->
-			<Warp Index="29" Enable="1" /> <!-- Kanturu Ruins 2 -->
-			<Warp Index="45" Enable="1" /> <!-- Kanturu Ruins 3 -->
-			<Warp Index="30" Enable="1" /> <!-- KanturuRelics -->
-			<Warp Index="33" Enable="1" /> <!-- Acheron -->
-			<Warp Index="42" Enable="1" /> <!-- Vulcanus -->
+			<Warp Index="34" Enable="1" /> <!-- Raklion -->
 		</WarpList>
 	</BattleZoneSettings>
 </GensSystem>

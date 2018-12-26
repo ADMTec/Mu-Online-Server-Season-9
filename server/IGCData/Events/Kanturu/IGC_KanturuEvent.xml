@@ -76,8 +76,8 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->	
 
-<KanturuEvent Enable="1" MoonStoneCheck="1">
-	<Item MoonStoneDropRate="10" JewelOfHarmonyDropRate="20" />
+<KanturuEvent Enable="0" MoonStoneCheck="1">
+	<Item MoonStoneDropRate="0" JewelOfHarmonyDropRate="0" />
 	
 	<GeneralStates>
 		<Event State="0" SwitchType="0" Time="0" /> <!-- None -->
