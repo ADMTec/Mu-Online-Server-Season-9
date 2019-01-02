@@ -43,7 +43,7 @@
 -->
 
 <ExpSystem CalcType="0" DebugMode="0">
-	<StaticExp Normal="100" Master="100" Event="0.0" Quest="1.0" />
+	<StaticExp Normal="50" Master="50" Event="0.0" Quest="1.0" />
 	
 	<DynamicExpRangeList>
 	</DynamicExpRangeList>
