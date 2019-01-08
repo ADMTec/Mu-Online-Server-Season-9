@@ -114,15 +114,19 @@
 	
 	<BattleZoneSettings>
 		<MapList>
-			<Map Number="6" Enable="1" FamilyAccessType="0"> <!-- Arena -->
-				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
-			</Map>
 			<Map Number="2" Enable="1" FamilyAccessType="0"> <!-- Devias -->
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
 			<Map Number="8" Enable="1" FamilyAccessType="0"> <!-- Tarkan -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+			</Map>
+			<Map Number="10" Enable="1" FamilyAccessType="0"> <!-- Icarus -->
+				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
+			</Map>
+			<Map Number="33" Enable="1" FamilyAccessType="0"> <!-- Aida -->
 				<Duprian ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 				<Vanert ExpBonus="50" MLExpBonus="50" ItemDropBonus="20" MLItemDropBonus="50" ExcItemDropBonus="10" MLExcItemDropBonus="10" />
 			</Map>
@@ -133,13 +137,15 @@
 		</MapList>
 
 		<WarpList>
-			<Warp Index="1" Enable="1" /> <!-- Arena -->
 			<Warp Index="4" Enable="1" /> <!-- Devias -->
 			<Warp Index="5" Enable="1" /> <!-- Devias 2 -->
 			<Warp Index="6" Enable="1" /> <!-- Devias 3 -->
 			<Warp Index="7" Enable="1" /> <!-- Devias 4 -->
 			<Warp Index="21" Enable="1" /> <!-- Tarkan -->
 			<Warp Index="22" Enable="1" /> <!-- Tarkan 2 -->
+			<Warp Index="23" Enable="1" /> <!-- Icarus -->
+			<Warp Index="25" Enable="1" /> <!-- Aida -->
+			<Warp Index="27" Enable="1" /> <!-- Aida 2 -->
 			<Warp Index="34" Enable="1" /> <!-- Raklion -->
 		</WarpList>
 	</BattleZoneSettings>

@@ -1,2 +1,7 @@
+IGC.dll.rar;AAEE8DB8;125440
+main.exe.rar;EE80E6F2;35254272
+MemRelease.dll.rar;5DAF63CD;7168
 MuResolutionSelector.exe.rar;BA225238;283648
 Data/Local/Filter.bmd.rar;3CA19136;20004
+Data/Local/Eng/movereq_eng.bmd.rar;7BCBB5A2;2692
+Data/Local/Eng/Text_eng.bmd.rar;BF76F29B;168979

@@ -92,16 +92,22 @@
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
-	<Drop Rate="5900" Count="1">
+	<Drop Rate="6600" Count="1">
+		<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Bless -->
 		<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Soul -->
 	</Drop>
-	<Drop Rate="2000" Count="1">
-		<Item Cat="14" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Jewel of Harmony -->
+	<Drop Rate="1800" Count="1">
+		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Chaos -->
 	</Drop>
-	<Drop Rate="1000" Count="1">
-		<Item Cat="14" Index="217" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Summon Titan's Anger -->
+	<Drop Rate="500" Count="1">
+		<Item Cat="0" Index="31" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Rune Blade -->
+		<Item Cat="5" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- AA Staff -->
+		<Item Cat="5" Index="36" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- AA Stick -->
+		<Item Cat="0" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- AA Sword -->
+		<Item Cat="2" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- AA Scepter -->
+		<Item Cat="4" Index="18" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- AA Crossbow -->
 	</Drop>
-	<Drop Rate="1000" Count="1">
+	<Drop Rate="500" Count="1">
 		<Item Cat="13" Index="213" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="13" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="13" Index="217" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -141,7 +147,16 @@
 		<Item Cat="13" Index="305" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="13" Index="307" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
-	<Drop Rate="100" Count="1">
+	<Drop Rate="200" Count="1">
+		<Item Cat="14" Index="217" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Summon Titan's Anger -->
+	</Drop>
+	<Drop Rate="200" Count="1">
+		<Item Cat="13" Index="31" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- DL Raven Spirit -->
+	</Drop>
+	<Drop Rate="150" Count="1">
+		<Item Cat="14" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Jewel of Harmony -->
+	</Drop>
+	<Drop Rate="50" Count="1">
 		<Item Cat="14" Index="162" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
 </DropAllow>

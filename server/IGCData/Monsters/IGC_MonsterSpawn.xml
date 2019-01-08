@@ -1277,20 +1277,57 @@
 			<Spawn Index="247" Distance="1" StartX="60" StartY="111" Dir="-1" /> <!-- Guard Ranged -->
 		</Spot>
 		<Spot Type="1" Description="Spots">
-			<Spawn Index="123" Distance="5" StartX="20" StartY="113" EndX="20" EndY="113" Dir="-1" Count="3" /> <!-- Red Skeleton Knight 5 -->
-			<Spawn Index="120" Distance="5" StartX="20" StartY="113" EndX="20" EndY="113" Dir="-1" Count="5" /> <!-- Chief Skeleton Archer 5 -->
+			<Spawn Index="360" Distance="5" StartX="20" StartY="113" EndX="20" EndY="113" Dir="-1" Count="3" /> <!-- Dreadfear -->
+			<Spawn Index="305" Distance="5" StartX="20" StartY="113" EndX="20" EndY="113" Dir="-1" Count="5" /> <!-- Blue Golem -->
 		
-			<Spawn Index="123" Distance="5" StartX="37" StartY="113" EndX="37" EndY="113" Dir="-1" Count="3" /> <!-- Red Skeleton Knight 5 -->
-			<Spawn Index="120" Distance="5" StartX="37" StartY="113" EndX="37" EndY="113" Dir="-1" Count="5" /> <!-- Chief Skeleton Archer 5 -->
+			<Spawn Index="356" Distance="5" StartX="37" StartY="113" EndX="37" EndY="113" Dir="-1" Count="3" /> <!-- Gigantis -->
+			<Spawn Index="354" Distance="5" StartX="37" StartY="113" EndX="37" EndY="113" Dir="-1" Count="5" /> <!-- Blade Hunter -->
 		
-			<Spawn Index="123" Distance="5" StartX="54" StartY="113" EndX="54" EndY="113" Dir="-1" Count="3" /> <!-- Red Skeleton Knight 5 -->
-			<Spawn Index="120" Distance="5" StartX="54" StartY="113" EndX="54" EndY="113" Dir="-1" Count="5" /> <!-- Chief Skeleton Archer 5 -->
+			<Spawn Index="352" Distance="5" StartX="54" StartY="113" EndX="54" EndY="113" Dir="-1" Count="3" /> <!-- Iron Rider -->
+			<Spawn Index="351" Distance="5" StartX="54" StartY="113" EndX="54" EndY="113" Dir="-1" Count="5" /> <!-- Splinter Wolf -->
 			
-			<Spawn Index="123" Distance="5" StartX="70" StartY="113" EndX="70" EndY="113" Dir="-1" Count="3" /> <!-- Red Skeleton Knight 5 -->
-			<Spawn Index="120" Distance="5" StartX="70" StartY="113" EndX="70" EndY="113" Dir="-1" Count="5" /> <!-- Chief Skeleton Archer 5 -->
+			<Spawn Index="263" Distance="5" StartX="70" StartY="113" EndX="70" EndY="113" Dir="-1" Count="3" /> <!-- Aegis 5 -->
+			<Spawn Index="264" Distance="5" StartX="70" StartY="113" EndX="70" EndY="113" Dir="-1" Count="5" /> <!-- Centurion 5 -->
 			
-			<Spawn Index="123" Distance="5" StartX="87" StartY="113" EndX="87" EndY="113" Dir="-1" Count="3" /> <!-- Red Skeleton Knight 5 -->
-			<Spawn Index="120" Distance="5" StartX="87" StartY="113" EndX="87" EndY="113" Dir="-1" Count="5" /> <!-- Chief Skeleton Archer 5 -->
+			<Spawn Index="262" Distance="5" StartX="87" StartY="113" EndX="87" EndY="113" Dir="-1" Count="3" /> <!-- Blood Soldier 5 -->
+			<Spawn Index="264" Distance="5" StartX="87" StartY="113" EndX="87" EndY="113" Dir="-1" Count="5" /> <!-- Centurion 5 -->
+			
+			<Spawn Index="303" Distance="5" StartX="90" StartY="95" EndX="90" EndY="95" Dir="-1" Count="3" /> <!-- Gigas Golem -->
+			<Spawn Index="305" Distance="5" StartX="90" StartY="95" EndX="90" EndY="95" Dir="-1" Count="5" /> <!-- Blue Golem -->
+			
+			<Spawn Index="72" Distance="3" StartX="98" StartY="78" EndX="98" EndY="78" Dir="-1" Count="3" /> <!-- Phantom Knight -->
+			<Spawn Index="75" Distance="3" StartX="98" StartY="78" EndX="98" EndY="78" Dir="-1" Count="5" /> <!-- Great Drakan -->
+			<Spawn Index="72" Distance="3" StartX="81" StartY="78" EndX="81" EndY="78" Dir="-1" Count="3" /> <!-- Phantom Knight -->
+			<Spawn Index="75" Distance="3" StartX="81" StartY="78" EndX="81" EndY="78" Dir="-1" Count="5" /> <!-- Great Drakan -->
+			
+			<Spawn Index="353" Distance="3" StartX="98" StartY="63" EndX="98" EndY="63" Dir="-1" Count="3" /> <!-- Satyros -->
+			<Spawn Index="354" Distance="3" StartX="98" StartY="63" EndX="98" EndY="63" Dir="-1" Count="5" /> <!-- Blade Hunter -->
+			<Spawn Index="353" Distance="3" StartX="81" StartY="63" EndX="81" EndY="63" Dir="-1" Count="3" /> <!-- Satyros -->
+			<Spawn Index="354" Distance="3" StartX="81" StartY="63" EndX="81" EndY="63" Dir="-1" Count="5" /> <!-- Blade Hunter -->
+			
+			<Spawn Index="571" Distance="3" StartX="98" StartY="48" EndX="98" EndY="48" Dir="-1" Count="3" /> <!-- Orcus -->
+			<Spawn Index="570" Distance="3" StartX="98" StartY="48" EndX="98" EndY="48" Dir="-1" Count="5" /> <!-- Bone Scorpion -->
+			<Spawn Index="571" Distance="3" StartX="81" StartY="48" EndX="81" EndY="48" Dir="-1" Count="3" /> <!-- Orcus -->
+			<Spawn Index="570" Distance="3" StartX="81" StartY="48" EndX="81" EndY="48" Dir="-1" Count="5" /> <!-- Bone Scorpion -->
+			
+			<Spawn Index="573" Distance="3" StartX="98" StartY="31" EndX="98" EndY="31" Dir="-1" Count="3" /> <!-- Crypta -->
+			<Spawn Index="572" Distance="3" StartX="98" StartY="31" EndX="98" EndY="31" Dir="-1" Count="5" /> <!-- Gollock -->
+			<Spawn Index="573" Distance="3" StartX="81" StartY="31" EndX="81" EndY="31" Dir="-1" Count="3" /> <!-- Crypta -->
+			<Spawn Index="572" Distance="3" StartX="81" StartY="31" EndX="81" EndY="31" Dir="-1" Count="5" /> <!-- Gollock -->
+			
+			<Spawn Index="588" Distance="5" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="10"  Element="6"/> <!-- Ubaid Elemental Knight -->
+			
+			<Spawn Index="549" Distance="5" StartX="68" StartY="6" EndX="68" EndY="6" Dir="-1" Count="3" /> <!-- Bloody Orc -->
+			<Spawn Index="551" Distance="5" StartX="68" StartY="6" EndX="68" EndY="6" Dir="-1" Count="5" /> <!-- Bloody Golem -->
+			
+			<Spawn Index="446" Distance="5" StartX="51" StartY="6" EndX="51" EndY="6" Dir="-1" Count="3" /> <!-- Shadow Look -->
+			<Spawn Index="443" Distance="5" StartX="51" StartY="6" EndX="51" EndY="6" Dir="-1" Count="5" /> <!-- Sapi-Tres -->
+			
+			<Spawn Index="446" Distance="5" StartX="34" StartY="6" EndX="34" EndY="6" Dir="-1" Count="3" /> <!-- Shadow Look -->
+			<Spawn Index="448" Distance="5" StartX="34" StartY="6" EndX="34" EndY="6" Dir="-1" Count="5" /> <!-- Ghost Napin -->
+			
+			<Spawn Index="449" Distance="5" StartX="17" StartY="6" EndX="17" EndY="6" Dir="-1" Count="3" /> <!-- Blaze Napin -->
+			<Spawn Index="448" Distance="5" StartX="17" StartY="6" EndX="17" EndY="6" Dir="-1" Count="5" /> <!-- Ghost Napin -->
 			
 			<Spawn Index="587" Distance="5" StartX="48" StartY="95" EndX="48" EndY="95" Dir="-1" Count="6" Element="6"/> <!-- Elemental Beast -->
 			
@@ -1303,8 +1340,8 @@
 			<Spawn Index="576" Distance="5" StartX="48" StartY="57" EndX="48" EndY="57" Dir="-1" Count="4"/> <!-- Nacondra -->
 			<Spawn Index="574" Distance="5" StartX="48" StartY="57" EndX="48" EndY="57" Dir="-1" Count="4"/> <!-- Crypos -->
 			
-			<Spawn Index="489" Distance="5" StartX="48" StartY="38" EndX="48" EndY="38" Dir="-1" Count="4"/> <!-- Burning Lava Giant -->
-			<Spawn Index="491" Distance="5" StartX="48" StartY="38" EndX="48" EndY="38" Dir="-1" Count="4"/> <!-- Ruthless Lava Giant -->
+			<Spawn Index="576" Distance="5" StartX="48" StartY="38" EndX="48" EndY="38" Dir="-1" Count="4"/> <!-- Nacondra -->
+			<Spawn Index="334" Distance="5" StartX="48" StartY="38" EndX="48" EndY="38" Dir="-1" Count="4"/> <!-- Death Angel 7 -->
 			
 			<Spawn Index="358" Distance="5" StartX="29" StartY="38" EndX="29" EndY="38" Dir="-1" Count="4"/> <!-- Persona -->
 			<Spawn Index="360" Distance="5" StartX="29" StartY="38" EndX="29" EndY="38" Dir="-1" Count="4"/> <!-- Dreadfear -->
@@ -1313,23 +1350,23 @@
 			<Spawn Index="357" Distance="5" StartX="29" StartY="56" EndX="29" EndY="56" Dir="-1" Count="4"/> <!-- Genocider -->
 			
 			<Spawn Index="565" Distance="5" StartX="30" StartY="74" EndX="30" EndY="74" Dir="-1" Count="4"/> <!-- Dark Iron Knight -->
-			<Spawn Index="563" Distance="5" StartX="30" StartY="74" EndX="30" EndY="74" Dir="-1" Count="4"/> <!-- Dark Giant -->
+			<Spawn Index="337" Distance="5" StartX="30" StartY="74" EndX="30" EndY="74" Dir="-1" Count="4"/> <!-- Schriker 7 -->
 			
-			<Spawn Index="562" Distance="5" StartX="29" StartY="91" EndX="29" EndY="91" Dir="-1" Count="4"/> <!-- Dark Mammoth -->
-			<Spawn Index="564" Distance="5" StartX="29" StartY="91" EndX="29" EndY="91" Dir="-1" Count="4"/> <!-- Dark Coolutin -->
+			<Spawn Index="334" Distance="5" StartX="29" StartY="91" EndX="29" EndY="91" Dir="-1" Count="4"/> <!-- Death Angel 7 -->
+			<Spawn Index="335" Distance="5" StartX="29" StartY="91" EndX="29" EndY="91" Dir="-1" Count="4"/> <!-- Necron 7 -->
 			
-			<Spawn Index="552" Distance="5" StartX="13" StartY="90" EndX="13" EndY="90" Dir="-1" Count="4"/> <!-- Bloody Witch Queen -->
+			<Spawn Index="550" Distance="5" StartX="13" StartY="90" EndX="13" EndY="90" Dir="-1" Count="4"/> <!-- Bloody Death Rider -->
 			<Spawn Index="551" Distance="5" StartX="13" StartY="90" EndX="13" EndY="90" Dir="-1" Count="4"/> <!-- Bloody Golem -->
 			
-			<Spawn Index="334" Distance="5" StartX="12" StartY="75" EndX="12" EndY="75" Dir="-1" Count="4"/> <!-- Death Angel 7 -->
-			<Spawn Index="335" Distance="5" StartX="12" StartY="75" EndX="12" EndY="75" Dir="-1" Count="4"/> <!-- Necron 7 -->
+			<Spawn Index="562" Distance="5" StartX="12" StartY="75" EndX="12" EndY="75" Dir="-1" Count="4"/> <!-- Dark Mammoth -->
+			<Spawn Index="564" Distance="5" StartX="12" StartY="75" EndX="12" EndY="75" Dir="-1" Count="4"/> <!-- Dark Coolutin -->
 			
 			<Spawn Index="336" Distance="5" StartX="12" StartY="56" EndX="12" EndY="56" Dir="-1" Count="4"/> <!-- Death Centurion 7 -->
 			<Spawn Index="337" Distance="5" StartX="12" StartY="56" EndX="12" EndY="56" Dir="-1" Count="4"/> <!-- Schriker 7 -->
 			
 			<Spawn Index="565" Distance="5" StartX="12" StartY="38" EndX="12" EndY="38" Dir="-1" Count="4"/> <!-- Dark Iron Knight -->
-			<Spawn Index="337" Distance="5" StartX="12" StartY="38" EndX="12" EndY="38" Dir="-1" Count="4"/> <!-- Schriker 7 -->
-			<Spawn Index="588" Distance="5" StartX="12" StartY="38" EndX="12" EndY="38" Dir="-1" Count="6" Element="6"/> <!-- Elemental Knight -->
+			<Spawn Index="563" Distance="5" StartX="12" StartY="38" EndX="12" EndY="38" Dir="-1" Count="4"/> <!-- Dark Giant -->
+			<Spawn Index="588" Distance="5" StartX="12" StartY="38" EndX="12" EndY="38" Dir="-1" Count="4" Element="6"/> <!-- Elemental Knight -->
 		</Spot>
 	</Map>
 
@@ -2544,10 +2581,58 @@
 			<Spawn Index="224" Distance="0" StartX="86" StartY="61" Dir="1" /> <!-- -->
 			<Spawn Index="224" Distance="0" StartX="99" StartY="61" Dir="1" /> <!-- -->
 			<Spawn Index="223" Distance="0" StartX="179" StartY="214" Dir="1" /> <!-- -->
+			<Spawn Index="247" Distance="1" StartX="59" StartY="33" Dir="-1" /> <!-- Guard Ranged -->
+			<Spawn Index="249" Distance="1" StartX="60" StartY="23" Dir="-1" /> <!-- Guard Melee -->
 		</Spot>
 	</Map>
 
 	<Map Number="31" Name="Land of Trials">
+		<Spot Type="1" Description="Spots">
+			<Spawn Index="290" Distance="3" StartX="55" StartY="55" EndX="55" EndY="55" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="55" StartY="55" EndX="55" EndY="55" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="55" StartY="55" EndX="55" EndY="55" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="55" StartY="55" EndX="55" EndY="55" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="224" StartY="55" EndX="224" EndY="55" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="224" StartY="55" EndX="224" EndY="55" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="224" StartY="55" EndX="224" EndY="55" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="224" StartY="55" EndX="224" EndY="55" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="217" StartY="211" EndX="217" EndY="211" Dir="-1" Count="4" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="217" StartY="211" EndX="217" EndY="211" Dir="-1" Count="4" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="217" StartY="211" EndX="217" EndY="211" Dir="-1" Count="4" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="217" StartY="211" EndX="217" EndY="211" Dir="-1" Count="4" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="190" StartY="61" EndX="190" EndY="61" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="190" StartY="61" EndX="190" EndY="61" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="190" StartY="61" EndX="190" EndY="61" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="190" StartY="61" EndX="190" EndY="61" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="153" StartY="84" EndX="153" EndY="84" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="153" StartY="84" EndX="153" EndY="84" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="153" StartY="84" EndX="153" EndY="84" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="153" StartY="84" EndX="153" EndY="84" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="127" StartY="141" EndX="127" EndY="141" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="127" StartY="141" EndX="127" EndY="141" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="127" StartY="141" EndX="127" EndY="141" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="127" StartY="141" EndX="127" EndY="141" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="140" StartY="217" EndX="140" EndY="217" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="140" StartY="217" EndX="140" EndY="217" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="140" StartY="217" EndX="140" EndY="217" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="140" StartY="217" EndX="140" EndY="217" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="57" StartY="224" EndX="57" EndY="224" Dir="-1" Count="3" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="57" StartY="224" EndX="57" EndY="224" Dir="-1" Count="3" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="57" StartY="224" EndX="57" EndY="224" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="57" StartY="224" EndX="57" EndY="224" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			
+			<Spawn Index="290" Distance="3" StartX="33" StartY="179" EndX="33" EndY="179" Dir="-1" Count="4" /> <!-- Lizard Warrior -->
+			<Spawn Index="292" Distance="3" StartX="33" StartY="179" EndX="33" EndY="179" Dir="-1" Count="4" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="33" StartY="179" EndX="33" EndY="179" Dir="-1" Count="4" /> <!-- Poison Golem -->
+			<Spawn Index="291" Distance="3" StartX="33" StartY="179" EndX="33" EndY="179" Dir="-1" Count="4" /> <!-- Fire Golem -->
+		</Spot>
 		<Spot Type="2" Description="Default">
 			<Spawn Index="294" Distance="30" StartX="228" StartY="42" Dir="-1" /> <!-- -->
 			<Spawn Index="294" Distance="30" StartX="182" StartY="31" Dir="-1" /> <!-- -->
@@ -3088,6 +3173,33 @@
 			<Spawn Index="256" Distance="0" StartX="96" StartY="25" Dir="2" /> <!-- -->
 			<Spawn Index="240" Distance="0" StartX="113" StartY="56" Dir="2" /> <!-- -->
 			<Spawn Index="224" Distance="0" StartX="118" StartY="11" Dir="4" /> <!-- -->
+			<Spawn Index="247" Distance="1" StartX="209" StartY="44" Dir="-1" /> <!-- Guard Ranged -->
+		</Spot>
+		<Spot Type="1" Description="Spots">
+			<Spawn Index="311" Distance="3" StartX="210" StartY="90" EndX="210" EndY="90" Dir="-1" Count="3" /> <!-- Lance Scout -->
+			<Spawn Index="312" Distance="3" StartX="210" StartY="90" EndX="210" EndY="90" Dir="-1" Count="3" /> <!-- Bow Scout -->
+			
+			<Spawn Index="310" Distance="3" StartX="139" StartY="79" EndX="139" EndY="79" Dir="-1" Count="3" /> <!-- Hammer Scout -->
+			<Spawn Index="312" Distance="3" StartX="139" StartY="79" EndX="139" EndY="79" Dir="-1" Count="3" /> <!-- Bow Scout -->
+			
+			<Spawn Index="310" Distance="3" StartX="88" StartY="79" EndX="88" EndY="79" Dir="-1" Count="3" /> <!-- Hammer Scout -->
+			<Spawn Index="311" Distance="3" StartX="88" StartY="79" EndX="88" EndY="79" Dir="-1" Count="3" /> <!-- Lance Scout -->
+			
+			<Spawn Index="310" Distance="3" StartX="173" StartY="37" EndX="173" EndY="37" Dir="-1" Count="3" /> <!-- Hammer Scout -->
+			<Spawn Index="311" Distance="3" StartX="173" StartY="37" EndX="173" EndY="37" Dir="-1" Count="3" /> <!-- Lance Scout -->
+			
+			<Spawn Index="313" Distance="3" StartX="107" StartY="197" EndX="107" EndY="197" Dir="-1" Count="3" /> <!-- Werewolf -->
+			<Spawn Index="317" Distance="3" StartX="107" StartY="197" EndX="107" EndY="197" Dir="-1" Count="3" /> <!-- Soram -->
+			
+			<Spawn Index="317" Distance="3" StartX="115" StartY="227" EndX="107" EndY="197" Dir="-1" Count="3" /> <!-- Soram -->
+			<Spawn Index="316" Distance="3" StartX="115" StartY="227" EndX="107" EndY="197" Dir="-1" Count="3" /> <!-- Balram -->
+			
+			<Spawn Index="313" Distance="3" StartX="162" StartY="205" EndX="162" EndY="205" Dir="-1" Count="3" /> <!-- Werewolf -->
+			<Spawn Index="317" Distance="3" StartX="162" StartY="205" EndX="162" EndY="205" Dir="-1" Count="3" /> <!-- Soram -->
+			<Spawn Index="316" Distance="3" StartX="162" StartY="205" EndX="162" EndY="205" Dir="-1" Count="3" /> <!-- Balram -->
+			
+			<Spawn Index="314" Distance="3" StartX="65" StartY="210" EndX="65" EndY="210" Dir="-1" Count="3" /> <!-- Scout(Hero) -->
+			<Spawn Index="315" Distance="3" StartX="65" StartY="210" EndX="65" EndY="210" Dir="-1" Count="3" /> <!-- Werewolf(Hero) -->
 		</Spot>
 		<Spot Type="2" Description="Default">
 			<Spawn Index="310" Distance="30" StartX="58" StartY="47" Dir="-1" /> <!-- -->
@@ -3599,6 +3711,43 @@
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="249" Distance="1" StartX="208" StartY="203" Dir="-1" /> <!-- Guard Melee -->
 			<Spawn Index="247" Distance="1" StartX="219" StartY="206" Dir="-1" /> <!-- Guard Ranged -->
+		</Spot>
+		<Spot Type="1" Description="Spots">
+			<Spawn Index="455" Distance="3" StartX="170" StartY="213" EndX="170" EndY="213" Dir="-1" Count="3" /> <!-- Giant Mammoth -->
+			<Spawn Index="454" Distance="3" StartX="170" StartY="213" EndX="170" EndY="213" Dir="-1" Count="3" /> <!-- Ice Walker -->
+			
+			<Spawn Index="455" Distance="3" StartX="170" StartY="185" EndX="170" EndY="185" Dir="-1" Count="3" /> <!-- Giant Mammoth -->
+			<Spawn Index="454" Distance="3" StartX="170" StartY="185" EndX="170" EndY="185" Dir="-1" Count="3" /> <!-- Ice Walker -->
+			
+			<Spawn Index="456" Distance="3" StartX="141" StartY="213" EndX="141" EndY="213" Dir="-1" Count="3" /> <!-- Ice Giant -->
+			<Spawn Index="454" Distance="3" StartX="141" StartY="213" EndX="141" EndY="213" Dir="-1" Count="3" /> <!-- Ice Walker -->
+			
+			<Spawn Index="457" Distance="3" StartX="95" StartY="213" EndX="95" EndY="213" Dir="-1" Count="3" /> <!-- Coolutin -->
+			<Spawn Index="454" Distance="3" StartX="95" StartY="213" EndX="95" EndY="213" Dir="-1" Count="3" /> <!-- Ice Walker -->
+			<Spawn Index="456" Distance="3" StartX="95" StartY="213" EndX="95" EndY="213" Dir="-1" Count="3" /> <!-- Ice Giant -->
+			
+			<Spawn Index="455" Distance="3" StartX="117" StartY="178" EndX="117" EndY="178" Dir="-1" Count="3" /> <!-- Giant Mammoth -->
+			<Spawn Index="456" Distance="3" StartX="117" StartY="178" EndX="117" EndY="178" Dir="-1" Count="3" /> <!-- Ice Giant -->
+			
+			<Spawn Index="456" Distance="3" StartX="130" StartY="138" EndX="130" EndY="138" Dir="-1" Count="3" /> <!-- Ice Giant -->
+			<Spawn Index="458" Distance="3" StartX="130" StartY="138" EndX="130" EndY="138" Dir="-1" Count="3" /> <!-- Iron Knight -->
+			
+			<Spawn Index="457" Distance="3" StartX="197" StartY="145" EndX="197" EndY="145" Dir="-1" Count="3" /> <!-- Coolutin -->
+			<Spawn Index="458" Distance="3" StartX="197" StartY="145" EndX="197" EndY="145" Dir="-1" Count="3" /> <!-- Iron Knight -->
+			
+			<Spawn Index="562" Distance="3" StartX="219" StartY="90" EndX="219" EndY="90" Dir="-1" Count="3" /> <!-- Dark Mammoth -->
+			<Spawn Index="564" Distance="3" StartX="219" StartY="90" EndX="219" EndY="90" Dir="-1" Count="3" /> <!-- Dark Coolutin -->
+			
+			<Spawn Index="564" Distance="3" StartX="173" StartY="66" EndX="173" EndY="66" Dir="-1" Count="3" /> <!-- Dark Coolutin -->
+			<Spawn Index="563" Distance="3" StartX="173" StartY="66" EndX="173" EndY="66" Dir="-1" Count="3" /> <!-- Dark Giant -->
+			<Spawn Index="565" Distance="3" StartX="173" StartY="66" EndX="173" EndY="66" Dir="-1" Count="3" /> <!-- Dark Iron Knight -->
+			
+			<Spawn Index="562" Distance="3" StartX="124" StartY="95" EndX="124" EndY="95" Dir="-1" Count="3" /> <!-- Dark Mammoth -->
+			<Spawn Index="563" Distance="3" StartX="124" StartY="95" EndX="124" EndY="95" Dir="-1" Count="3" /> <!-- Dark Giant -->
+			
+			<Spawn Index="564" Distance="3" StartX="75" StartY="115" EndX="75" EndY="115" Dir="-1" Count="3" /> <!-- Dark Coolutin -->
+			<Spawn Index="563" Distance="3" StartX="75" StartY="115" EndX="75" EndY="115" Dir="-1" Count="3" /> <!-- Dark Giant -->
+			<Spawn Index="565" Distance="3" StartX="75" StartY="115" EndX="75" EndY="115" Dir="-1" Count="3" /> <!-- Dark Iron Knight -->
 		</Spot>
 		<Spot Type="2" Description="Default">
 			<Spawn Index="454" Distance="30" StartX="203" StartY="204" Dir="-1" /> <!-- -->

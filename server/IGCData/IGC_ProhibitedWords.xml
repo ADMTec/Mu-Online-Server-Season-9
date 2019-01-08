@@ -17,6 +17,4 @@
 -->
 
 <ProhibitedWords>
-	<Restrict Word="fuck" />
-	<Restrict Word="shit" />
 </ProhibitedWords>

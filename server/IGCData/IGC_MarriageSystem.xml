@@ -55,20 +55,15 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<MarrySystem Enable="1" ReqLevel="50" ReqMoney="2000">
+<MarrySystem Enable="0" ReqLevel="50" ReqMoney="2000">
 	<Location MapNumber="2" StartX="12" StartY="25" EndX="14" EndY="26" />
 	
 	<WeddingSettings Homosexual="1" ReqSpecialItem="1">
-		<Item Side="1" ItemCat="14" ItemIndex="14" ItemCount="5" /> <!-- Side which requests -->
-		<Item Side="2" ItemCat="14" ItemIndex="14" ItemCount="5" /> <!-- Side which accepts -->
 	</WeddingSettings>
 	
 	<WeddingGift Enable="0">
-		<Item Side="1" ItemCat="14" ItemIndex="14" ItemCount="1" /> <!-- Side which requests -->
-		<Item Side="2" ItemCat="14" ItemIndex="14" ItemCount="1" /> <!-- Side which accepts -->
 	</WeddingGift>
 	
 	<DivorceSettings Allow="1" ReqSpecialItem="1">
-		<Item ItemCat="14" ItemIndex="14" ItemCount="5" />
 	</DivorceSettings>
 </MarrySystem>

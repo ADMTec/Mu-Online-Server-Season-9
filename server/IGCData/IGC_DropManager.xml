@@ -115,4 +115,33 @@
 	<Monster Index="338" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10000" ItemCount="4" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
 		<Item Cat="14" Index="11" ItemMinLevel="10" ItemMaxLevel="12" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
 	</Monster>
+	
+	<!-- Feather and Crest in Icarus -->
+	<Monster Index="69" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="70" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="71" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="72" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="73" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="74" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<Monster Index="75" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="1" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	
+	<!-- Land of Trials -->
+	<Monster Index="295" MonsterMinLevel="1" MonsterMaxLevel="150" MapNumber="-1" ItemRate="10000" ItemCount="1" CoinReward="1" CoinType="0" CoinValue="150" PlayerMinLevel="1" PlayerMaxLevel="MAX">
+		<Item Cat="14" Index="31" ItemMinLevel="0" ItemMaxLevel="0" Durability="-1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	
 </DropManager>

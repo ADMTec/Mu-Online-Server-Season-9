@@ -116,10 +116,11 @@
 		<Tag Id="6"	 MapNumber="3"	NPCIndex="257"	X="201"	Y="129"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="7" MapNumber="3"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
 		<Tag Id="8" MapNumber="3"	NPCIndex="229"	X="169"	Y="89"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		<Tag Id="9" MapNumber="3"	NPCIndex="582"	X="170"	Y="108"	 DisplayType="3"  SyncType="2"  Name="Pentagram Crafter" />
 		
-		<Tag Id="9" MapNumber="3"	NPCIndex="0"	X="146"	Y="112"	 DisplayType="1"  SyncType="1"  Name="Spot" />
-		<Tag Id="10" MapNumber="3"	NPCIndex="0"	X="153"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Spot" />
-		<Tag Id="11" MapNumber="3"	NPCIndex="0"	X="215"	Y="134"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="10" MapNumber="3"	NPCIndex="0"	X="146"	Y="112"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="11" MapNumber="3"	NPCIndex="0"	X="153"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="12" MapNumber="3"	NPCIndex="0"	X="215"	Y="134"	 DisplayType="1"  SyncType="1"  Name="Spot" />
 <!-- Aida 1 ~ 2 -->
 		<Tag Id="0"	 MapNumber="33"	NPCIndex="369"	X="78"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Osbourne" />
 		<Tag Id="1"	 MapNumber="33"	NPCIndex="370"	X="86"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Jerridon" />
@@ -238,6 +239,37 @@
 		<Tag Id="13" MapNumber="33" NPCIndex="1"  X="74"  Y="226"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="14" MapNumber="33" NPCIndex="1"  X="24"  Y="187"  DisplayType="1"  SyncType="1"  Name="Spot" />
 		<Tag Id="15" MapNumber="33" NPCIndex="1"  X="36"  Y="223"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+<!-- Raklion -->
+		<Tag Id="0" MapNumber="57" NPCIndex="1"  X="170"  Y="213"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="1" MapNumber="57" NPCIndex="1"  X="170"  Y="185"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="2" MapNumber="57" NPCIndex="1"  X="141"  Y="213"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="3" MapNumber="57" NPCIndex="1"  X="95"  Y="213"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="4" MapNumber="57" NPCIndex="1"  X="117"  Y="178"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="5" MapNumber="57" NPCIndex="1"  X="130"  Y="138"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="6" MapNumber="57" NPCIndex="1"  X="197"  Y="145"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="7" MapNumber="57" NPCIndex="1"  X="219"  Y="90"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="8" MapNumber="57" NPCIndex="1"  X="173"  Y="66"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="9" MapNumber="57" NPCIndex="1"  X="124"  Y="95"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="10" MapNumber="57" NPCIndex="1"  X="75"  Y="115"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+<!-- Crywolf -->
+		<Tag Id="0" MapNumber="34" NPCIndex="1"  X="210"  Y="90"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="1" MapNumber="34" NPCIndex="1"  X="139"  Y="79"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="2" MapNumber="34" NPCIndex="1"  X="88"  Y="79"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="3" MapNumber="34" NPCIndex="1"  X="173"  Y="37"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="4" MapNumber="34" NPCIndex="1"  X="107"  Y="197"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="5" MapNumber="34" NPCIndex="1"  X="115"  Y="227"  DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="6" MapNumber="34" NPCIndex="1"  X="162"  Y="205"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="7" MapNumber="34" NPCIndex="1"  X="65"  Y="210"  DisplayType="1"  SyncType="1"  Name="Spot" />
+<!-- Land of trials -->
+		<Tag Id="0" MapNumber="31" NPCIndex="1"  X="55"  Y="55"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="1" MapNumber="31" NPCIndex="1"  X="224"  Y="55"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="2" MapNumber="31" NPCIndex="1"  X="217"  Y="211"  DisplayType="1"  SyncType="1"  Name="Mega Spot" />
+		<Tag Id="3" MapNumber="31" NPCIndex="1"  X="190"  Y="161"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="4" MapNumber="31" NPCIndex="1"  X="153"  Y="84"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="5" MapNumber="31" NPCIndex="1"  X="127"  Y="141"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="6" MapNumber="31" NPCIndex="1"  X="140"  Y="217"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="7" MapNumber="31" NPCIndex="1"  X="57"  Y="224"  DisplayType="1"  SyncType="1"  Name="Hot Spot" />
+		<Tag Id="8" MapNumber="31" NPCIndex="1"  X="33"  Y="179"  DisplayType="1"  SyncType="1"  Name="Mega Spot" />
 <!-- Illusion Template League 1 -->
 		<Tag Id="0"	 MapNumber="98"	NPCIndex="658"	X="169"	Y="84"	 DisplayType="6"  SyncType="0"  Name=" " />
 		<Tag Id="1"	 MapNumber="98"	NPCIndex="659"	X="136"	Y="100"	 DisplayType="6"  SyncType="0"  Name=" " />

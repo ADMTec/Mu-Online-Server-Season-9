@@ -92,7 +92,7 @@
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
-	<Drop Rate="5000" Count="1">
+	<Drop Rate="6300" Count="1">
 		<!-- Leather -->
 		<Item Cat="7" Index="5" ItemMinLevel="7" ItemMaxLevel="11" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="8" Index="5" ItemMinLevel="7" ItemMaxLevel="11" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -117,15 +117,48 @@
 		<Item Cat="9" Index="39" ItemMinLevel="7" ItemMaxLevel="11" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="10" Index="39" ItemMinLevel="7" ItemMaxLevel="11" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="11" Index="39" ItemMinLevel="7" ItemMaxLevel="11" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Plate -->
+		<Item Cat="7" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Sphinx -->
+		<Item Cat="7" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Wind -->
+		<Item Cat="7" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Red Wing -->
+		<Item Cat="7" Index="40" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="40" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="40" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="40" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="40" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<!-- Light Plate -->
+		<Item Cat="7" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 	</Drop>
-	<Drop Rate="4000" Count="1">
+	<Drop Rate="3300" Count="1">
 		<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Bless -->
 		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Chaos -->
 		<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Life -->
 		<Item Cat="14" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Jewel of Creation -->
 	</Drop>
-	<Drop Rate="1000" Count="1">
+	<Drop Rate="200" Count="1">
 		<Item Cat="14" Index="217" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Summon Titan's Anger -->
+	</Drop>
+	<Drop Rate="200" Count="1">
+		<Item Cat="13" Index="31" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- DL Raven Spirit -->
 	</Drop>
 </DropAllow>
 </ItemBag>

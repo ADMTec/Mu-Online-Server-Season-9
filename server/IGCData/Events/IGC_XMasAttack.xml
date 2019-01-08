@@ -60,7 +60,7 @@
 	</Schedule>
 
 	<SpawnSettings>
-		<Monster Index="476" Respawn="0" AttackFirst="1" Name="Cursed Santa" />
+		<!-- <Monster Index="476" Respawn="0" AttackFirst="1" Name="Cursed Santa" />
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
@@ -70,6 +70,6 @@
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
 		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
-		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" />
+		<Monster Index="466" Respawn="0" AttackFirst="1" Name="Cursed Goblin" /> -->
 	</SpawnSettings>
 </XMasAttack>

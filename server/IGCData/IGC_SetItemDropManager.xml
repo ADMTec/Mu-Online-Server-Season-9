@@ -61,7 +61,7 @@
 //
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
-<SetItemDropManager DropUseRate="100"> <!-- 0.0001% -->
+<SetItemDropManager DropUseRate="50"> <!-- 0.00005% -->
 	<Rule MonsterIndex="-1" MonsterMinLevel="1" MonsterMaxLevel="150" PlayerMinLevel="200" PlayerMaxLevel="MAX" MapNumber="2">
 		<ItemDrop Cat="-1" MinLevel="0" MaxLevel="0" Count="1" Skill="-1" Luck="-1" Option="-1" Exc="0" DropRate="1" />
 	</Rule>
