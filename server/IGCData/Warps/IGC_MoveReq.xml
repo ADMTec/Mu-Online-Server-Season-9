@@ -62,7 +62,7 @@
 	<!-- <Warp Index="47" ServerName="Karutan2"			  ClientName="Karutan 2"		 MinLevel="170" MaxLevel="400" ReqMoney="14000" GateNumber="344" /> -->
 	<Warp Index="34" ServerName="Raklion"			  ClientName="Raklion"		 MinLevel="250" MaxLevel="400" ReqMoney="15000" GateNumber="287" />
 	<!-- <Warp Index="33" ServerName="Acheron"	          ClientName="Acheron"       MinLevel="250" MaxLevel="400" ReqMoney="15000" GateNumber="417" /> -->
-	<!-- <Warp Index="42" ServerName="Vulcanus"			  ClientName="Vulcanus"		 MinLevel="250"  MaxLevel="400" ReqMoney="15000" GateNumber="294" /> -->
+	<Warp Index="42" ServerName="Vulcanus"			  ClientName="Vulcanus"		 MinLevel="250"  MaxLevel="400" ReqMoney="15000" GateNumber="294" />
 	<Warp Index="41" ServerName="Barracks"			  ClientName="| Barracks |"		 MinLevel="400"  MaxLevel="400" ReqMoney="15000" GateNumber="256" />
 	<Warp Index="55" ServerName="Crywolf"			  ClientName="Crywolf"		 MinLevel="250"  MaxLevel="400" ReqMoney="16000" GateNumber="114" />
 	<Warp Index="56" ServerName="Valley Of Loren"	  ClientName="Valley Of Loren"		 MinLevel="250"  MaxLevel="400" ReqMoney="16000" GateNumber="94" />

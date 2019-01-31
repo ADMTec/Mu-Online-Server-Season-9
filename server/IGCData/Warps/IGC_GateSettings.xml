@@ -223,7 +223,7 @@
 	<Gate Index="284" Flag="2" MapNumber="56" StartX="62" StartY="174" EndX="63" EndY="179" Target="0" Direction="0" MinLevel="400" Name="" />
 	<Gate Index="285" Flag="1" MapNumber="56" StartX="57" StartY="176" EndX="57" EndY="177" Target="273" Direction="0" MinLevel="400" Name="" />
 	<Gate Index="286" Flag="1" MapNumber="2" StartX="52" StartY="90" EndX="54" EndY="91" Target="287" Direction="0" MinLevel="270" Name="" />
-	<Gate Index="287" Flag="0" MapNumber="57" StartX="222" StartY="211" EndX="225" EndY="212" Target="0" Direction="0" MinLevel="270" Name="" />
+	<Gate Index="287" Flag="0" MapNumber="57" StartX="222" StartY="211" EndX="225" EndY="212" Target="0" Direction="0" MinLevel="250" Name="" />
 	<Gate Index="288" Flag="1" MapNumber="57" StartX="223" StartY="215" EndX="225" EndY="215" Target="289" Direction="0" MinLevel="270" Name="" />
 	<Gate Index="289" Flag="0" MapNumber="2" StartX="52" StartY="88" EndX="54" EndY="89" Target="0" Direction="0" MinLevel="270" Name="" />
 	<Gate Index="290" Flag="1" MapNumber="57" StartX="171" StartY="23" EndX="171" EndY="25" Target="291" Direction="0" MinLevel="270" Name="" />
