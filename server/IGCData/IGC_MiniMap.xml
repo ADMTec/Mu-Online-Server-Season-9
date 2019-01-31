@@ -116,11 +116,12 @@
 		<Tag Id="6"	 MapNumber="3"	NPCIndex="257"	X="201"	Y="129"	 DisplayType="1"  SyncType="1"  Name="Shadow Phantom Soldier" />
 		<Tag Id="7" MapNumber="3"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
 		<Tag Id="8" MapNumber="3"	NPCIndex="229"	X="169"	Y="89"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
-		<Tag Id="9" MapNumber="3"	NPCIndex="582"	X="170"	Y="108"	 DisplayType="3"  SyncType="2"  Name="Pentagram Crafter" />
+		<Tag Id="9" MapNumber="3"	NPCIndex="582"	X="170"	Y="111"	 DisplayType="3"  SyncType="2"  Name="Pentagram Crafter" />
+		<Tag Id="10" MapNumber="3"	NPCIndex="237"	X="171"	Y="104"	 DisplayType="3"  SyncType="2"  Name="Devil Square" />
 		
-		<Tag Id="10" MapNumber="3"	NPCIndex="0"	X="146"	Y="112"	 DisplayType="1"  SyncType="1"  Name="Spot" />
-		<Tag Id="11" MapNumber="3"	NPCIndex="0"	X="153"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Spot" />
-		<Tag Id="12" MapNumber="3"	NPCIndex="0"	X="215"	Y="134"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="11" MapNumber="3"	NPCIndex="0"	X="146"	Y="112"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="12" MapNumber="3"	NPCIndex="0"	X="153"	Y="70"	 DisplayType="1"  SyncType="1"  Name="Spot" />
+		<Tag Id="13" MapNumber="3"	NPCIndex="0"	X="215"	Y="134"	 DisplayType="1"  SyncType="1"  Name="Spot" />
 <!-- Aida 1 ~ 2 -->
 		<Tag Id="0"	 MapNumber="33"	NPCIndex="369"	X="78"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Osbourne" />
 		<Tag Id="1"	 MapNumber="33"	NPCIndex="370"	X="86"	Y="13"	 DisplayType="2"  SyncType="1"  Name="Jerridon" />

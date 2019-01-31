@@ -61,10 +61,10 @@
 		<Spawn Index="494" MapNumber1="4" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1"  Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Devil -->
 		<Spawn Index="495" MapNumber1="33" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Stone Golem -->
 		<Spawn Index="496" MapNumber1="10" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Crust -->
-		<Spawn Index="497" MapNumber1="37" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Satyros -->
-		<Spawn Index="498" MapNumber1="38" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Twin Tail -->
+		<Spawn Index="497" MapNumber1="33" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Satyros -->
+		<Spawn Index="498" MapNumber1="33" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Twin Tail -->
 		<Spawn Index="499" MapNumber1="57" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Iron Knight -->
-		<Spawn Index="500" MapNumber1="56" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Napin -->
-		<Spawn Index="501" MapNumber1="10" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Great Golden Dragon -->
+		<Spawn Index="500" MapNumber1="33" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Golden Napin -->
+		<Spawn Index="501" MapNumber1="57" MapNumber2="-1" MapNumber3="-1" MapNumber4="-1" Distance="30" StartX="1"  StartY="1"  EndX="255" EndY="255" Dir="-1" Count="1" /> <!-- Great Golden Dragon -->
 	</Spot>
 </GoldenInvasion>

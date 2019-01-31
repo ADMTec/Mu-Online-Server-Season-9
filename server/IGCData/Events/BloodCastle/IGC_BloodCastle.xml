@@ -66,13 +66,13 @@
 	</EventSettings>
 	
 	<RewardExpSettings>
-		<Castle Level="0" Multiplier="2.0" /> <!-- Blood Castle 1 -->
-		<Castle Level="1" Multiplier="2.0" /> <!-- Blood Castle 2 -->
-		<Castle Level="2" Multiplier="2.0" /> <!-- Blood Castle 3 -->
-		<Castle Level="3" Multiplier="2.0" /> <!-- Blood Castle 4 -->
-		<Castle Level="4" Multiplier="2.0" /> <!-- Blood Castle 5 -->
-		<Castle Level="5" Multiplier="2.0" /> <!-- Blood Castle 6 -->
-		<Castle Level="6" Multiplier="2.0" /> <!-- Blood Castle 7 -->
-		<Castle Level="7" Multiplier="2.0" /> <!-- Blood Castle 8 -->
+		<Castle Level="0" Multiplier="4.0" /> <!-- Blood Castle 1 -->
+		<Castle Level="1" Multiplier="4.0" /> <!-- Blood Castle 2 -->
+		<Castle Level="2" Multiplier="4.0" /> <!-- Blood Castle 3 -->
+		<Castle Level="3" Multiplier="4.0" /> <!-- Blood Castle 4 -->
+		<Castle Level="4" Multiplier="4.0" /> <!-- Blood Castle 5 -->
+		<Castle Level="5" Multiplier="4.0" /> <!-- Blood Castle 6 -->
+		<Castle Level="6" Multiplier="4.0" /> <!-- Blood Castle 7 -->
+		<Castle Level="7" Multiplier="4.0" /> <!-- Blood Castle 8 -->
 	</RewardExpSettings>
 </BloodCastle>

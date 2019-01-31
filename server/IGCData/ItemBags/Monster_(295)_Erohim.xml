@@ -87,9 +87,9 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Monster_Erohim" ItemRate="1000" SetItemRate="0" MoneyDrop="1000000" BagUseEffect="-1" BagUseRate="10000" />
+<BagConfig Name="Monster_Erohim" ItemRate="10000" SetItemRate="0" MoneyDrop="1000000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
-<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<AddCoin Enable="1" CoinType="0" CoinValue="150" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
 	<Drop Rate="10000" Count="1">

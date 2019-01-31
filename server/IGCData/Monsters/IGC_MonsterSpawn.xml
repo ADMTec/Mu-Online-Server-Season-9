@@ -564,7 +564,8 @@
 			<Spawn Index="257" Distance="0" StartX="166" StartY="85" Dir="2" /> <!-- Helper -->
 			<Spawn Index="257" Distance="0" StartX="201" StartY="129" Dir="2" /> <!-- Helper -->
 			<Spawn Index="257" Distance="0" StartX="167" StartY="118" Dir="1" /> <!-- Helper -->
-			<Spawn Index="582" Distance="0" StartX="170" StartY="108" Dir="3" /> <!-- Pentagram Crafter -->
+			<Spawn Index="582" Distance="0" StartX="170" StartY="111" Dir="3" /> <!-- Pentagram Crafter -->
+			<Spawn Index="237" Distance="0" StartX="171" StartY="104" Dir="3" /> <!-- Charon -->
 			
 			<Spawn Index="247" Distance="1" StartX="173" StartY="119" Dir="-1" /> <!-- Guard Ranged -->
 			<Spawn Index="249" Distance="1" StartX="196" StartY="118" Dir="-1" /> <!-- Guard Melee -->
@@ -1315,7 +1316,11 @@
 			<Spawn Index="573" Distance="3" StartX="81" StartY="31" EndX="81" EndY="31" Dir="-1" Count="3" /> <!-- Crypta -->
 			<Spawn Index="572" Distance="3" StartX="81" StartY="31" EndX="81" EndY="31" Dir="-1" Count="5" /> <!-- Gollock -->
 			
-			<Spawn Index="588" Distance="5" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="10"  Element="6"/> <!-- Ubaid Elemental Knight -->
+			<Spawn Index="290" Distance="3" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="2" /> <!-- Lizard Warrior -->
+			<Spawn Index="291" Distance="3" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="2" /> <!-- Fire Golem -->
+			<Spawn Index="292" Distance="3" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="2" /> <!-- Queen Bee -->
+			<Spawn Index="293" Distance="3" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="2" /> <!-- Poison Golem -->
+			<Spawn Index="294" Distance="3" StartX="84" StartY="13" EndX="84" EndY="13" Dir="-1" Count="2" /> <!-- Ax Warrior -->
 			
 			<Spawn Index="549" Distance="5" StartX="68" StartY="6" EndX="68" EndY="6" Dir="-1" Count="3" /> <!-- Bloody Orc -->
 			<Spawn Index="551" Distance="5" StartX="68" StartY="6" EndX="68" EndY="6" Dir="-1" Count="5" /> <!-- Bloody Golem -->
@@ -1329,12 +1334,16 @@
 			<Spawn Index="449" Distance="5" StartX="17" StartY="6" EndX="17" EndY="6" Dir="-1" Count="3" /> <!-- Blaze Napin -->
 			<Spawn Index="448" Distance="5" StartX="17" StartY="6" EndX="17" EndY="6" Dir="-1" Count="5" /> <!-- Ghost Napin -->
 			
+			<Spawn Index="588" Distance="5" StartX="48" StartY="95" EndX="48" EndY="95" Dir="-1" Count="2" Element="6"/> <!-- Elemental Knight -->
 			<Spawn Index="587" Distance="5" StartX="48" StartY="95" EndX="48" EndY="95" Dir="-1" Count="6" Element="6"/> <!-- Elemental Beast -->
 			
-			<Spawn Index="588" Distance="5" StartX="47" StartY="71" EndX="47" EndY="71" Dir="-1" Count="6" Element="6"/> <!-- Elemental Knight -->
+			<Spawn Index="588" Distance="5" StartX="47" StartY="71" EndX="47" EndY="71" Dir="-1" Count="2" Element="6"/> <!-- Elemental Knight -->
+			<Spawn Index="587" Distance="5" StartX="47" StartY="71" EndX="47" EndY="71" Dir="-1" Count="6" Element="6"/> <!-- Elemental Beast -->
 			
-			<Spawn Index="588" Distance="5" StartX="67" StartY="82" EndX="67" EndY="82" Dir="-1" Count="6" Element="6"/> <!-- Elemental Knight -->
+			<Spawn Index="588" Distance="5" StartX="67" StartY="82" EndX="67" EndY="82" Dir="-1" Count="2" Element="6"/> <!-- Elemental Knight -->
+			<Spawn Index="587" Distance="5" StartX="67" StartY="82" EndX="67" EndY="82" Dir="-1" Count="6" Element="6"/> <!-- Elemental Beast -->
 		
+			<Spawn Index="588" Distance="5" StartX="67" StartY="67" EndX="67" EndY="67" Dir="-1" Count="2" Element="6"/> <!-- Elemental Knight -->
 			<Spawn Index="587" Distance="5" StartX="67" StartY="67" EndX="67" EndY="67" Dir="-1" Count="6" Element="6"/> <!-- Elemental Beast -->
 			
 			<Spawn Index="576" Distance="5" StartX="48" StartY="57" EndX="48" EndY="57" Dir="-1" Count="4"/> <!-- Nacondra -->
@@ -3456,6 +3465,7 @@
 	<Map Number="41" Name="Barracks of Balgass">
 		<Spot Type="0" Description="NPC">
 			<Spawn Index="408" Distance="0" StartX="119" StartY="168" Dir="2" /> <!-- -->
+			<Spawn Index="406" Distance="0" StartX="125" StartY="169" Dir="2" /> <!-- Devin -->
 		</Spot>
 		<Spot Type="2" Description="Default">
 			<Spawn Index="409" Distance="30" StartX="39" StartY="101" Dir="-1" /> <!-- -->

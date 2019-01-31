@@ -91,7 +91,59 @@
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="800" MapNumber="-1">
-	<Drop Rate="10000" Count="1">
+	<Drop Rate="500" Count="1">
+		<!-- Red Dragon -->
+		<Item Cat="7" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Ring of Earth -->
+		<Item Cat="13" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Lightning Sword -->
+		<Item Cat="0" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Bronze Shield -->
+		<Item Cat="6" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Black Dragon Pants -->
+		<Item Cat="9" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Guardian -->
+		<Item Cat="7" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Silver Bow -->
+		<Item Cat="4" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Pendant of Ability -->
+		<Item Cat="13" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Iris -->
+		<Item Cat="7" Index="36" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="36" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Legendary -->
+		<Item Cat="7" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Ring of Fire -->
+		<Item Cat="13" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Eclipse -->
+		<Item Cat="9" Index="35" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Staff of Destruction -->
+		<Item Cat="5" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		
+		<!-- Ancient -->
+		<Item Cat="8" Index="41" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="41" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+		<!-- Holy Storm Claw -->
+		<Item Cat="0" Index="33" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="1" SocketCount="0" ElementalItem="0" />
+	</Drop>
+	<Drop Rate="9500" Count="1">
 		<!-- Red Dragon -->
 		<Item Cat="7" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="8" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -157,6 +209,8 @@
 		<!-- Book of Samut -->
 		<Item Cat="5" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		
+		<!-- Lightning Sword -->
+		<Item Cat="0" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Battle Axe -->
 		<Item Cat="1" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="-1" Luck="-1" Option="-1" Exc="-3" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<!-- Salamander Sword -->
