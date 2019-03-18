@@ -24,3 +24,4 @@
 61@1@553@Horn of Uniria@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@919|@6658@2@1@1145|@0@508@669
 61@2@554@Guardian Angel@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@920|@6656@2@1@1147|@0@508@669
 61@3@555@Imp@170@1@Can be used by all classes.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@921|@6657@2@1@1149|@0@508@669
+62@1@556@Talisman of Luck@170@50@Increases chances when combining items#with Chaos Goblin in Noria@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@926|@7221@2@2@1158|1159|@0@508@669
